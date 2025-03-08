@@ -1,0 +1,3855 @@
+Giant		1.3794345	103.8879500\
+NTUC FairPrice		1.3725281	103.8939238\
+NTUC Fairprice		1.3824983	103.8936240\
+NTUC FairPrice		1.3575602	103.8841371\
+Suki-ya	restaurant	1.3594895	103.8854848\
+Sengkang 266 Coffeeshop	food_court	1.3817548	103.8970993\
+Giant		1.3815806	103.8970373\
+Jumbo Seafood Gallery	restaurant	1.2892876	103.8483036\
+NTUC FairPrice Finest		1.3014954	103.8396580\
+Hooters	restaurant	1.2899587	103.8458766\
+	restaurant	1.3019555	103.8401729\
+	restaurant	1.3021014	103.8402158\
+	restaurant	1.3022644	103.8402845\
+	restaurant	1.3024360	103.8403360\
+Red ahous	restaurant	1.2999047	103.8499576\
+Como Cuisine	restaurant	1.3058557	103.8105878\
+Jumbo Seafood @ Dempsey	restaurant	1.3043031	103.8099818\
+Margarita's	restaurant	1.3039505	103.8102061\
+Pearl of India	restaurant	1.3108481	103.8352923\
+	restaurant	1.2950285	103.8526175\
+Roia	restaurant	1.3149885	103.8153732\
+Liad Fan Hong Kong Soy Sauce Chicken Rice & Noodle	restaurant	1.2819879	103.8432653\
+People's Park Food Centre Blk 32	restaurant	1.2849590	103.8425704\
+Seah Im Food Centre	food_court	1.2666406	103.8191735\
+Cold Storage Fresh		1.3001235	103.8560555\
+Albert Centre Food Centre	food_court	1.3011485	103.8540987\
+Thasevi Food Jalan Kayu Prata	restaurant	1.3961946	103.8728672\
+NTUC FairPrice		1.2925348	103.8113068\
+Empress Road Food Centre	restaurant	1.3161183	103.8054965\
+Redhill Food Centre	food_court	1.2872986	103.8183277\
+NTUC FairPrice		1.2812832	103.8100855\
+La Villa	restaurant	1.2956087	103.8335603\
+Bgain 261	food_court	1.2986130	103.8515987\
+Boon Tong Kee \uc0\u25991 \u26481 \u35352 	restaurant	1.2951492	103.8294198\
+Siam Society	restaurant	1.3475169	103.8674610\
+Shahi Maharaja	restaurant	1.2868595	103.8494116\
+1080 Eating House	food_court	1.2808194	103.8232944\
+Foods Treasure	restaurant	1.3353326	103.8448031\
+	restaurant	1.2925931	103.8417140\
+Justin Flavours of Asia	restaurant	1.2833026	103.8582884\
+Good Old Days	restaurant	1.2516796	103.8172719\
+Lorong 4 Blk 93 Market and Hawker Centre	restaurant	1.3384470	103.8494400\
+	restaurant	1.3378611	103.8448012\
+Hongdae Korean BBQ	restaurant	1.2790473	103.8417530\
+NTUC FairPrice		1.2932215	103.8268848\
+NTUC FairPrice		1.3502710	103.8485161\
+No Signboard Seafood Restaurant	restaurant	1.2890840	103.8556767\
+NTUC Fairprice		1.3238372	103.8557907\
+NTUC FairPrice		1.2909214	103.8026888\
+NTUC FairPrice		1.2864697	103.8265783\
+J.Kayu.Prata	restaurant	1.3982014	103.8732842\
+Jerry.Grill	restaurant	1.3973556	103.8729591\
+Cold Storage		1.3874746	103.8693009\
+Casuarina Curry	restaurant	1.3771592	103.8280889\
+Kebun Baru Food Centre	food_court	1.3671947	103.8400089\
+Cold Storage		1.3916794	103.8948873\
+NTUC Fairprice		1.3755710	103.8795488\
+FC	restaurant	1.3809719	103.8409463\
+Jack's Place	restaurant	1.3738286	103.8455538\
+Sheng Siong		1.3677466	103.8364503\
+Sheng Shiong		1.3702891	103.8434139\
+Melben Seafood	restaurant	1.3685274	103.8370269\
+NTUC FairPrice Xtra		1.3693018	103.8488529\
+Roast.Duck	restaurant	1.3709005	103.8426087\
+ChenJi	restaurant	1.3767082	103.8398356\
+	food_court	1.3519813	103.8369970\
+NTUC FairPrice		1.3543366	103.8302338\
+Cedele	restaurant	1.3874537	103.8691555\
+Mai Thai Restuarant	restaurant	1.3875365	103.8694863\
+Rakuichi Japanese Restaurant	restaurant	1.3872893	103.8694841\
+ACE Marketplace		1.2777764	103.8310198\
+NTUC FairPrice		1.2973182	103.8383052\
+Crystal Cafe	restaurant	1.2976221	103.8384714\
+Saveur	restaurant	1.2967290	103.8549910\
+ABC Brickworks Food Centre	food_court	1.2868658	103.8081523\
+Arcadia.Home.Rest	restaurant	1.3345564	103.8099494\
+Su Shi Piao Xiang Vegetarian Food (\uc0\u32032 \u39135 \u39108 \u39321 )	restaurant	1.3000559	103.8524194\
+Hummerston's	restaurant	1.2920836	103.8413648\
+Shunjuu Izakaya	restaurant	1.2910861	103.8409947\
+Singapore Zam Zam Murtabak	restaurant	1.3022755	103.8585420\
+Long Bar Steak House	restaurant	1.2953788	103.8536013\
+Tanjong Pagar Food Centre	restaurant	1.2765516	103.8430933\
+Amoy Street Food Centre	food_court	1.2793519	103.8466661\
+China Square Food Court	restaurant	1.2828473	103.8493041\
+Jalan Kukoh Food Centre	food_court	1.2882238	103.8399499\
+Telok Blangah Rise Food Centre	restaurant	1.2724085	103.8220441\
+Bukit Merah Central Food Centre	food_court	1.2836267	103.8172335\
+Jalan Bukit Merah Food Centre	restaurant	1.2799986	103.8260191\
+Seafood	restaurant	1.2814319	103.8232287\
+Bukit Merah View Food Centre	food_court	1.2855440	103.8219220\
+TungLok Seafood	restaurant	1.2843660	103.8654257\
+Marguerite	restaurant	1.2848639	103.8640308\
+Supertree Dining	food_court	1.2814409	103.8643859\
+Telok Blangah Food Centre	food_court	1.2733667	103.8076325\
+Yum Cha Chinatown	restaurant	1.2829189	103.8439174\
+Hong Lim Food Centre	restaurant	1.2852802	103.8459808\
+Cold Storage		1.3010098	103.8450553\
+Zion Riverside Food Centre	food_court	1.2924449	103.8312121\
+Mei Ling Market and Food Centre	food_court	1.2932372	103.8028827\
+Commonwealth Crescent Food Centre	food_court	1.3069029	103.8004288\
+Fusion Spoon	restaurant	1.3077804	103.8183640\
+Sakunthala's	restaurant	1.3092868	103.8557553\
+Malaysian Food Street	food_court	1.2571205	103.8216224\
+Boon Tong Kee	restaurant	1.3198491	103.8623490\
+NTUC FairPrice Finest		1.3004599	103.8371761\
+NTUC FairPrice Xtra		1.3510423	103.8722775\
+Cold Storage		1.3020336	103.8763916\
+NTUC FairPrice		1.2744573	103.8436539\
+NTUC FairPrice		1.2760543	103.8431360\
+FairPrice Finest @ Scotts		1.3059351	103.8328831\
+NTUC FairPrice		1.2829291	103.8175344\
+NTUC FairPrice		1.3239226	103.8098403\
+NTUC FairPrice		1.3186022	103.8944483\
+NTUC Fairprice		1.3205990	103.8442909\
+Cold Storage		1.2643809	103.8200630\
+CS Fresh		1.2938703	103.8319081\
+Cold Storage		1.3021406	103.8353196\
+Cold Storage		1.3168348	103.8434897\
+Cold Storage		1.3501335	103.8732256\
+Cold Storage		1.3593977	103.8849418\
+Cold Storage Fresh		1.2934639	103.8531044\
+CS Fresh Gold		1.3035875	103.8359057\
+Cold Storage Fresh Gold		1.3048473	103.8242276\
+ThreeSixty		1.3041529	103.8316657\
+	restaurant	1.2946545	103.8526127\
+Caf\'e9 Marc	food_court	1.3388680	103.8858220\
+Hard Rock Cafe	restaurant	1.3058867	103.8281771\
+Black Angus Steak House	restaurant	1.3066734	103.8281974\
+Golden Mile Food Centre	food_court	1.3031546	103.8638712\
+Gerry's Grill	restaurant	1.3028350	103.8405848\
+Dashi Master Marusaya	restaurant	1.2899821	103.8373277\
+Long Beach @ Robertson Quay	restaurant	1.2896744	103.8391163\
+Epicurious	restaurant	1.2903649	103.8396179\
+Kingdom of Belgians - KOB	restaurant	1.2898683	103.8374995\
+NTUC Fairprice		1.3151914	103.8495849\
+Giant		1.3201477	103.8873042\
+Modesto's	restaurant	1.3065868	103.8282448\
+Jaan	restaurant	1.2931658	103.8533008\
+Bosses	restaurant	1.2635998	103.8209327\
+Shinji by Kanesaka	restaurant	1.2947239	103.8545860\
+NTUC FairPrice		1.2855811	103.8451805\
+Casa Vostra	restaurant	1.2932247	103.8532339\
+Daiso		1.3114628	103.8568212\
+MOS Burger	restaurant	1.3001427	103.8445573\
+Tim Ho Wan	restaurant	1.2998171	103.8452525\
+NTUC FairPrice		1.3115258	103.8563897\
+Cold Storage		1.3201330	103.8439350\
+Food Junction	food_court	1.3176679	103.8437021\
+Food Republic	food_court	1.2646789	103.8223039\
+Food Republic	food_court	1.3011564	103.8385028\
+Kopitiam	food_court	1.3105933	103.8462357\
+Food Junction	food_court	1.2650223	103.8200245\
+Food Junction	food_court	1.2938460	103.8316866\
+Food Junction	food_court	1.3509344	103.8489535\
+Food Junction	food_court	1.3501100	103.8730533\
+Kopitiam	food_court	1.2648706	103.8211002\
+Kopitiam	food_court	1.3188222	103.8939323\
+Kopitiam	food_court	1.3196297	103.8439512\
+Koufu	food_court	1.3542402	103.8301894\
+Foodies' Garden	food_court	1.3724717	103.8939574\
+Kopitiam	food_court	1.3919126	103.8950188\
+The Food Place	food_court	1.2944643	103.8530463\
+Kopitiam	food_court	1.2865813	103.8265398\
+Kopitiam	food_court	1.3010432	103.8451347\
+Kopitiam	food_court	1.3216572	103.8457819\
+Food Republic	food_court	1.2947403	103.8586307\
+Food Republic	food_court	1.3040224	103.8329388\
+Food Republic	food_court	1.3510291	103.8724937\
+Capital Restaurant Pte Ltd	restaurant	1.2809399	103.8409356\
+Pasta Inc	restaurant	1.2800703	103.8416312\
+Grand Mandarina	restaurant	1.2808779	103.8408840\
+Sakunthala's Food Palace	restaurant	1.3087454	103.8512572\
+Ourmakan Shop	restaurant	1.3086747	103.8512225\
+New Everest Kitchen Singapore	restaurant	1.3086914	103.8516608\
+Swadishta	restaurant	1.3085149	103.8515264\
+Seven eleven		1.3234468	103.8173675\
+De Classic Golden Spoon Pte Ltd	restaurant	1.2837821	103.8333755\
+Nic & Tom Eatery	restaurant	1.2816392	103.8444911\
+Spring Court Resaurant	restaurant	1.2843885	103.8445532\
+Lee Tong Kee Ipoh Hor Fun Restaurant	restaurant	1.2815637	103.8447442\
+The House of Steamboat	restaurant	1.2982395	103.8568606\
+Ramen Keisuke Tonkotsu King Four Season	restaurant	1.3010477	103.8552544\
+NTUC FairPrice		1.3571301	103.8438701\
+	restaurant	1.2887571	103.8511500\
+KPT \uc0\u21654 \u21857 \u24215 	food_court	1.3588854	103.8441686\
+Food Court	restaurant	1.3500858	103.8431488\
+The Cajun Kings	restaurant	1.3474806	103.8675130\
+Ya Hua Bak Kut Teh	restaurant	1.2722430	103.8420930\
+New Green Pasture Cafe (\uc0\u26032 \u32160 \u22290 \u26377 \u27231 \u39178 \u29983 \u26009 \u29702 \u22346 )	restaurant	1.3006065	103.8520905\
+Picotin	restaurant	1.2870413	103.8534850\
+Ci Yan Organic Vegetarian Health Food	restaurant	1.2819958	103.8448630\
+La Pizzaiola	restaurant	1.3474045	103.8676103\
+Ah Hua Kelong	restaurant	1.3472011	103.8678687\
+Sunset Grill & Pub	restaurant	1.3968182	103.8729026\
+Shish Mahal	restaurant	1.3040995	103.8505894\
+Tippling Club	restaurant	1.2794906	103.8437631\
+Shahi Maharani	restaurant	1.2935610	103.8532974\
+Eight Treasures Vegetarian	restaurant	1.2811836	103.8445200\
+NTUC Fairprice		1.3269686	103.8464206\
+NTUC FairPrice		1.2847507	103.8293553\
+Pizza Hut	restaurant	1.2652349	103.8200684\
+Astons	restaurant	1.3108384	103.8565917\
+Brewerkz	restaurant	1.3067957	103.8280790\
+Food Lot	restaurant	1.3055197	103.8230452\
+Bukit Merah Polyclinic	clinic	1.2836914	103.8170178\
+Fo You Yuan Vegetarian Restaurant (\uc0\u20315 \u26377 \u32227 \u32032 \u39135 \u39184 \u39208 )	restaurant	1.3101066	103.8569267\
+New Fut Kai Vegetarian Restaurant (\uc0\u26032 \u20315 \u30028 \u32032 \u39135 \u39208 )	restaurant	1.3106195	103.8587282\
+Zen Fut Sai Kai Vegetarian Restaurant (\uc0\u27491 \u20315 \u19990 \u30028 \u32032 \u39135 \u31038 )	restaurant	1.3098037	103.8572009\
+Fou Guan Yuan Vegetarian Food (\uc0\u20315 \u20809 \u32227 )	restaurant	1.3088075	103.8616004\
+Xin Man Yuan Vegetarian Restaurant (\uc0\u24515 \u28415 \u22290 \u32032 \u39135 \u39208 )	restaurant	1.2859065	103.8441611\
+The REAL Hut (\uc0\u21407 \u24875 \u23567 \u31689 )	restaurant	1.3174060	103.8787800\
+Delisnacks (\uc0\u24503 \u21033 \u39135 )	restaurant	1.3170358	103.8797121\
+Mufiz Prata Corner	restaurant	1.3122972	103.8780271\
+Hong Kong Dim Sum Shop	restaurant	1.3002619	103.8521025\
+Kwan Im Vegetarian Restaurant (\uc0\u26481 \u21335 \u20126 \u35264 \u38899 \u32032 \u39135 \u39208 )	restaurant	1.3010141	103.8532332\
+Xing Hua Vegetarian Restaurant (\uc0\u33288 \u21270 \u32032 \u39135 \u39208 )	restaurant	1.3005082	103.8519219\
+\uc0\u40779  \u21654 \u21737 \u39151 	restaurant	1.3015361	103.8539694\
+Herbivore	restaurant	1.3006382	103.8520335\
+(Heng) Swee Kee	food_court	1.3025692	103.8525444\
+Tekka Food Centre	restaurant	1.3059833	103.8505450\
+Haidilao Hot Pot	restaurant	1.2993421	103.8541187\
+Ah Yat Abalone	restaurant	1.2975111	103.8527835\
+Suk Seong Do	restaurant	1.2746436	103.8437057\
+Yayoi	restaurant	1.2995604	103.8539174\
+	restaurant	1.3148118	103.8505932\
+	restaurant	1.3152152	103.8501465\
+	restaurant	1.3156585	103.8494849\
+Saizeriya	restaurant	1.3003524	103.8395762\
+Saizeriya	restaurant	1.3114149	103.8561473\
+Josh's Grill	restaurant	1.3011549	103.8386801\
+Gyoza King	restaurant	1.2768168	103.8437402\
+Ikkousha Hakata Ramen	restaurant	1.2770322	103.8432452\
+Keisuke Tonkotsu King	restaurant	1.2767774	103.8440193\
+Ramen Keisuke Tori King	restaurant	1.2747147	103.8437219\
+Pine Tree Cafe (\uc0\u38263 \u26149 \u27193 )	restaurant	1.3005463	103.8522248\
+Pine Tree Cafe (\uc0\u38263 \u26149 \u27193 )	restaurant	1.3005693	103.8520359\
+Tian Yuan Healthy Vegetarian Food Paradise (\uc0\u30000 \u22290 \u20581 \u24247 \u32032 \u39135 \u21697 )	restaurant	1.3004584	103.8523164\
+Bikanervala	restaurant	1.3051324	103.8520943\
+Chettynad Curry Palace (\uc0\u2970 \u3014 \u2975 \u3021 \u2996 \u2984 \u2992 \u2974  \u2965 \u2993 \u3007  \u2986 \u3015 \u2994 \u3000 \u3021 )	restaurant	1.3058229	103.8543081\
+KHAN Restaurant	restaurant	1.3059360	103.8523217\
+Premaas Cuisine	restaurant	1.3049640	103.8520148\
+Restaurant Barakath (\uc0\u2992 \u3014 \u3000 \u3021 \u2975 \u3021 \u2975 \u3006 \u2992 \u2985 \u3021 \u2975 \u3021  \u2986 \u2992 \u2965 \u3021 \u2965 \u2980 \u3021 )	restaurant	1.3049832	103.8522617\
+Veggie Cottage	restaurant	1.3049559	103.8522900\
+Song Fa Bak Kut Teh	restaurant	1.2889927	103.8477278\
+Heng Heng Bak Kut Teh	restaurant	1.3144696	103.8537584\
+Ang Mo Kio Blk 724 Food Centre	restaurant	1.3721931	103.8466012\
+Teck Ghee Food Centre	restaurant	1.3640921	103.8482497\
+AMK 347 Foodhouse	restaurant	1.3676486	103.8485531\
+Brewerkz	restaurant	1.3055951	103.8109421\
+Tawandang	restaurant	1.3057186	103.8115882\
+Singapore Seafood Republic	restaurant	1.2574990	103.8226050\
+Astons	restaurant	1.2571780	103.8223370\
+	restaurant	1.2573150	103.8214240\
+Slappy Cakes	restaurant	1.2571570	103.8214220\
+Din Tai Fung	restaurant	1.2572580	103.8205630\
+Pisco	restaurant	1.2566280	103.8203750\
+Harry's	restaurant	1.2574600	103.8202870\
+Hard Rock Cafe	restaurant	1.2572651	103.8199374\
+TungLok Heen	restaurant	1.2553321	103.8201740\
+osia	restaurant	1.2554520	103.8199263\
+	food_court	1.3088993	103.8615722\
+Les Bouchons	restaurant	1.2813050	103.8456947\
+NTUC FairPrice		1.3652321	103.8650384\
+OverEasy Bar and Diner	restaurant	1.2861761	103.8541849\
+Vatan se	restaurant	1.2964148	103.8667462\
+NTUC FairPrice		1.3317620	103.8505926\
+Food Loft	restaurant	1.3147043	103.8821212\
+Sushi Kou	restaurant	1.2768053	103.8438218\
+Teppei	restaurant	1.2767911	103.8439220\
+Brotzeit	restaurant	1.3011840	103.8381443\
+Chabuton	restaurant	1.3013612	103.8380529\
+DaeSsikSin	restaurant	1.3005658	103.8389156\
+Haidilao Hot Pot	restaurant	1.3008667	103.8381834\
+Paradise Inn	restaurant	1.3011326	103.8382215\
+Trattoria	restaurant	1.3010723	103.8385346\
+\uc0\u12420 \u12424 \u12356 \u36562 	restaurant	1.3006737	103.8384800\
+Nantsuttei	restaurant	1.3007683	103.8396098\
+Tung Lok Seafood	restaurant	1.3007269	103.8400011\
+NTUC Fairprice		1.3088289	103.8619207\
+Harry's	restaurant	1.2747977	103.8003676\
+Hong Kong Street Chun Tat Kee	restaurant	1.3257481	103.8497223\
+Tandoori Corner	restaurant	1.3258161	103.8500978\
+Giant		1.3321583	103.8573011\
+	restaurant	1.3352071	103.8568579\
+Geylang Serai Food Market	food_court	1.3167465	103.8982156\
+Salt tapas & bar	restaurant	1.2945707	103.8534616\
+Seafood Paradise	restaurant	1.2890836	103.8629672\
+Din Tai Fung	restaurant	1.3342935	103.8893341\
+Food Republic	food_court	1.3341952	103.8898055\
+S\uc0\u333  Ramen	restaurant	1.3342240	103.8893991\
+No Signboard Seafood	restaurant	1.3130847	103.8827225\
+Happy Hawkers	food_court	1.2857711	103.8266235\
+Il Clay Pizzeria	restaurant	1.2898838	103.8457516\
+Bao Today	restaurant	1.3012518	103.8380205\
+March\'e9	restaurant	1.3009256	103.8382573\
+Cold Storage		1.3075324	103.8289836\
+Buddy Hoagies	restaurant	1.2985038	103.8490732\
+I'm Kim	restaurant	1.2993051	103.8489594\
+Saizeriya	restaurant	1.2996984	103.8479449\
+FairPrice Xtra @ Sports Hub		1.3041749	103.8728359\
+My Kampung	food_court	1.3024009	103.8734077\
+Evertop Family Restaurant	restaurant	1.3141514	103.8991020\
+Gateway Minimart & Trading		1.3146529	103.8985494\
+Bungkus	restaurant	1.3155598	103.8979097\
+Home of Seafood	restaurant	1.3132870	103.8997384\
+Kak Wan's Kitchen	restaurant	1.3138673	103.8990757\
+Minang House	restaurant	1.3143364	103.8987947\
+	restaurant	1.3135465	103.8995454\
+	restaurant	1.3136419	103.8996786\
+Al Barakah		1.3151015	103.8982503\
+81 Wholesalers & Trading		1.3142952	103.8988241\
+Otoko Ramen	restaurant	1.2874116	103.8050802\
+Daebak Korean Food	restaurant	1.3020237	103.8498865\
+Royal BBQ & Grill	restaurant	1.3092657	103.8576924\
+I-Tec		1.3095028	103.8574489\
+Putien	restaurant	1.3096114	103.8573564\
+Arbite	restaurant	1.3641429	103.8655058\
+Victor's Kitchen	restaurant	1.3003433	103.8505717\
+Ayam Penyet Ria	restaurant	1.3048342	103.8337543\
+Bakehouse	restaurant	1.2875089	103.8051593\
+Mamanda	restaurant	1.3022173	103.8600366\
+Ristorante Takada	restaurant	1.2916282	103.8077152\
+Fifth Season	restaurant	1.3078250	103.8505847\
+Me@OUE	restaurant	1.2827870	103.8530041\
+Tendon Ginza Itsuki	restaurant	1.2773248	103.8436979\
+Canopy Garden Dining	restaurant	1.3624809	103.8473521\
+Good Luck BBQ	restaurant	1.2823574	103.8421110\
+G7 Sinma Live Bull Frog Clayport Porridge	restaurant	1.2825544	103.8422742\
+Rong Cheng Chuan Wei Hotpot Restaurant	restaurant	1.2823984	103.8421439\
+Tiong Shian Porridge House	restaurant	1.2826206	103.8423355\
+Tak Po	restaurant	1.2826680	103.8436472\
+CTY Kitchen	restaurant	1.2827605	103.8434816\
+Tiong Bahru Boneless Hainanese Chicken Rice	restaurant	1.2828318	103.8433556\
+Holland Village XO Fish Head Bee Hoon Restaurant	restaurant	1.2820529	103.8444576\
+Hong Hock Eating House	food_court	1.2830895	103.8459013\
+Noodle Man	restaurant	1.2820979	103.8443811\
+Ocean Curry Fish Head	restaurant	1.2798195	103.8472770\
+Mei Heong Yuen Dessert	restaurant	1.2832907	103.8433011\
+Wonderful Durian	restaurant	1.2827948	103.8441473\
+Chen Fu Ji Restaurant	restaurant	1.2821476	103.8443059\
+Fatty Weng Restaurant	restaurant	1.2823613	103.8439241\
+Xiang Signature	restaurant	1.2822484	103.8443911\
+Yu Cun Ren Jia	restaurant	1.2823268	103.8442663\
+Swis Ling Bak Kut Teh Seafood Restaurant	restaurant	1.2803588	103.8407583\
+Jing Hua Xiao Chi	restaurant	1.2800330	103.8433726\
+Wan Nian Stone Pot Fish	restaurant	1.2829029	103.8432360\
+Yuet Sing Seafood	restaurant	1.2830012	103.8430703\
+Chuan Jiang Hao Zi Steamboat Restaurant	restaurant	1.2821002	103.8446485\
+Ju Dian	restaurant	1.2821243	103.8446064\
+Xie Lao Song	restaurant	1.2821489	103.8445626\
+Ba Dao Guan	restaurant	1.2833231	103.8443027\
+Wan Nian Stone Pot Fish	restaurant	1.2827846	103.8434405\
+Bei Fang Feng Wei	restaurant	1.2842886	103.8437515\
+\uc0\u34560 \u37111 \u22346 	restaurant	1.2832104	103.8434499\
+Huang He Lou	restaurant	1.2832863	103.8435743\
+Lee Kui (Ah Hoi) Restaurant	restaurant	1.2840679	103.8441940\
+Old Chengdu Restaurant	restaurant	1.2838961	103.8436322\
+Tiantian Xiangshang	restaurant	1.2831550	103.8435344\
+Oriental Chinese Restaurant	restaurant	1.2842257	103.8437033\
+Sichuan Restaurant	restaurant	1.2841529	103.8436365\
+Xiang Man Lou Chinese Restaurant	restaurant	1.2830868	103.8439081\
+Yi Xin Vegeterian Food	restaurant	1.2829783	103.8438287\
+Chong Qing Grilled Fish	restaurant	1.2838922	103.8445003\
+Dong Fang Cai Guan	restaurant	1.2838218	103.8446170\
+	restaurant	1.2790682	103.8450744\
+Si Wei Mao Cai	restaurant	1.2836223	103.8452334\
+Sichuan Village Restaurant	restaurant	1.2838695	103.8445387\
+Tian Fu Hua Ren	restaurant	1.2836090	103.8452541\
+Buko Nero	restaurant	1.2775936	103.8434037\
+Miz Japanese Restaurant	restaurant	1.2771940	103.8366465\
+Inaho's Kitchen Bar	restaurant	1.2779492	103.8431369\
+Pasta Brava	restaurant	1.2776835	103.8427430\
+Sui Japanese Dining & Sake	restaurant	1.2791041	103.8421219\
+L'Entrecote	restaurant	1.2784557	103.8427687\
+Zen	restaurant	1.2794610	103.8403366\
+Bistro Soori	restaurant	1.2801271	103.8420477\
+Italian Food & Wine Pte Ltd	restaurant	1.2798518	103.8419649\
+Nicholas le Restaurant	restaurant	1.2802901	103.8419437\
+Taratata Bistrot	restaurant	1.2801501	103.8414805\
+Buyan Russian Haute Cuisine & Caviar Bar	restaurant	1.2792088	103.8428133\
+Sabio Tapas Bar & Restaurant	restaurant	1.2793251	103.8429893\
+Flower Pig 360 \uc0\u44867 \u46076 \u51648  360 Aged Meat	restaurant	1.2793726	103.8437383\
+Meatchelin	restaurant	1.2788617	103.8438220\
+Han Kook Gwan Korean Restaurant	restaurant	1.2797725	103.8438174\
+Arterial	restaurant	1.2827216	103.8445497\
+Fat Cow Palace	restaurant	1.2830323	103.8437491\
+Yummy Viet	restaurant	1.2822973	103.8443048\
+Barrio Chino	restaurant	1.2819808	103.8457782\
+Da Paolo	restaurant	1.2819446	103.8457519\
+Noti Restaurant & Bar	restaurant	1.2820954	103.8458526\
+Gum Gang Won Korean Fusion Restaurant	restaurant	1.2831841	103.8434951\
+Sawasdee Thai Food Pte Ltd	restaurant	1.2833049	103.8446317\
+The Singapore Heritage Restaurant	restaurant	1.2834692	103.8443670\
+Togi Korean Restaurant	restaurant	1.2840024	103.8443088\
+Jang Won Korean Restaurant Pte Ltd	restaurant	1.2834450	103.8444035\
+Le Carillon De L'Angelus	restaurant	1.2809898	103.8456662\
+Ox Well & Co	restaurant	1.2813705	103.8456514\
+Tapas	restaurant	1.2812191	103.8455203\
+Cugini Trattoria Pizzeria	restaurant	1.2816831	103.8457131\
+FRY Bistro	restaurant	1.2816308	103.8455089\
+Jerry's Barbeque & Grill	restaurant	1.2817138	103.8455648\
+L'Angelus	restaurant	1.2817286	103.8457471\
+IndoChine Restaurant	restaurant	1.2821383	103.8460168\
+Spizza	restaurant	1.2824355	103.8464445\
+Annalakshimi Janatha	restaurant	1.2817076	103.8474464\
+Gosso	restaurant	1.2806534	103.8477230\
+Moo Bar & Grill	restaurant	1.2796310	103.8472561\
+Nusantara Cuisine	restaurant	1.2800682	103.8474100\
+PHO 99 Vietnamese Delight	restaurant	1.2799559	103.8468803\
+Common Man	restaurant	1.2802945	103.8479317\
+Dal-In Korean BBQ Restaurant	restaurant	1.2813630	103.8483082\
+KAMAL Restaurant	restaurant	1.2800603	103.8477892\
+No Menu Osvaldo Forlino Family's Kitchen	restaurant	1.2812972	103.8484171\
+Shree Ganga	restaurant	1.2804387	103.8480194\
+"Charlie's Tapas, Grill & Bar"	restaurant	1.2861733	103.8498339\
+Dallas Restaurant & Bar	restaurant	1.2861304	103.8498651\
+Aburiya	restaurant	1.2883206	103.8492746\
+Harrys Bar	restaurant	1.2859930	103.8499679\
+Pasta Fresca Da Salvatore (Boat Quay)	restaurant	1.2860870	103.8498962\
+Pizzeria L\'92Operetta	restaurant	1.2749975	103.8443571\
+Beijing Roast Duck House	restaurant	1.2878435	103.8493101\
+Indian House	restaurant	1.2869409	103.8493875\
+Tandoori Zaika	restaurant	1.2879434	103.8493156\
+Go! K - BBQ Korean Restaurant	restaurant	1.2804382	103.8467483\
+Fu Lin Tou Fu Yuen	restaurant	1.2811098	103.8479274\
+Goldleaf Taiwan Restaurant	restaurant	1.2816674	103.8474216\
+Koryo Mart		1.2804239	103.8473639\
+Meat Smith	restaurant	1.2801657	103.8474622\
+Napoleon Food and Wine Bar	restaurant	1.2800157	103.8471644\
+Ajoomma Korean Charcoal BBQ	restaurant	1.2826041	103.8469604\
+Oh Neul Han Jeom Korean BBQ Restaurant	restaurant	1.2799242	103.8473330\
+Oven and Fried Chicken	restaurant	1.2805172	103.8474096\
+Pantler	restaurant	1.2801981	103.8472535\
+Singkoba	restaurant	1.2804556	103.8476172\
+Urban Bites	restaurant	1.2803147	103.8475419\
+Wang Dae Bok Korean BBQ Restaurant	restaurant	1.2814436	103.8472981\
+Wang Dae Bak	restaurant	1.2843667	103.8467937\
+121 Eating House	food_court	1.2812576	103.8480090\
+Izy	restaurant	1.2824547	103.8464948\
+Los Primos	restaurant	1.2818203	103.8458115\
+Kinzo Izakaya	restaurant	1.2823187	103.8460095\
+:pluck	restaurant	1.2817633	103.8456013\
+Koi Izakaya	restaurant	1.2816496	103.8456849\
+Palace of Thai Chicken	restaurant	1.2811273	103.8455680\
+Casa Tartufo	restaurant	1.2803915	103.8454428\
+Lolla	restaurant	1.2810316	103.8456256\
+Fluffy Dessert	restaurant	1.2780061	103.8435671\
+Guiga Korean BBQ	restaurant	1.2774953	103.8434702\
+OCNZ On Dol	restaurant	1.2774895	103.8437102\
+Singkoba	restaurant	1.2778072	103.8437548\
+Guiga Korean BBQ	restaurant	1.2776561	103.8437227\
+Sin Manbok	restaurant	1.2778627	103.8437492\
+Ramyun and Soju	restaurant	1.2772350	103.8438423\
+Super Star K BBQ	restaurant	1.2780172	103.8437986\
+The Blue Ginger	restaurant	1.2774316	103.8437059\
+Obba Jjajang	restaurant	1.2779645	103.8437817\
+Tanjong Hwaro	restaurant	1.2782263	103.8438656\
+Super Star K BBQ	restaurant	1.2781855	103.8436361\
+Cha Rim	restaurant	1.2782790	103.8438824\
+Red Holic	restaurant	1.2783682	103.8437063\
+Yakiniku Don-Don	restaurant	1.2783311	103.8436921\
+O.BBa	restaurant	1.2783280	103.8438981\
+Supulae Korean BBQ	restaurant	1.2785251	103.8437666\
+Kko Kko Nara	restaurant	1.2788156	103.8438315\
+Capricci	restaurant	1.2793333	103.8440701\
+Kamoshita Sake & Wine	restaurant	1.2802288	103.8436814\
+Fu Lin Yuan Health Soup Restaurant	restaurant	1.2797160	103.8427066\
+His.tori Korean BBQ	restaurant	1.2799024	103.8438367\
+Bar-Roque Grill	restaurant	1.2755226	103.8435592\
+Teppan Happou Kenji	restaurant	1.2773729	103.8436991\
+Todamgol	restaurant	1.2792343	103.8440602\
+Manbok	restaurant	1.2790843	103.8417861\
+Victory Seafood	food_court	1.2790122	103.8417197\
+MooJaa Mookata Thai BBQ Steamboat	restaurant	1.2798528	103.8414534\
+Foong Kee Coffee Shop	food_court	1.2794739	103.8416436\
+Esquina	restaurant	1.2799185	103.8420509\
+Bonifacio	restaurant	1.2807720	103.8422454\
+Chin Seng Enterprise	restaurant	1.2824514	103.8421899\
+Enclave	restaurant	1.2803273	103.8415104\
+Tiong Shian Seafood House	food_court	1.2824783	103.8425115\
+Tong Ah Eating House	food_court	1.2801078	103.8414763\
+Yanti Nasi Padang Restaurant	restaurant	1.2804466	103.8415345\
+Yong Soon You Tiao	restaurant	1.2811189	103.8420420\
+Manbok Chinatown Korean BBQ	restaurant	1.2823230	103.8420724\
+Cold Storage		1.2746068	103.8443166\
+Kanda Wadatsumi	restaurant	1.2780638	103.8442888\
+Etna	restaurant	1.2783712	103.8433434\
+Pince and Pints	restaurant	1.2790399	103.8434043\
+Rhubarb	restaurant	1.2793744	103.8430698\
+Song Fa Bak Kut Teh	restaurant	1.2851819	103.8446210\
+Saizeriya	restaurant	1.3168250	103.8438126\
+Wee Nam Kee	restaurant	1.3172070	103.8438313\
+Pizza Hut	restaurant	1.2839289	103.8170086\
+Pizza Hut	restaurant	1.3000931	103.8444797\
+Pizza Hut	restaurant	1.3231589	103.8111166\
+Canadian Pizza	restaurant	1.3737366	103.8376671\
+Prive Restaurant	restaurant	1.2640789	103.8126059\
+Takumi Robata & Sushi	restaurant	1.2638831	103.8126756\
+NTUC FairPrice		1.3328116	103.8472498\
+Zui Yu Xuan Teochew Cuisine	restaurant	1.2829835	103.8482262\
+Mia Torino	restaurant	1.2796943	103.8427172\
+Extra Virgin Pizza	restaurant	1.2789263	103.8513051\
+Ginza Kuroson	restaurant	1.2910631	103.8411492\
+Ellenborough Market Caf\'e9	restaurant	1.2888591	103.8454229\
+Jumbo Seafood (Riverside Point)	restaurant	1.2888992	103.8446901\
+Phuc Deli Viet	restaurant	1.2790851	103.8486420\
+Lavo	restaurant	1.2826411	103.8600277\
+The Naughty Chef	restaurant	1.2791770	103.8503734\
+Ristorante Amarone	restaurant	1.2774692	103.8477644\
+Wafuken	restaurant	1.2783793	103.8504547\
+Three Blind Pigs	restaurant	1.2788365	103.8510616\
+Boulevard	restaurant	1.2785826	103.8505459\
+Anglo Indian Cafe & Bar	restaurant	1.2790698	103.8503053\
+Ippudo Ramen Express	restaurant	1.2782675	103.8503841\
+SaladStop	restaurant	1.2777377	103.8479603\
+SaladStop	restaurant	1.2809286	103.8523200\
+The Bistro (NUSS Suntec)	restaurant	1.2943874	103.8581409\
+Din Tai Fung	restaurant	1.2808016	103.8536137\
+Putien	restaurant	1.2564561	103.8199975\
+	restaurant	1.3655999	103.8491222\
+The Banana Leaf Apolo	restaurant	1.3084568	103.8510771\
+Syun	restaurant	1.2552335	103.8198078\
+Verve Pizza Bar @ Marina Bay	restaurant	1.2798283	103.8561831\
+Imperial Treasure Windows of Hong Kong	restaurant	1.2789518	103.8507799\
+Imperial Treasure Super Peking Duck	restaurant	1.2791503	103.8513351\
+	food_court	1.2776899	103.8311738\
+\uc0\u21916 \u19975 \u24180 	food_court	1.2864700	103.8094030\
+Koufu	food_court	1.2804530	103.8273860\
+Brinda's	restaurant	1.2837237	103.8177538\
+Aroy Mookata	restaurant	1.2772421	103.8370674\
+Canadian Pizza	restaurant	1.2762612	103.8355404\
+EAT.DRINK.MAN.WOMAN	restaurant	1.2763219	103.8356102\
+Ar-Rahman	restaurant	1.2772333	103.8369419\
+Good Chance Pohpiah	restaurant	1.2773862	103.8317499\
+Ya-Mahyuddin Al-Jailani Restaurant	restaurant	1.2761662	103.8354327\
+Quay house	restaurant	1.2858595	103.8495947\
+Chupitos	restaurant	1.2902153	103.8462338\
+Cold Storage		1.3196050	103.8271903\
+CS Fresh		1.3227092	103.8144067\
+Paulaner Br\'e4uhaus	restaurant	1.2930432	103.8582598\
+NTUC Fairprice		1.3142787	103.8887345\
+Pondok Jawa Timur	restaurant	1.3030556	103.8589614\
+Tamashii Robataya	restaurant	1.2863077	103.8488366\
+Himonoya	restaurant	1.2919649	103.8411746\
+Zorba The Greek Taverna	restaurant	1.2904717	103.8448458\
+East Treasure	restaurant	1.2907255	103.8454742\
+Fu Lin	restaurant	1.2901264	103.8455794\
+Hirajil	restaurant	1.3090554	103.8553007\
+Moogambo	restaurant	1.2862476	103.8494687\
+Little Saigon	restaurant	1.2902299	103.8463571\
+Fat Boy	restaurant	1.3515504	103.8353703\
+Cold Storage		1.2920393	103.8425504\
+Fo Lau Ping (Popular) Vegetarian	restaurant	1.3412480	103.8472208\
+Bao Today	restaurant	1.3326260	103.8485346\
+Swee Choon	restaurant	1.3080222	103.8568331\
+Wah Tan Noodle - Char Siew #02-30	restaurant	1.2851366	103.8321271\
+Sungei Road Laksa	restaurant	1.3067557	103.8578571\
+Ci Yuan Hawker Centre	restaurant	1.3754634	103.8829357\
+Sushi Tei	restaurant	1.3038245	103.8350439\
+Ong Yong Lee Seafood Eating House.	restaurant	1.3450291	103.8559112\
+FairPrice		1.3665818	103.8415821\
+Prince Coffee House	restaurant	1.3002971	103.8597090\
+Nan Hwa Fishboat	restaurant	1.3134256	103.8531551\
+Bencoolen Underground Mall		1.2981814	103.8496472\
+Bencoolen Underground Mall		1.2992237	103.8507551\
+Artichoke	restaurant	1.2995419	103.8519443\
+The Countryside Cafe	restaurant	1.3049128	103.8533595\
+Wing Seong Fatty's	restaurant	1.3026077	103.8526310\
+Thai Smile Cafe	restaurant	1.2869320	103.8485469\
+Tiong Bahko Meng Roast Duck	restaurant	1.2821910	103.8443587\
+Tiong Bahku Ming Roast Duck 	restaurant	1.2821710	103.8444299\
+Katong Keah Kee Fried Oysters	restaurant	1.2822204	103.8442893\
+Boon Tat Street BBQ Seafood	restaurant	1.2822985	103.8441689\
+King kebab	restaurant	1.2875603	103.8489631\
+O comptoir	restaurant	1.2869281	103.8488401\
+Ramen gallery	restaurant	1.2863657	103.8490997\
+Gyromania	restaurant	1.2878475	103.8489511\
+Grand Konak	restaurant	1.2898103	103.8456420\
+Imam Banana Leaf Restaurant	restaurant	1.3110582	103.8725555\
+G7 Sinma Live Seafood (Forg Porridge)	restaurant	1.3113405	103.8745673\
+Tian En Vegetarian	restaurant	1.3162292	103.8833527\
+Wee Nam Kee Chicken Rice	restaurant	1.2910323	103.8574878\
+Food For Thought	restaurant	1.2963202	103.8486192\
+Fresh Market	restaurant	1.2761546	103.8437052\
+3\uc0\u52789  \u49828 \u49884 \u51665 	restaurant	1.2943598	103.8526948\
+Cua	restaurant	1.3132001	103.8825804\
+Mooi Chin Restaurant	restaurant	1.3024725	103.8577628\
+NTUC Fairprice		1.2731352	103.8090769\
+NTUC Fairprice		1.3076622	103.8848527\
+Tika restaurant	restaurant	1.3052634	103.8531577\
+Gandhi Restaurant	restaurant	1.3081431	103.8511883\
+Nineteen Kitchen	food_court	1.2987024	103.8525706\
+Broadway Foodcourt Centre	restaurant	1.3027230	103.8529586\
+Jack's Place (Great World City)	restaurant	1.2931498	103.8321490\
+Cedele (Great World City)	restaurant	1.2936867	103.8323197\
+Eminent Frog Porridge	restaurant	1.3125334	103.8792939\
+Leong Kee Bak Kut Teh	restaurant	1.3123977	103.8772403\
+Mongkok Dim Sum	restaurant	1.3119953	103.8768536\
+Eighteen Chefs	restaurant	1.3009229	103.8393646\
+	restaurant	1.3058653	103.8505270\
+Zhen Zhen Porridge	restaurant	1.2803505	103.8446464\
+	restaurant	1.3059383	103.8504273\
+Istimawa Nasi Padang	restaurant	1.2869466	103.8102072\
+Chiew Kee Noodle House	restaurant	1.2843881	103.8451764\
+59.com	restaurant	1.2863035	103.8497271\
+Al-Bismi Indian Restaurant (24hr)	restaurant	1.3053391	103.8537736\
+Amaravati Restaurant	restaurant	1.3071989	103.8508963\
+Kudai Canteen Tamil Food	restaurant	1.3072646	103.8510809\
+Village Curry (South & North Indian)	restaurant	1.3069456	103.8514689\
+Ananda Bhavan Veg. Restaurant	restaurant	1.3095547	103.8555923\
+Al-Haji Noordhin Restaurant (24hr)	restaurant	1.3074462	103.8565098\
+Pizza Hut	restaurant	1.3362813	103.8478807\
+Two Wings	restaurant	1.2770082	103.8418933\
+Gar\'e7ons	restaurant	1.2770609	103.8418913\
+La Stalla	restaurant	1.2769594	103.8418669\
+Kin Khao's	restaurant	1.2770386	103.8419503\
+Wild Wild Catch	restaurant	1.2770325	103.8419787\
+El Jefe	restaurant	1.2770081	103.8419462\
+	restaurant	1.3345872	103.8520744\
+Ang Mo Supermarket		1.3362868	103.8480895\
+Katanashi	restaurant	1.2882692	103.8492767\
+Astons Specialities	restaurant	1.2994809	103.8473809\
+	restaurant	1.3003612	103.8400811\
+Roti Prata House	restaurant	1.3538671	103.8342032\
+HAO Eccellente		1.3149206	103.8945139\
+Ju Shin Jung Korean BBQ	restaurant	1.3102274	103.8824510\
+Tian Wai Tian Fish Head Steamboat	restaurant	1.3273782	103.8675965\
+Tai Hwa Pork Noodle #01-12	restaurant	1.3051139	103.8625590\
+Sheng Li kopitiam	food_court	1.3047635	103.8615669\
+Jade of India	restaurant	1.3107934	103.8528665\
+Sheng Siong		1.3126530	103.8786231\
+Cong Ngot dessert	restaurant	1.2987266	103.8559765\
+Ah Seng Ba Kut Teh	restaurant	1.2989203	103.8561161\
+Best Ah Ma Cafe by Tin Box	restaurant	1.2984818	103.8553876\
+Chikuyo Tei	restaurant	1.2983486	103.8545183\
+HGills N Shells	restaurant	1.3060070	103.8606707\
+Food Opera	food_court	1.3041105	103.8319485\
+QQ Noodle House	restaurant	1.2999532	103.8549417\
+Fried Kway Teow	restaurant	1.3777194	103.8939721\
+Collins	restaurant	1.3797294	103.8877020\
+Founder Bak Kut Teh	restaurant	1.3243536	103.8510938\
+KiroLounge - The Spine Place	clinic	1.3017730	103.8577221\
+Trans Island Medical Group	clinic	1.3208122	103.8621964\
+Wild Honey	restaurant	1.3059837	103.8328840\
+The Boiler Louisiana Seafood	restaurant	1.3359413	103.8865508\
+Nonna Lina	restaurant	1.2784297	103.8404177\
+Man Man Unagi	restaurant	1.2787572	103.8413411\
+Burp Kitchen & Bar (Bishan Park)	restaurant	1.3649737	103.8358639\
+NUSS Bukit Timah Guild House	restaurant	1.3189758	103.8161262\
+Issoh Izakaya	restaurant	1.2857252	103.8539792\
+Sitara	restaurant	1.3111230	103.8546207\
+Chew Kee Eating House	restaurant	1.2837767	103.8457232\
+Sushi Express	restaurant	1.2915355	103.8553137\
+Idaten Udon	restaurant	1.2916736	103.8553982\
+Crystal Jade	restaurant	1.2946789	103.8592216\
+March\'e9 M\'f6venpick	restaurant	1.2953411	103.8598565\
+Tonkichi	restaurant	1.2945284	103.8599063\
+Ginza Lion	restaurant	1.2944345	103.8598486\
+Cold Storage		1.2949990	103.8591405\
+The Burger Bar	restaurant	1.2926389	103.8564851\
+Hans	restaurant	1.2912432	103.8582487\
+Putien	restaurant	1.2912754	103.8584592\
+Dian Xiao Er	restaurant	1.2913263	103.8583761\
+Mouth Restaurant	restaurant	1.2914899	103.8580864\
+Saizeriya	restaurant	1.2913424	103.8580475\
+Menzo Butao	restaurant	1.2917312	103.8566035\
+Manhattan Fish	restaurant	1.2917929	103.8564761\
+SUKI-YA \uc0\u12377 \u12365 \u23627 	restaurant	1.2917245	103.8562964\
+Bangkok Jam	restaurant	1.2920115	103.8567155\
+Hifumi	restaurant	1.2918103	103.8567423\
+Astons	restaurant	1.2911701	103.8568942\
+Chic-a-boo	restaurant	1.2922575	103.8565529\
+Sukiya \uc0\u12377 \u12365 \u23478 	restaurant	1.2918874	103.8563376\
+Yayoi Teishoku	restaurant	1.2930348	103.8583897\
+Milkfish	restaurant	1.2936934	103.8594849\
+Miharu Sapporo Ramen	restaurant	1.2930251	103.8585384\
+Madam Saigon	restaurant	1.2928695	103.8594161\
+EAT	restaurant	1.2935231	103.8596609\
+Saboten	restaurant	1.2929791	103.8592474\
+Chabuton Ramen	restaurant	1.2929688	103.8594067\
+Tim Ho Wan	restaurant	1.2926202	103.8535632\
+SaladStop	restaurant	1.2922226	103.8557307\
+Paik's Bibim	restaurant	1.2917614	103.8554474\
+Jaggi's	restaurant	1.3079789	103.8506964\
+Cafe Iguana	restaurant	1.2889551	103.8445938\
+Sheng Siong		1.2869661	103.8416702\
+S11	food_court	1.2857856	103.8426230\
+Harvest Seafood	restaurant	1.2863838	103.8496608\
+Yabai Izakaya	restaurant	1.2873297	103.8492942\
+House Of Seafood	restaurant	1.2893402	103.8480887\
+The Soup Spoon	restaurant	1.2807071	103.8539951\
+Ssikkek	restaurant	1.2820967	103.8419393\
+Geylang Polyclinic	clinic	1.3195749	103.8873100\
+Sengkang Polyclinic	clinic	1.3926934	103.8941112\
+Outram Polyclinic	clinic	1.2799045	103.8381683\
+Lau Pa Sat	restaurant	1.2806160	103.8505047\
+Sanji Kagoshima Ramen	restaurant	1.2768742	103.8437152\
+Kin Kin Chille Pan Mee	restaurant	1.3322523	103.8841792\
+NTUC FairPrice		1.3153910	103.8985788\
+Hawker Centre	restaurant	1.3118401	103.8603207\
+Comer	restaurant	1.3016908	103.8584213\
+Adam's Corner Seafood Restaurant	restaurant	1.3156458	103.8593185\
+Hawker Centre	restaurant	1.3532823	103.8348712\
+Hawker Centre	restaurant	1.3531736	103.8350200\
+Gim Huat Coffeeshop	restaurant	1.3554992	103.8365154\
+Wah Yen	food_court	1.3540795	103.8356380\
+Old Chang Kee Coffee House	restaurant	1.3045232	103.8496156\
+BK Eating House	food_court	1.2878838	103.8487405\
+Alex's Eating House	restaurant	1.2973367	103.8566706\
+Supreme Pork Chop Rice	restaurant	1.2969402	103.8563381\
+\uc0\u22825 \u22825 \u28779 \u38149 	restaurant	1.2981850	103.8555763\
+\uc0\u21517 \u22530 \u28900 \u29983 \u40060 	restaurant	1.2982903	103.8556668\
+Naj Restaurant Bugis	restaurant	1.2984626	103.8557178\
+Seng Huat	restaurant	1.2985075	103.8557621\
+Dee Dee Moo Thai Steamboat	restaurant	1.2988132	103.8560397\
+Chicken Hotpot	restaurant	1.2982226	103.8561624\
+Beaver's	restaurant	1.2983231	103.8560739\
+taan Charcoal Grill	restaurant	1.2983178	103.8562576\
+Xian De Lai Specialty House	restaurant	1.2981394	103.8564147\
+Arirang	restaurant	1.2978904	103.8564614\
+Chong Qing Grilled Fish	restaurant	1.2978093	103.8565245\
+Porn's	restaurant	1.2982823	103.8562911\
+Hunan Cuisine Restaurant	restaurant	1.2981093	103.8562630\
+Yunnan Original Ecology Hotpot	restaurant	1.2982306	103.8563340\
+Ting Yuan Hotpot	restaurant	1.2981790	103.8563810\
+Bugis Street Chuen Chuen	restaurant	1.2987081	103.8564132\
+\uc0\u26032 \u28304 \u35760 	restaurant	1.2988868	103.8562603\
+Danji Korean BBQ Restaurant	restaurant	1.3086464	103.8945651\
+Pizza Hut	restaurant	1.3081391	103.8952648\
+Tianfu Steamboat	restaurant	1.3073253	103.8952836\
+Shiitake	restaurant	1.3069995	103.8954191\
+Ponggol Nasi Lemak Centre	restaurant	1.3067743	103.8955076\
+Heng Long Teochew Porridge & Rice	restaurant	1.3059985	103.8957980\
+Reservation@Vicki's	restaurant	1.3060275	103.8960615\
+Parkway Mini Steamboat	restaurant	1.3061313	103.8960303\
+Eng's Char Siew Wanton Mee	restaurant	1.3067553	103.8957988\
+Kay Lee Roast Meat	restaurant	1.3068577	103.8957655\
+S.S.S. Wanton Noodles	restaurant	1.3071013	103.8956647\
+Mook's Thai Mookata BBQ	restaurant	1.2978240	103.8567136\
+Sankai Japanese Restaurant	restaurant	1.2977718	103.8565567\
+Hainan Coconut Chicken Pot	restaurant	1.2982004	103.8568899\
+Yang Ming Yu Claypot Chicken	restaurant	1.2981525	103.8569422\
+Joo Bar Makegeolli Bar	restaurant	1.2981807	103.8569144\
+Trattoria L'operetta Pizzeria	restaurant	1.3064389	103.8956601\
+SHRI Restaurant	restaurant	1.3063856	103.8956766\
+Ng Ah Sio Pork Ribs Soup Eating House	restaurant	1.3063335	103.8956940\
+Keng Bee Restaurant	restaurant	1.3071613	103.8956534\
+Chin Chin Eating House	restaurant	1.2962840	103.8555917\
+Killiney Hainanese Curry Rice	restaurant	1.2963584	103.8552524\
+Jai Thai	restaurant	1.2962736	103.8553330\
+Garibaldi	restaurant	1.2965555	103.8549969\
+Sin Swee Kee Restaurant	restaurant	1.2959941	103.8548950\
+OneDoctors	clinic	1.3710916	103.8483130\
+OneDoctors	clinic	1.3499221	103.8730547\
+18 Chefs	restaurant	1.3499580	103.8729658\
+Kith	restaurant	1.2914202	103.8562053\
+Redpan	restaurant	1.2911265	103.8562616\
+	restaurant	1.2546946	103.8136340\
+Coastes	restaurant	1.2524866	103.8160497\
+Ye Lai Xiang Tasty Barbecue	restaurant	1.2802905	103.8445491\
+Maxwell Fuzhou Oyster Cake	restaurant	1.2804625	103.8444050\
+Hum Jin Pang	restaurant	1.2803792	103.8445250\
+Ah Tai Chicken Rice	restaurant	1.2803089	103.8447636\
+Nature Vegetarian 532 Ang Mo Kio Ave 10 #01-2495 560532 11am-9pm.	restaurant	1.3737211	103.8550797\
+Giant		1.3809089	103.8792312\
+Sheng Siong		1.3292654	103.8883300\
+7 Stars Coffee Shop	food_court	1.3292382	103.8880895\
+Lifecare Medical Centre	clinic	1.3290692	103.8869128\
+Ang Liang Medical Hall	clinic	1.3288707	103.8871937\
+Saut\'e9	restaurant	1.2981459	103.8555626\
+Cut by Wolfgang Puck	restaurant	1.2841464	103.8590779\
+Bread Street Kitchen Singapore	restaurant	1.2824908	103.8576089\
+Food Rebel	restaurant	1.2808883	103.8482751\
+NTUC FairPrice		1.3714690	103.8470492\
+Standing sushi bar	restaurant	1.2974636	103.8523433\
+Signature Wang	restaurant	1.3081215	103.8626450\
+Green Leaf Cafe (Indian Vegetarian)	restaurant	1.3070462	103.8535301\
+Thai Tantic	restaurant	1.3071208	103.8293848\
+Mellben Signature	restaurant	1.2770489	103.8430588\
+Thai Village Seafood Restaurant	restaurant	1.3003914	103.8748122\
+Burnt Ends Dempsey Rd	restaurant	1.3044040	103.8091250\
+Culina Gourmet Boutique	restaurant	1.3039618	103.8096435\
+Loy Kee	restaurant	1.3241537	103.8517619\
+Jamie's Italian	restaurant	1.3061700	103.8290110\
+Lai Huat Sambal Belacan Fish	restaurant	1.3118153	103.8880264\
+Lian Bee Restaurant	restaurant	1.3327360	103.8788824\
+Yummy	restaurant	1.3288448	103.8793891\
+Xin Lai Lai Seafood Restaurant	restaurant	1.3332246	103.8787643\
+V Kitchen	restaurant	1.3328334	103.8788499\
+Gourmet House	restaurant	1.3500622	103.8799272\
+KNS Suriya Eating House	restaurant	1.3459709	103.8716412\
+Tiger Keng Wah Sung	restaurant	1.3150929	103.8915556\
+Chicken Claypot House	restaurant	1.3149504	103.8909489\
+Weng's	restaurant	1.3149615	103.8908158\
+M. Lam Clinic	clinic	1.3149067	103.8905887\
+Sin Huat Seafood Restaurant	restaurant	1.3145205	103.8885440\
+Geylang ClayPot Rice	restaurant	1.3143451	103.8878028\
+Lim Kopi	restaurant	1.3141838	103.8869667\
+	food_court	1.3140067	103.8858377\
+Jiang Su Restaurants	restaurant	1.3136937	103.8843602\
+Victoria Food Court	food_court	1.3131256	103.8816062\
+Xinhuo Medical Clinic	clinic	1.3127700	103.8794922\
+Eminent Frog Porridge & Seafood	restaurant	1.3126944	103.8792425\
+Ah Tou Seafood Bok Kat Teh	restaurant	1.3125649	103.8783247\
+Sik Wai Sin	restaurant	1.3125548	103.8782335\
+Golden Jade Restaurant	restaurant	1.3124843	103.8778252\
+Jia Xiang Kitchen	restaurant	1.3124035	103.8772684\
+Geylang Lor 9 Fresh Frog Porridge	restaurant	1.3121833	103.8765459\
+Diandin Leluk	restaurant	1.3120441	103.8761578\
+Golden Mookata	restaurant	1.3119710	103.8759592\
+Sin Ma Live Seafood	restaurant	1.3114592	103.8746938\
+Sin Ma Claypot Live Frog	restaurant	1.3113777	103.8744810\
+Yaleju-Dong Bei Huo Guo	restaurant	1.3112975	103.8742852\
+P & L Eating House	restaurant	1.3112136	103.8740153\
+	restaurant	1.3108708	103.8732285\
+Song Kee Fishball Noodle	restaurant	1.3583469	103.8747720\
+ABC Nasi Kandar	restaurant	1.3163515	103.8990872\
+Al Falah Barakah	restaurant	1.3163857	103.8992437\
+Alwadi	restaurant	1.3159096	103.8970904\
+SSS Wonton Noodles	restaurant	1.3144640	103.8895954\
+Hikmah Food Restaurant	restaurant	1.3141685	103.8881461\
+JB Ah Meng Restaurant	restaurant	1.3137732	103.8862006\
+Yong He Eating House	restaurant	1.3133722	103.8839972\
+Tasvee Restaurant	restaurant	1.3133215	103.8837602\
+Tong Guang Eating House	restaurant	1.3132558	103.8834520\
+	restaurant	1.3128812	103.8816594\
+Al Bidayah	restaurant	1.3127831	103.8811471\
+Sumptuous Restaurant LLP	restaurant	1.3127618	103.8810006\
+Whi Sheng Coffee House	food_court	1.3127031	103.8806676\
+Kim San Leng Food Center	food_court	1.3124905	103.8794594\
+Yong Li Eating House	restaurant	1.3123772	103.8784980\
+San Jiang Eating House	restaurant	1.3123248	103.8782260\
+ABC Bistro	restaurant	1.3121869	103.8774294\
+208e Geylang		1.3119052	103.8765016\
+BBQ Box	restaurant	1.3116886	103.8758779\
+Lucky Kitchen	restaurant	1.3585441	103.8745721\
+Sheng Siong		1.3757418	103.8718519\
+Keika Ramen	restaurant	1.3727339	103.8935861\
+Ming Lee Eating House	restaurant	1.3141449	103.8785078\
+Caesar Palace	restaurant	1.3144434	103.8797376\
+Union	restaurant	1.3149071	103.8820370\
+ECM X-Ray Centre PTE LTD	clinic	1.3150317	103.8829388\
+ECM Clinic & Surgery PTE LTD	clinic	1.3149644	103.8826951\
+Toto Seafood	restaurant	1.3152009	103.8814520\
+Choice	restaurant	1.3153225	103.8831673\
+Peng's Restaurant and Catering	restaurant	1.3674129	103.8906509\
+Central Clinic	clinic	1.3192580	103.8866552\
+Rong Cheng Restaurant	restaurant	1.3142699	103.8790384\
+Ping Claypot Rice Restaurant	restaurant	1.3143689	103.8791530\
+Central 24-Hr Clinic (Hougang)	clinic	1.3725723	103.8856713\
+KPT	restaurant	1.3749263	103.8971616\
+D'Snack Station	restaurant	1.3144115	103.8987403\
+Purple Star	restaurant	1.3141863	103.8989073\
+Teochew Traditional Seafood Steamboat	restaurant	1.3126762	103.8999696\
+An Nur Restaurant	restaurant	1.3543261	103.8789421\
+Canadian 241 Pizza	restaurant	1.3542043	103.8787527\
+Warung Selera Masaka  Kampung	restaurant	1.3164328	103.8995144\
+Kak Wan's Kitchen	restaurant	1.3140194	103.8991895\
+Sharifa's Bistro	restaurant	1.3135891	103.8995173\
+Rhema	clinic	1.3544962	103.8791387\
+Collin's	restaurant	1.3519603	103.8794753\
+Ya Rasool Restaurant	restaurant	1.3285953	103.8966555\
+Jin Hock	restaurant	1.3613520	103.8861347\
+Pizza Hut	restaurant	1.3620555	103.8856381\
+FHC Dialysis Centre Pte Ltd	clinic	1.3620171	103.8856749\
+Redwood Clinic And Surgery	clinic	1.2892680	103.8171078\
+Mee Sek Food Court	restaurant	1.3619280	103.8866402\
+Heng Long Teochew Porridge	restaurant	1.3625823	103.8880208\
+Nam Ann Siang Theon Medical Centre	clinic	1.3586125	103.8875676\
+Chang	restaurant	1.3019014	103.8117315\
+La Forketta	restaurant	1.3034357	103.8100030\
+La Salsa	restaurant	1.3042234	103.8100325\
+Road House	restaurant	1.3044486	103.8103900\
+Greenland	restaurant	1.3557149	103.8793219\
+Medicane Associates	clinic	1.3698791	103.8703705\
+Canadian 2 for 1 Pizza	restaurant	1.3629056	103.8712128\
+Pow Sing Restaurant	restaurant	1.3635179	103.8655289\
+Pow Sing Kitchen	restaurant	1.3634497	103.8656516\
+Curry Wok	restaurant	1.3233003	103.8104701\
+Penang Kitchen	restaurant	1.3232655	103.8104411\
+Thai Noodle House	restaurant	1.3233351	103.8105042\
+German Market Place		1.3243853	103.8094584\
+Eat Organic		1.3245822	103.8091521\
+UGS	restaurant	1.3325493	103.8852008\
+Ali Khan	restaurant	1.3322671	103.8838326\
+Aroy Mak Mookata Thai BBQ Steamboat	restaurant	1.3320866	103.8829501\
+KL Traditional Chilli Ban Mee	restaurant	1.3320771	103.8829072\
+Zhup Zhup	restaurant	1.3319740	103.8824500\
+Chai O\'92clock	restaurant	1.3319413	103.8822976\
+TCM Clinic	clinic	1.3291615	103.8733882\
+Teochew Eating House	restaurant	1.3239416	103.8651981\
+Yiah Yu Cun Seafood Restaurant	restaurant	1.3404223	103.8847975\
+Kong Kian Clinic	clinic	1.3401269	103.8850836\
+Pizza Hut	restaurant	1.3396460	103.8855283\
+Sarpino's	restaurant	1.3392952	103.8858479\
+Jiale Kopitiam	restaurant	1.3386563	103.8863293\
+	food_court	1.3137111	103.8845661\
+Brotzeit	restaurant	1.2947214	103.8531867\
+Foodcourt	restaurant	1.3153218	103.8832825\
+Ameising	restaurant	1.2811184	103.8507372\
+Chong Hoe	restaurant	1.3637293	103.8652176\
+Hock Lam Beef	restaurant	1.2861982	103.8487114\
+The Offshore	restaurant	1.2861805	103.8487572\
+Oppa	restaurant	1.2817270	103.8448401\
+Yoh Kee Hong	restaurant	1.2809323	103.8459435\
+Back Benchers	restaurant	1.2811146	103.8458132\
+Le Binchotan	restaurant	1.2823703	103.8475192\
+Nature Cafe	restaurant	1.2835729	103.8478294\
+Ming Garden	restaurant	1.3639852	103.8654425\
+Kensing On Family Clinic	clinic	1.3653193	103.8661529\
+Mediline Wei Min Clinic	clinic	1.3651898	103.8661498\
+Fatboy's	restaurant	1.3650386	103.8661342\
+K.N. Lau Clinic	clinic	1.3647782	103.8660983\
+R.K. Eating House	restaurant	1.3645147	103.8660671\
+Tom Yum Kung Fu	restaurant	1.3645854	103.8658138\
+	clinic	1.2846024	103.8496846\
+Sri Sun Express	restaurant	1.3644357	103.8657096\
+Small Seaf and BBQ	restaurant	1.2833765	103.8460726\
+Go-Ang Pratunam Chicken Rice	restaurant	1.2837483	103.8477704\
+Happy Salad	restaurant	1.2836484	103.8479991\
+Marina Food House	restaurant	1.2844978	103.8498627\
+Chao Shan Cuisine	restaurant	1.2843435	103.8498255\
+Pizza Hut	restaurant	1.2869939	103.8453522\
+Ammani	restaurant	1.3149086	103.8598496\
+Ju Wei Sichuan Cuisine	restaurant	1.2882790	103.8474607\
+Kim Ming Food Industries	restaurant	1.2874676	103.8481923\
+Teiyoshita	restaurant	1.2820862	103.8483071\
+Marukyu	restaurant	1.2819955	103.8482588\
+	restaurant	1.2818836	103.8481827\
+Gayatri	restaurant	1.2798895	103.8471026\
+Yeow Seng	restaurant	1.2875769	103.8485252\
+Min Xiao Min	restaurant	1.2873569	103.8484152\
+Lucky Saigon	restaurant	1.2863468	103.8483514\
+Aayisha Briyani House	restaurant	1.2861288	103.8488458\
+Ramen Matsuri	restaurant	1.2860681	103.8489862\
+L'Operetta Corner Bar	restaurant	1.2814828	103.8481990\
+Abedin	restaurant	1.3140592	103.8863801\
+Desmond's Creation	restaurant	1.3141027	103.8878373\
+Chai Chee Pork Porridge	restaurant	1.3136546	103.8856479\
+Singapore Buddhist Free Clinic	clinic	1.3154371	103.8814750\
+Nouri	restaurant	1.2802227	103.8466791\
+Alati	restaurant	1.2802664	103.8466955\
+K-Tower	restaurant	1.2803246	103.8467155\
+Gotti	restaurant	1.2805531	103.8467902\
+Korean Restaurant	restaurant	1.2806041	103.8468139\
+	restaurant	1.2806605	103.8468485\
+Swee Kee Fish Head Noodle House	restaurant	1.2813620	103.8472415\
+Wangdaebak	restaurant	1.2812397	103.8471757\
+Katanasui An	restaurant	1.2817326	103.8476898\
+Tandori Corner	restaurant	1.2816929	103.8477618\
+BBQ	restaurant	1.2773352	103.8464437\
+Moi Lum	restaurant	1.2790597	103.8450393\
+Food Park	restaurant	1.3612429	103.8383198\
+The Sandwich Shop	restaurant	1.2794909	103.8493396\
+Tea Hot	restaurant	1.2797254	103.8494859\
+Soi 19	restaurant	1.3535480	103.8344728\
+Garcons	restaurant	1.3526132	103.8347112\
+Sara's	restaurant	1.3526682	103.8346242\
+Balinese Thai	restaurant	1.3530160	103.8342247\
+Kola Food Centre	restaurant	1.3587424	103.8370809\
+Medical Clinic	clinic	1.2938773	103.8513543\
+Plum Village Restaurant	restaurant	1.3716680	103.8291932\
+Peperoni Pizzeria	restaurant	1.3312332	103.8072615\
+Kith	restaurant	1.2920380	103.8595777\
+Rosso Vino	restaurant	1.2909906	103.8418555\
+PizzaExpress	restaurant	1.3055802	103.8332238\
+The Pizza Place	restaurant	1.2937304	103.8532859\
+"Toss & Turn ""Vivo City"""	restaurant	1.2633658	103.8219639\
+Sin Lee Foods	restaurant	1.2874585	103.8310736\
+Nana's Green Tea	restaurant	1.3000157	103.8451828\
+MTR Restaurant	restaurant	1.3130177	103.8564937\
+Bizen	restaurant	1.3011771	103.8551797\
+Qiji	restaurant	1.3010016	103.8553415\
+Guan Kitchen	restaurant	1.2937789	103.8423023\
+The Tavern Restaurant	restaurant	1.2938212	103.8422580\
+Pinnacle Family Clinic	clinic	1.2941140	103.8422718\
+Pacha	restaurant	1.3007250	103.8591655\
+Saladstop	restaurant	1.3006121	103.8591825\
+Pizza fabbrica	restaurant	1.3004878	103.8593503\
+Istanblue	restaurant	1.3012367	103.8596179\
+Nur Fayidha	restaurant	1.3018624	103.8606405\
+The Dim Sum Place	restaurant	1.3039437	103.8601043\
+Happy Crab	restaurant	1.3021539	103.8610683\
+Fatty Thai Prawns Noodles	restaurant	1.3014444	103.8614943\
+The Ramen Stall	restaurant	1.3038897	103.8599799\
+Al-Tasneem	restaurant	1.3024638	103.8586154\
+Victory	restaurant	1.3023209	103.8585521\
+Fika	restaurant	1.3004653	103.8598949\
+All Things Delicious	restaurant	1.3006388	103.8597548\
+Sufi	restaurant	1.3009012	103.8595387\
+Taksim	restaurant	1.3011137	103.8596443\
+Sanobar Grill Lebanese Cuisine	restaurant	1.3012191	103.8597905\
+Kampong Glam Cafe	restaurant	1.3012800	103.8599267\
+Rumah Makan Minang	restaurant	1.3023453	103.8595454\
+Bambu	restaurant	1.3019623	103.8599156\
+Chicken Bar	restaurant	1.3018843	103.8599656\
+North South East West	restaurant	1.3077833	103.8950379\
+Zhong Hua Steamboat	restaurant	1.2975198	103.8567782\
+Chef China	restaurant	1.2976655	103.8569073\
+Nox	restaurant	1.3006805	103.8601805\
+Mrs Pho	restaurant	1.3008632	103.8600372\
+Beirut Grill	restaurant	1.3009034	103.8600187\
+Seow Choon Hua	restaurant	1.3014489	103.8607309\
+HIgh Blood Station	restaurant	1.3022511	103.8611884\
+Sari Ratu	restaurant	1.3022815	103.8612635\
+Thai	restaurant	1.3023405	103.8613350\
+Dosa	restaurant	1.3081030	103.8952892\
+M.A. Deen Biasa	restaurant	1.3031443	103.8611625\
+Chin Hing & Co.	restaurant	1.3039914	103.8605440\
+SG Pho House	restaurant	1.3035221	103.8598259\
+Makmur	restaurant	1.3029469	103.8591214\
+Ciao	restaurant	1.3006124	103.8595955\
+Tabbouleh	restaurant	1.3017799	103.8594325\
+Elhalal	restaurant	1.3007933	103.8594404\
+Black N White House	restaurant	1.3066650	103.8958271\
+ABC Maju Restaurant	restaurant	1.3215336	103.8530565\
+Kian Seng Seafood Restaurant	restaurant	1.3586502	103.8548154\
+Pizzaface	restaurant	1.3011952	103.8621593\
+New Cameroon Seafood	restaurant	1.3044466	103.8498754\
+Reiwa Soba Kappo \uc0\u34126 \u40614 \u21106 \u28921  \u20196 \u21644 	restaurant	1.2981252	103.8388240\
+Fook Kin \uc0\u31119 \u21185 	restaurant	1.2980401	103.8387579\
+Peperoni Pizzeria	restaurant	1.3536500	103.8332785\
+Chicken House	restaurant	1.3533700	103.8335613\
+Indian Express	restaurant	1.3080224	103.8507288\
+Aromas of India	restaurant	1.3085318	103.8510816\
+Delhi	restaurant	1.3086188	103.8511525\
+French Corner	restaurant	1.3088451	103.8513313\
+Muthul's Curry	restaurant	1.3098991	103.8521872\
+Anjappar	restaurant	1.3089340	103.8514018\
+MM Restaurant & Catering	restaurant	1.3105616	103.8530703\
+Sheng Siong		1.3079553	103.8572122\
+Teochew Traditional Steamboar Restauarant Pte Ltd	restaurant	1.2853413	103.8347179\
+Crab Delicacy	restaurant	1.2851897	103.8347757\
+Tian Tian Seafood Restaurant	restaurant	1.2845811	103.8350051\
+Kampong Chicken Eating House	restaurant	1.2847220	103.8349491\
+Xin Wang	restaurant	1.3144978	103.8576464\
+A2B Mohamed	restaurant	1.3105803	103.8545407\
+Minora	restaurant	1.3100753	103.8550509\
+Kaayaloram	restaurant	1.3099938	103.8551233\
+Ponnusamy	restaurant	1.3098846	103.8552559\
+Ballaji Bha Awan	restaurant	1.3098487	103.8552882\
+Anjappar	restaurant	1.3098199	103.8553295\
+Copper Chimney	restaurant	1.3097481	103.8553942\
+Kailash Parbat	restaurant	1.3095307	103.8556260\
+Panchtantra	restaurant	1.3091704	103.8559604\
+Spice Garden	restaurant	1.3090848	103.8560460\
+Sankranti	restaurant	1.3089992	103.8561360\
+Bikaner	restaurant	1.3089125	103.8562227\
+Raj	restaurant	1.3088774	103.8562721\
+Cow & Farmer	restaurant	1.3087237	103.8564522\
+	restaurant	1.3079096	103.8573712\
+New World Clinic & Surgery	clinic	1.3072509	103.8578754\
+First Eating House	food_court	1.3146021	103.8577330\
+Hungrayy Hiross	restaurant	1.3160071	103.8570912\
+Zamas River Valley	restaurant	1.2951049	103.8292921\
+Five Star Hainanese Chicken RIce	restaurant	1.2952092	103.8296192\
+Kurry Korner	restaurant	1.2952347	103.8296612\
+Feng Ji Chicken Rice	restaurant	1.2937249	103.8423538\
+Peck Hoon Teng	restaurant	1.2936735	103.8424099\
+Spice Junction	restaurant	1.3097614	103.8520312\
+Mother's	restaurant	1.3094848	103.8530934\
+ABM	restaurant	1.3103600	103.8549635\
+Live Sea Food Porridge	restaurant	1.3079920	103.8574783\
+Wang Ji	restaurant	1.3076847	103.8578359\
+Al Mubarah	restaurant	1.3075918	103.8579513\
+Da Lian Traditional Noodles	restaurant	1.3074708	103.8580835\
+Shan Ding	restaurant	1.3072235	103.8580853\
+DSC	clinic	1.3066129	103.8569422\
+KLT 31	restaurant	1.3062866	103.8566510\
+Yan Palace Restaurant	restaurant	1.2842567	103.8462619\
+Lotus Kitchen	restaurant	1.2848382	103.8445717\
+Chiew Kee Noodle House	restaurant	1.2840980	103.8450763\
+Chop Wah On	restaurant	1.2841225	103.8450304\
+Indo Chili	restaurant	1.2928819	103.8311514\
+Rainbow Rice House	restaurant	1.2852372	103.8462968\
+Han's	restaurant	1.2855363	103.8451602\
+Taste of India	restaurant	1.3138681	103.8541091\
+Family Health Clinic & Surgery	clinic	1.3258868	103.8422296\
+Legendary	restaurant	1.3162524	103.8533901\
+Escape Restaurant & Lounge	restaurant	1.3131632	103.8541548\
+Riverwalk Tandoor @ Farrer Park	restaurant	1.3126411	103.8550202\
+Shanghai Pan Friend Dumpling	restaurant	1.3137190	103.8598483\
+Chicken Steamboat	restaurant	1.3135703	103.8598141\
+Ponggol Nasi Lemak	restaurant	1.3128850	103.8596251\
+Moonchild	restaurant	1.3122821	103.8595025\
+Wednesdays Food Co.	restaurant	1.3106841	103.8585916\
+Cake Spade	restaurant	1.2778099	103.8437342\
+	restaurant	1.3091224	103.8575898\
+Authentic Mun Chee Kee King of Pig's Organ Soup	restaurant	1.3087972	103.8573346\
+Lotus Thai Restaurant	restaurant	1.3071161	103.8562853\
+Khim Seng Gas	restaurant	1.3069409	103.8561981\
+Beancurd City	restaurant	1.3067640	103.8560919\
+	restaurant	1.2746430	103.8413519\
+The GogiJip	restaurant	1.2787282	103.8438355\
+Katsumata	restaurant	1.2784542	103.8433849\
+Don-Don	restaurant	1.2779133	103.8431146\
+Monte Risaia	restaurant	1.2779909	103.8431517\
+Curry Village	restaurant	1.2736108	103.8425595\
+Akbar 24 Hours Restaurant	restaurant	1.2736113	103.8426788\
+Reunion BBQ	restaurant	1.3111358	103.8592218\
+Ernest Restaurant	restaurant	1.3107226	103.8588748\
+Quan Xiang Yuan Seafood Restaurant	restaurant	1.3097261	103.8582309\
+Siam Secret	restaurant	1.2765957	103.8359249\
+Shing Boon Hwa Food Centre	restaurant	1.3047273	103.8547507\
+Mannai Supermarket		1.3044903	103.8545898\
+Restaurant Abbas	restaurant	1.3042724	103.8544696\
+Lee Tai Fu	restaurant	1.2848769	103.8293540\
+Tiong Bahru Medical Centre	clinic	1.2850445	103.8293517\
+One Two Kitchen	restaurant	1.2852108	103.8293526\
+Big Mama	restaurant	1.2852620	103.8293527\
+Ong's Clinic	clinic	1.3022975	103.8527701\
+Al-Jilani Restaurant	restaurant	1.3008507	103.8517581\
+Singapura Clinic	clinic	1.2987062	103.8499262\
+	restaurant	1.3015111	103.8614533\
+	restaurant	1.2827596	103.8258932\
+	restaurant	1.2823084	103.8254582\
+Giant		1.2826694	103.8257856\
+NTUC FairPrice		1.2898277	103.8267592\
+	restaurant	1.2697364	103.8149970\
+Nalan	restaurant	1.3065740	103.8519697\
+AZMI Restaurant	restaurant	1.3082645	103.8531008\
+Kailash Parbat	restaurant	1.3080263	103.8526338\
+Black Bear BBQ & Smokehouse	restaurant	1.3312501	103.8073712\
+Barrio by Kulto	restaurant	1.3314818	103.8075163\
+Baker & Cook	restaurant	1.3316053	103.8075600\
+La Braceria	restaurant	1.3316622	103.8071430\
+Heng Kee	restaurant	1.2851493	103.8460087\
+Hwee Kee (Pork jelly)	restaurant	1.2854295	103.8456331\
+Morning Bak Kut Teh	restaurant	1.2854201	103.8457270\
+Tai Wah Pork Noodle	restaurant	1.2853893	103.8458276\
+Ah Heng Curry Chicken Bee Hoon Mee	restaurant	1.2852123	103.8460140\
+California Pizza Kitchen	restaurant	1.3063758	103.8286540\
+N B Tham Clinic	clinic	1.3225422	103.8533853\
+No Ai TCM Clinic	clinic	1.3247660	103.8578117\
+Fayidha	restaurant	1.3243811	103.8531136\
+	restaurant	1.3239546	103.8519098\
+188 Cafe	restaurant	1.3239870	103.8514819\
+Kian Lian	food_court	1.3267069	103.8448998\
+Go2eat	restaurant	1.3531168	103.8349650\
+Kian Lian	restaurant	1.3248539	103.8505750\
+Chinese Cuisine	restaurant	1.3250696	103.8503318\
+Nam Kee Chicken Rice Restaurant	restaurant	1.3519170	103.8352150\
+Pasta J	restaurant	1.3520122	103.8351895\
+Daawat Tandoori	restaurant	1.3520700	103.8351606\
+Suwen TCM Clinic Pte Ltd	clinic	1.3524338	103.8349052\
+Parker	restaurant	1.3521203	103.8351418\
+Kai Juan	restaurant	1.3254558	103.8496904\
+O\'b7pen Pasta & Grill	restaurant	1.3262646	103.8457014\
+Mega Foodcourt	food_court	1.3264674	103.8443323\
+Rice House Vegetarian	restaurant	1.3168910	103.8881842\
+master chef	restaurant	1.2822242	103.8420243\
+NamNam	restaurant	1.2945669	103.8530943\
+Hawker Chan	restaurant	1.2831091	103.8429241\
+	food_court	1.2880087	103.8270998\
+	food_court	1.2885007	103.8272945\
+Food Paradise	food_court	1.2861500	103.8294952\
+	food_court	1.2885685	103.8293024\
+Good Luck Beer House	restaurant	1.3004866	103.8592537\
+Sedap	restaurant	1.2634924	103.8207546\
+Coffee Shiop	restaurant	1.3404760	103.8465359\
+Sterling Clinic & Surgery	clinic	1.3506468	103.8762537\
+Institute of Mental Health	hospital	1.3818667	103.8845994\
+Famouse Sungei Rd Trishaw Laksa	restaurant	1.2853310	103.8459124\
+Wicked Grill	restaurant	1.3047633	103.8961394\
+Charity Bar	restaurant	1.2787882	103.8452540\
+Bishan Cafeteria	food_court	1.3504373	103.8494268\
+Eight Immortals Vegetarian - Toa Payoh	restaurant	1.3332560	103.8473430\
+Din Tai Fung	restaurant	1.3922387	103.8952583\
+Eat Inn	food_court	1.3388369	103.8873544\
+18 grill	restaurant	1.3362738	103.8888695\
+Tsuta Japanese Soba Noodles	restaurant	1.3361996	103.8887063\
+EAT	food_court	1.3364804	103.8890109\
+Hawker Chan Liao Fan	restaurant	1.3361760	103.8886544\
+Tim Ho Wan	restaurant	1.3358567	103.8887998\
+Hei Sushi	restaurant	1.3349104	103.8891493\
+Kwan Inn Vegetarian Food	restaurant	1.3160510	103.8862610\
+Chiew Clinic	clinic	1.3620335	103.8850930\
+North Canteen	food_court	1.3819659	103.8493067\
+South Canteen	food_court	1.3780771	103.8493526\
+Foodgle Hub	food_court	1.3770148	103.8494925\
+RW Selmor	restaurant	1.3054550	103.8521706\
+Telok Blangah Mall		1.2736798	103.8089509\
+Koh Grill & Sushi Bar	restaurant	1.3039270	103.8330285\
+Potato Head	restaurant	1.2804415	103.8416914\
+Chung Cheng Prawn Noodles and Chilli Mee	restaurant	1.3033222	103.8638978\
+Roasted Chicken Rice	restaurant	1.3319249	103.8502122\
+Beach Road Hainanese Scissors-Cut Curry Rice	restaurant	1.3095121	103.8577982\
+Geylang Lorong 9 Beef Hor Fun	restaurant	1.3122158	103.8766338\
+Ming Kee Bugis Chicken Rice	restaurant	1.3492961	103.8499686\
+Entre-Nous Creperie	restaurant	1.2962911	103.8546745\
+Founder Bakut Teh	restaurant	1.3053166	103.8602515\
+	restaurant	1.3313292	103.8492469\
+East Ocean Restaurant	restaurant	1.3022761	103.8347626\
+Teppankyaki Hamburg	restaurant	1.2773609	103.8447315\
+Pizza Hut	restaurant	1.3921992	103.8952922\
+Swensen's	restaurant	1.3921987	103.8952356\
+Tuk Tuk Cha Treasures	restaurant	1.3922592	103.8949172\
+Xian Seafood Village	restaurant	1.3868605	103.8293983\
+NY Night Market	restaurant	1.2633630	103.8218345\
+Hai Tien Lo	restaurant	1.2921879	103.8583615\
+Hong Xiang	restaurant	1.2895589	103.8273306\
+Lian Eng Hwa	restaurant	1.2895200	103.8274272\
+Liang Kee	restaurant	1.2894543	103.8275680\
+Chingu BBQ Korean	restaurant	1.2893953	103.8277115\
+Kerbal-Basic TCM Clinic	clinic	1.2893739	103.8277584\
+Poh Huat	restaurant	1.2893310	103.8278550\
+Quan Le Yan Seafood	restaurant	1.2893055	103.8279019\
+Mu Liang Zai Liang Kee	restaurant	1.2892894	103.8279489\
+Kheng Nan Lee Teochew Porridge	restaurant	1.2892639	103.8279958\
+Lim Joo Hin Eating House	restaurant	1.2892411	103.8280441\
+Xian Seafood Village	restaurant	1.3868279	103.8294329\
+Yet Con	restaurant	1.2962415	103.8553784\
+Two men bagels	restaurant	1.2748822	103.8444788\
+FoodPlace 25 Ltd	food_court	1.3057541	103.8574359\
+Fleurette	restaurant	1.3175444	103.8529779\
+Open Farm Community	restaurant	1.3057982	103.8155057\
+Wine & Chef	restaurant	1.2793399	103.8414507\
+Meta	restaurant	1.2793983	103.8414617\
+TwentyFive Degrees	restaurant	1.3007398	103.8516436\
+Thai Gold Food	restaurant	1.2999673	103.8511519\
+Yak Kin Mookata	restaurant	1.2998875	103.8510779\
+Zenso	restaurant	1.2999226	103.8511270\
+Spicy House Hot Pot	restaurant	1.2898204	103.8438862\
+Food emo	restaurant	1.3101228	103.8568780\
+Foodcourt indian/chinese food	food_court	1.3105041	103.8563826\
+San Yuen Gourmet	restaurant	1.3115838	103.8600812\
+\uc0\u20013 \u22269 \u22909 \u21619 \u36947 	restaurant	1.3113722	103.8599060\
+Bob's	restaurant	1.3110050	103.8602115\
+Great Wall Acupuncture Clinic	clinic	1.2891531	103.8162302\
+Chang Cheng Foodcourt	food_court	1.2883300	103.8155536\
+Ya Hua Bah Kut Teh Eating House	restaurant	1.2893302	103.8320905\
+Murugappa	restaurant	1.3065704	103.8522521\
+Warehouse Singapore	restaurant	1.2904305	103.8456118\
+Palm Beach	restaurant	1.2863746	103.8542368\
+Swee Guan Hokkien Mee	restaurant	1.3139070	103.8855201\
+Food Republic	restaurant	1.2639869	103.8222194\
+Aston Specialties	restaurant	1.3188728	103.8936829\
+Swensen's	restaurant	1.3186388	103.8938222\
+Beyond The Dough Pizzeria	restaurant	1.3027263	103.8578918\
+Haidilao Hot Pot	restaurant	1.2898804	103.8455540\
+Kou Wei Eating House	food_court	1.2867177	103.8420737\
+meat and green	restaurant	1.2866158	103.8491250\
+Andhra Curry	restaurant	1.3071460	103.8508605\
+Dim Sum Wen Dao Shi	restaurant	1.3141353	103.8784434\
+	restaurant	1.2820830	103.8414827\
+	restaurant	1.2816841	103.8425394\
+Soul Food	restaurant	1.2864645	103.8145214\
+A Medical Clinic	clinic	1.2774422	103.8402447\
+Dim Sum Haus	restaurant	1.3050520	103.8548739\
+Bones'n Barrels	restaurant	1.2600868	103.8233126\
+Super loco	restaurant	1.2899346	103.8391362\
+Bakalaki Greek Taverna	restaurant	1.2920646	103.8379650\
+Omot\'e9	restaurant	1.3546748	103.8309133\
+Seared	restaurant	1.3052756	103.8252223\
+Nando's	restaurant	1.3049835	103.8234299\
+Lagnaa... bare foot dining	restaurant	1.3064398	103.8522642\
+NTUC FairPrice		1.3744432	103.8856498\
+Day & Night	restaurant	1.2840890	103.8342887\
+Sin Hoi Sai	restaurant	1.2847398	103.8339874\
+Qi Ji	restaurant	1.3720916	103.8937553\
+NTUC FairPrice		1.3718302	103.8941221\
+Yong Soon Investments Pte Ltd	food_court	1.3705565	103.8946102\
+Kang Kar Food Court	food_court	1.3715393	103.8943996\
+Hi-Five	restaurant	1.3043243	103.8544114\
+Usman	restaurant	1.3097541	103.8540222\
+Tuk Wan Kitchen	restaurant	1.3715052	103.8290802\
+	restaurant	1.2810815	103.8420681\
+NTUC Fairprice		1.3863502	103.8931925\
+Kopitiam City	food_court	1.3832573	103.8935661\
+Food Paradise	food_court	1.3863295	103.8933336\
+De Tian	food_court	1.3741007	103.8910564\
+Shandong Restaurant	restaurant	1.2878895	103.8493079\
+Chicken & beer Korean	restaurant	1.2872746	103.8493012\
+Singapore Seafood Restaurant	restaurant	1.2883601	103.8492465\
+Izakaya Shindo	restaurant	1.2875604	103.8492867\
+Marina Bay Seafood	restaurant	1.2868058	103.8494341\
+Sahara	restaurant	1.2873860	103.8492928\
+JU95	restaurant	1.2865783	103.8495323\
+Eat Sum Thing	restaurant	1.2877439	103.8492895\
+Sultans Table	restaurant	1.2869001	103.8493960\
+Forum Restaurant	restaurant	1.2866651	103.8494922\
+Dumpukht Grill & Curry	restaurant	1.2877925	103.8492854\
+Sultan Palace	restaurant	1.2880896	103.8493166\
+Gosso	restaurant	1.2876453	103.8492854\
+Tong Fu Ju	restaurant	1.2869937	103.8493716\
+Curry village	restaurant	1.2863425	103.8496934\
+Haldhi Mexicana	restaurant	1.2875228	103.8492912\
+Whitley Rd Big Prawn Noodle	food_court	1.3080919	103.8857841\
+Zhenwei ZiChar	restaurant	1.3383576	103.8451228\
+Wen Dou Sek	restaurant	1.3142194	103.8784288\
+Jalan Sultan Prawn Mee	restaurant	1.3111754	103.8725526\
+A Noodle Story	restaurant	1.2791052	103.8465162\
+ZamZam Singapore	restaurant	1.3022268	103.8585110\
+Blanco Court Prawn Mee	restaurant	1.3001978	103.8595808\
+Chen's Mapo Tofu	restaurant	1.2773043	103.8486944\
+Express	restaurant	1.2768189	103.8482612\
+Monster Curry	restaurant	1.2766996	103.8481955\
+Bistecca	restaurant	1.2932473	103.8413881\
+Fuku	restaurant	1.2936663	103.8416751\
+Chikuwa Tei	restaurant	1.2938467	103.8417991\
+Spathe Public House	restaurant	1.2938936	103.8418380\
+Table At 7	restaurant	1.2939352	103.8418648\
+Hachi	restaurant	1.2939787	103.8418984\
+Xin Yue	restaurant	1.2933948	103.8418736\
+Mondo Mio	restaurant	1.2913730	103.8411145\
+Que Pasa	restaurant	1.3018307	103.8390949\
+Indian cheap restaurant	restaurant	1.3085277	103.8571826\
+KOK SEN	restaurant	1.2803176	103.8417385\
+Isetan		1.3056450	103.8315860\
+\uc0\u20013 \u22269 \u20013 \u21307  Chinese medical centre	clinic	1.3004442	103.8538867\
+New Manlee Bak Kut Teh	restaurant	1.3000037	103.8540896\
+CoCo Ichibanya	restaurant	1.2998004	103.8539010\
+Xin Wang Hong Kong Cafe	restaurant	1.2992545	103.8542782\
+Dr Steven Ang Asthetic & Family Clinic	clinic	1.2890851	103.8161898\
+Pacific Family Clinic	hospital	1.2891999	103.8162752\
+\uc0\u26080 \u21517 \u28023 \u21335 \u40481 \u39277 	restaurant	1.2888906	103.8160460\
+\uc0\u20061 \u23467 \u26684 \u28779 \u38149 	restaurant	1.2982757	103.8556510\
+Ong's Clinic	clinic	1.3027238	103.8524129\
+Shine Korea Supermarket		1.3018337	103.8525786\
+Genki Sushi	restaurant	1.3000551	103.8541314\
+Tres Amigos	restaurant	1.3003588	103.8593791\
+LA Pizzaiola	restaurant	1.3815796	103.8296633\
+Depot Road Zhen Shan Mei Claypot Laksa	restaurant	1.2863520	103.8044101\
+	restaurant	1.2831929	103.8330465\
+U Stars Supermarket		1.3964212	103.8890273\
+Food Paradise	food_court	1.3967708	103.8891222\
+Sunbeam	clinic	1.3937889	103.8891266\
+Medivene Clinic & Surgery	clinic	1.3967943	103.8893207\
+	food_court	1.3261082	103.8742842\
+Modern Cuisine	restaurant	1.2937547	103.8417427\
+Amber Tandoor Restaurant	restaurant	1.3090559	103.8532319\
+Da Bao Lorong 15	restaurant	1.3140835	103.8780875\
+Fish & Chicks	restaurant	1.3733616	103.8540159\
+BARRO mex out	restaurant	1.3011874	103.8384112\
+Rubato	restaurant	1.3311997	103.8070448\
+Two Chefs Sin Ming Ave	restaurant	1.3633088	103.8356651\
+Kam Jia Zhuang Seafood #01-1690	restaurant	1.3684673	103.8441542\
+Wedang @ Golden Mile	restaurant	1.3031370	103.8639373\
+Hawker Chan Liao Fan @ Toa Payoh	restaurant	1.3316965	103.8494010\
+Sin Keng Seng Restaurant	food_court	1.3284108	103.8699879\
+Food Loft @10	food_court	1.3270102	103.8714433\
+River South (Hoe Nam) Prawn Noodles	restaurant	1.3287049	103.8695612\
+Meng Kee Hougang Fried Oyster	restaurant	1.3289987	103.8698501\
+Red House Seafood	restaurant	1.2910150	103.8459571\
+Briyani by Hamidah Bi	restaurant	1.3268631	103.8850307\
+Straits Kitchen	restaurant	1.3064248	103.8334719\
+Happy Chef Western Food	restaurant	1.3051686	103.8625118\
+Holy Grill	food_court	1.3080890	103.8854071\
+R	food_court	1.3083982	103.8861489\
+Kanshoku Ramen Bar	restaurant	1.3007449	103.8393819\
+Kanshouku Ramen Bar	restaurant	1.3042145	103.8317497\
+Xin Mei Xiang Zheng Zong Lor Mee	food_court	1.3083615	103.8860550\
+Depot Road Zhen Shan Mei Claypot Laksa (#01-75	restaurant	1.2863631	103.8045743\
+Lau Phua Chay Authentic Roasted Delicacies	restaurant	1.2863910	103.8044857\
+South Buona Vista Teochew Boneless Duck Rice	restaurant	1.3098525	103.8562825\
+Hainan Fried Hokkien Prawn Mee	restaurant	1.3028790	103.8638826\
+Saizeriya	restaurant	1.2847179	103.8446477\
+\uc0\u23494 \u26031 \u28248 \u33756 \u39302  Hunan Cuisine Restaurant	restaurant	1.2840243	103.8442223\
+NTUC FairPrice		1.3633878	103.8354915\
+Al Falah Restaurant Pte Ltd	restaurant	1.3730715	103.8861383\
+National Cancer Centre Singapore Proton Therapy Centre	hospital	1.2813333	103.8380544\
+Sin Heng Kee Porridge	restaurant	1.3750351	103.8858868\
+Samy's Curry	restaurant	1.3059521	103.8119630\
+Kopitiam	food_court	1.3925295	103.8762755\
+ProHealth Medical Group @ Fernvale LRT	clinic	1.3923951	103.8763298\
+Kopitiam	food_court	1.3760349	103.8798143\
+Stirling Seafood	food_court	1.2904106	103.8034190\
+Pizza Hut	restaurant	1.3708810	103.8458546\
+	restaurant	1.2649091	103.8055986\
+NTUC Foodfare	food_court	1.3686022	103.8345730\
+Ang Mo Supermarket		1.3687701	103.8346254\
+Gourmet Express	food_court	1.3508384	103.8505525\
+oberstrasse	restaurant	1.3084986	103.8622024\
+Hokkai Villa	restaurant	1.2836252	103.8483817\
+Botan	restaurant	1.2835591	103.8484517\
+Food on Fire	restaurant	1.2833726	103.8488417\
+Kazbar	restaurant	1.2837210	103.8485571\
+Wine Connection	restaurant	1.2838970	103.8483986\
+Pizza Art	restaurant	1.2897728	103.8378541\
+Pipes By Hattendo	restaurant	1.2803357	103.8405451\
+ABC Nasi Kandar	restaurant	1.3089498	103.8554202\
+	restaurant	1.3048839	103.8548167\
+Song Fa Bak Kut Teh	restaurant	1.2888992	103.8476105\
+Ichiban Sushi	restaurant	1.3923271	103.8953715\
+Himalaya Kitchen	restaurant	1.3323193	103.8840938\
+Urgent Care Centre	hospital	1.2869166	103.8016072\
+Canteen	restaurant	1.2856294	103.8013559\
+Fuling F&B Pte Ltd	restaurant	1.2868928	103.8102014\
+Tiong Shian Food Court	food_court	1.2826229	103.8423622\
+K88 Coffee House	food_court	1.2814723	103.8435944\
+Leo\'92s cafe	restaurant	1.3040417	103.8506854\
+Geylang Bahru Market & Food Centre	food_court	1.3214245	103.8700349\
+Coffee & Tea	food_court	1.2736641	103.8091171\
+The Summit	restaurant	1.3189899	103.8165951\
+Prague Microbrewery & restaurant	restaurant	1.2796647	103.8398488\
+Pastamania	restaurant	1.3115518	103.8570220\
+Chic-a-boo Fried Chicken	restaurant	1.3109393	103.8565211\
+Saute-san	restaurant	1.3113112	103.8570066\
+Din Tai Fung	restaurant	1.3113122	103.8565575\
+Swensen's	restaurant	1.3108970	103.8566130\
+Food Republic	food_court	1.3116557	103.8563508\
+Suki-Ya	restaurant	1.3033735	103.8726798\
+Poulet	restaurant	1.3029075	103.8728219\
+Astons	restaurant	1.3027424	103.8730099\
+A One Claypot House	restaurant	1.3036795	103.8725004\
+Sanook Kitchen	restaurant	1.3028284	103.8728825\
+Old Town White Coffee	restaurant	1.3033112	103.8725806\
+Encik Tan	food_court	1.3037425	103.8724839\
+Yu Kee Specialities	restaurant	1.3024455	103.8736278\
+Aji-ichi	restaurant	1.3031817	103.8733460\
+EAT.	restaurant	1.3021839	103.8768030\
+Tiong Bahru Yong Tao Hu	restaurant	1.3022157	103.8770525\
+COCA Restaurant	restaurant	1.3020494	103.8761585\
+Nihon Mura Express	restaurant	1.3023368	103.8763362\
+The Balmoral Clinic	clinic	1.3022590	103.8766971\
+Yum Yum	food_court	1.3021994	103.8761200\
+Joyden Treasures	restaurant	1.3019748	103.8763585\
+Pastamania!	restaurant	1.3021287	103.8766370\
+New Teck K\'e9e	restaurant	1.3021633	103.8769552\
+Miryoku	restaurant	1.3021051	103.8768296\
+Marutama Ra-men	restaurant	1.3023449	103.8770296\
+Canton Paradise	restaurant	1.3920637	103.8952306\
+Sukiya \uc0\u12377 \u12365 \u23478 	restaurant	1.3005963	103.8447319\
+Nando's	restaurant	1.3010300	103.8451922\
+Royal Host	restaurant	1.3031267	103.8339801\
+	restaurant	1.2839135	103.8342043\
+Monster Curry	restaurant	1.2633143	103.8223570\
+Iroha Mart		1.3008678	103.8452662\
+Swensen's	restaurant	1.3001747	103.8448853\
+Hoshino Coffee	restaurant	1.2996813	103.8455329\
+Japanese Gourmet Town	restaurant	1.2632877	103.8217323\
+Vineyard	restaurant	1.2790723	103.8012157\
+Balestier Road Hoover Rojak	restaurant	1.3229085	103.8551526\
+True Blue Cuisine	restaurant	1.2945459	103.8493977\
+Lime	restaurant	1.2855401	103.8465873\
+Santi\'92s	restaurant	1.2815704	103.8479771\
+Miyako Teppanyaki & Grill	restaurant	1.2929983	103.8589521\
+Fumee by Habanos	restaurant	1.2918106	103.8595985\
+G-Clinic	clinic	1.2921193	103.8597838\
+Gyu Jin	restaurant	1.2930053	103.8588437\
+Tomi Sushi	restaurant	1.2929906	103.8590708\
+Teppei Syokudo	restaurant	1.2933804	103.8595197\
+Mexout	restaurant	1.2933930	103.8596744\
+Korean Tofu House	restaurant	1.2936254	103.8594926\
+Joe & Dough	restaurant	1.2933390	103.8596801\
+d\'f6nergy	restaurant	1.2934273	103.8596709\
+Thai Affair	restaurant	1.2934683	103.8595087\
+Momma Kong\'92s	restaurant	1.2836180	103.8452137\
+Real Food	restaurant	1.3004926	103.8403755\
+The Daily Cut	restaurant	1.2841639	103.8512025\
+Real Food	restaurant	1.2942934	103.8556552\
+Thai Palace	restaurant	1.3823587	103.8934859\
+ProHealth	clinic	1.3826272	103.8937854\
+Yue Hwa Eating House	food_court	1.2815513	103.8127626\
+Broadway	food_court	1.3746334	103.8858824\
+Nakhon Kitchen	restaurant	1.3917316	103.8951185\
+Ajisen Ramen	restaurant	1.3917200	103.8947598\
+Encik Tan	food_court	1.3918091	103.8951492\
+Shabu Sai	restaurant	1.3916522	103.8950661\
+Sheng Siong		1.3990861	103.8894388\
+7 Stars	restaurant	1.3990370	103.8899278\
+Happy Hawkers Koufu	food_court	1.3975159	103.8968279\
+Jin Jin - Eating House	restaurant	1.2985656	103.8558134\
+The Olive Tree Family Clinic & Surgery	clinic	1.3871009	103.8904646\
+Anchorvale 303 Foodcourt	food_court	1.3871637	103.8903825\
+Little Farms		1.2930751	103.8267442\
+Little Farms		1.3170084	103.8434398\
+Little Farms		1.2768898	103.8458010\
+Hand in Hand Beijing Restaurant	restaurant	1.3069105	103.8561385\
+Seafood Paradise \uc0\u27138 \u22825 \u28023 \u39854 	restaurant	1.2897151	103.8449476\
+Tino's Pizza	restaurant	1.2864011	103.8278066\
+Sushi Tei	restaurant	1.2864181	103.8271753\
+Sin Chie Toke Huan Hainanese Curry Rice	restaurant	1.3628816	103.8883057\
+Coffeeshop	restaurant	1.3646467	103.8901780\
+Swensen's	restaurant	1.3507859	103.8718945\
+Pastamania	restaurant	1.3506399	103.8727255\
+Sushi Tei	restaurant	1.3503743	103.8728068\
+Bali Thai	restaurant	1.3507808	103.8723911\
+Jack's Place	restaurant	1.3508850	103.8723555\
+greendot	restaurant	1.3505969	103.8724086\
+Yoogane	restaurant	1.3502343	103.8730011\
+Ichiban Boshi Kaisen	restaurant	1.3509124	103.8718642\
+Mad Jack	restaurant	1.3502831	103.8729600\
+Jeju Kitchen	restaurant	1.3499790	103.8729091\
+PratuNam	restaurant	1.3511193	103.8724294\
+Sushi Express	restaurant	1.3499328	103.8732658\
+Yakiniku-Go	restaurant	1.3507894	103.8719926\
+Monster Curry	restaurant	1.3510860	103.8721959\
+Din Tai Fung	restaurant	1.3511729	103.8723703\
+Shabu-Go	restaurant	1.3506913	103.8718587\
+Go-Ang Pratunam Chicken Rice	restaurant	1.3509503	103.8720919\
+Idaten Udon	restaurant	1.3507636	103.8717451\
+Yaki Yaki Bo	restaurant	1.3507466	103.8719388\
+Cafe Football Singapore	restaurant	1.3426092	103.8677736\
+Sheng Siong		1.3324962	103.8671383\
+Ang Mo Supermarket		1.3322734	103.8684226\
+	food_court	1.3533959	103.8899754\
+Sinfoodie Food Court	food_court	1.3347633	103.8892121\
+Isle Eating House	food_court	1.3006562	103.8494671\
+Happy Hawkers	food_court	1.3896623	103.8927994\
+Kwek Seng Huat Eating House	food_court	1.3929273	103.8869825\
+Ajisen Ramen	restaurant	1.3509598	103.8486185\
+Watami Singapore	restaurant	1.3503000	103.8482899\
+Swensen's	restaurant	1.3510087	103.8485592\
+Genki Sushi	restaurant	1.3504307	103.8484028\
+Dian Xiao Er	restaurant	1.3505083	103.8489859\
+Hainanese Chicken Rice	restaurant	1.2984660	103.8557040\
+Koufu @ SKGH	food_court	1.3956674	103.8922797\
+SaladBox (underground level)	restaurant	1.3007103	103.8560263\
+Sumo Bar Happy	restaurant	1.2983950	103.8516595\
+P\'f3	restaurant	1.2891588	103.8372609\
+Fat Prince	restaurant	1.2779646	103.8449081\
+Poh Ho	restaurant	1.3125965	103.8992245\
+Island Family Clinic (Anchorvale)	clinic	1.3990265	103.8898700\
+Mrs Pho House	restaurant	1.3178021	103.8522979\
+	restaurant	1.3178556	103.8522389\
+U Stars Xpress		1.3175959	103.8524655\
+Loo's Hainanese Curry Rice	restaurant	1.2847410	103.8324177\
+Yi Huat Cafe Pte Ltd	food_court	1.3732374	103.8853527\
+Seafood	restaurant	1.3002695	103.8535270\
+Local eating house	food_court	1.2882310	103.8486245\
+Arya Restaurant	restaurant	1.3052941	103.8524140\
+Genki Sushi	restaurant	1.2848171	103.8448830\
+Lai Huat Seafood Restaurant	restaurant	1.3105727	103.8608702\
+	restaurant	1.3531537	103.8723681\
+	restaurant	1.3540931	103.8725820\
+	restaurant	1.3531678	103.8722107\
+	restaurant	1.3544676	103.8719919\
+The Providore	restaurant	1.2834294	103.8514891\
+Ding Dong	restaurant	1.2821848	103.8477463\
+Mangiamo	restaurant	1.3040350	103.8507635\
+U Stars Supermarket		1.3899417	103.8928342\
+Acumed Medical Group	clinic	1.3898950	103.8927828\
+Crystal Jade Golden Palace	restaurant	1.3039518	103.8358924\
+NTUC Fairprice		1.2738786	103.8013013\
+il Cielo	restaurant	1.3058888	103.8293823\
+Opus Bar & Grill	restaurant	1.3059597	103.8291440\
+Leong Ji Kitchen	restaurant	1.3503113	103.8689949\
+Hoki Gourmet Dining	restaurant	1.3272154	103.8984874\
+Perfect 12 Food Paradise	restaurant	1.3857428	103.8975872\
+Kopitiam	restaurant	1.3502604	103.8760253\
+Lolla	restaurant	1.2811700	103.8456045\
+bak kut teh	restaurant	1.3745337	103.8866063\
+Fragrant Wok	restaurant	1.3729237	103.8860370\
+Mitsuba Japanese Restaurant	restaurant	1.2890626	103.8463927\
+En Sushi	restaurant	1.2990204	103.8536705\
+Sen of Japan	restaurant	1.2857920	103.8597962\
+Jin Fine Dining	restaurant	1.2833066	103.8489188\
+NTUC FairPrice		1.3698274	103.8731096\
+Divine Realm Vegetarian Restaurant	restaurant	1.3720658	103.8864926\
+Chin Sin Huan Eating House	restaurant	1.3021372	103.8836242\
+Tenderbest Makcik Tuckshop	restaurant	1.3982967	103.8843634\
+Food Village	food_court	1.3023485	103.8347581\
+Crystal Jade Hong Kong Kitchen	restaurant	1.3028532	103.8342952\
+Ming Chung 1933	restaurant	1.3082965	103.8579017\
+Two Chefs Eating Place	restaurant	1.3071159	103.8001590\
+Seng Huat Coffee House	food_court	1.3718488	103.8936296\
+My Family Clinic (Hougang Central)	clinic	1.3707002	103.8947294\
+Eng's Wantan Noodle	restaurant	1.3720854	103.8937885\
+Radiant Medical & Aesthetic Centre	clinic	1.3716219	103.8934328\
+Hougang Central Medical Clinic	clinic	1.3708928	103.8947603\
+	restaurant	1.3058916	103.8292741\
+Red Star	restaurant	1.2874606	103.8411551\
+Food Paradise	food_court	1.3916707	103.8795453\
+French Fold	restaurant	1.2800594	103.8471857\
+Hup Kah Noodle House	restaurant	1.3705478	103.8564581\
+Hoo Kee Bak Chang	restaurant	1.2835316	103.8158846\
+Hoo Kee Bak Chang	restaurant	1.2794314	103.8467746\
+The Three Elephants	restaurant	1.2837610	103.8159423\
+Selegie Soya Bean	restaurant	1.3964833	103.8728948\
+Pizza Hut	restaurant	1.3958465	103.8728366\
+Kang Clinic	clinic	1.3959610	103.8728442\
+Mongolia Taste \uc0\u33945 \u21476 \u21619 \u36947 	restaurant	1.2980840	103.8387905\
+Jew Kit	restaurant	1.2981523	103.8388468\
+Killiney Medical Clinic	clinic	1.2989130	103.8395433\
+Killiney Curry Puff	restaurant	1.2983815	103.8390587\
+Korea House	restaurant	1.2984794	103.8391341\
+#87 Just Thai	restaurant	1.2989896	103.8396011\
+Jeong\'92s Jjajang	restaurant	1.2986745	103.8393359\
+Orh-Kee Noodles \uc0\u28534 \u24535 \u40629 \u23478 	restaurant	1.2988408	103.8394808\
+Rafaels Bistro	restaurant	1.2802118	103.8474868\
+Trattoria Amanda	restaurant	1.2803859	103.8479873\
+The White Rocket	restaurant	1.2799611	103.8477289\
+Raku Raku	restaurant	1.2799188	103.8477031\
+Eighteen By Three	restaurant	1.2798732	103.8476753\
+Souperich	restaurant	1.2798245	103.8476457\
+Lotus Medical Clinic	clinic	1.3393816	103.8857690\
+Rinting Berjaya Eating House	restaurant	1.3378036	103.8869128\
+Golden 88 Cafeteria	restaurant	1.3380391	103.8867751\
+Medora Clinic & Surgery	clinic	1.3381568	103.8866274\
+Muslim Delights	restaurant	1.3382076	103.8865994\
+GLC Restaurant	restaurant	1.3383026	103.8865471\
+Kay Lee Roast Meat	restaurant	1.3383994	103.8864937\
+Old Street Bakuteh	restaurant	1.3384981	103.8864394\
+Chettinad Catering Pte Ltd	restaurant	1.3387061	103.8862881\
+Tai Seng Clinic	clinic	1.3387994	103.8862108\
+Positano	restaurant	1.3010664	103.8599008\
+The Connoisseur Concerto	restaurant	1.2634782	103.8215558\
+Morganfield's	restaurant	1.2636588	103.8233681\
+Crystal Jade Jiang Nan	restaurant	1.2635633	103.8234106\
+Encik Tan	food_court	1.2647805	103.8211328\
+LeNu	restaurant	1.2636712	103.8219776\
+A One Claypot House	restaurant	1.2651095	103.8222927\
+Sushi Tei	restaurant	1.2634041	103.8213100\
+Fish & Co.	restaurant	1.2638358	103.8231680\
+No Signboard Seafood	restaurant	1.2644000	103.8224167\
+Tapas Club	restaurant	1.2636808	103.8230309\
+Soup Restaurant	restaurant	1.2634515	103.8218562\
+Sushi Goshin	restaurant	1.2647340	103.8223147\
+Akimitsu	restaurant	1.2634774	103.8232273\
+Crystal Jade Dine In	restaurant	1.2633792	103.8223528\
+Hokkaido-ya	restaurant	1.2634450	103.8212251\
+Pak's Bibim	restaurant	1.2634141	103.8224989\
+Tajimaya	restaurant	1.2635555	103.8228745\
+London Fat Duck	restaurant	1.2647236	103.8222250\
+Kagurazaka Saryo	restaurant	1.2638065	103.8229773\
+Ichiban Boshi	restaurant	1.2648940	103.8223385\
+Dian Xiao Er	restaurant	1.2634402	103.8219584\
+CHINDAMANI INDIAN RESTAURANT	restaurant	1.3538192	103.8869429\
+	restaurant	1.3093143	103.8549728\
+Danshiri	restaurant	1.3093633	103.8548689\
+Boishakhi	restaurant	1.3094303	103.8544843\
+Fakruddin	restaurant	1.3095449	103.8542949\
+Mohammadi	restaurant	1.3096448	103.8543750\
+Ashoka Tandoor	restaurant	1.3097286	103.8544343\
+Al-Mustafa	restaurant	1.3099089	103.8545503\
+	restaurant	1.3101724	103.8547435\
+ToriQ	restaurant	1.3003023	103.8445856\
+Arasu	restaurant	1.3110289	103.8530895\
+Local Fresh Seasonal	restaurant	1.3127464	103.8537835\
+Thalappakatti	restaurant	1.3113105	103.8556889\
+Kalam Restaurant	restaurant	1.3113650	103.8556180\
+Kim Leng	restaurant	1.3100467	103.8563591\
+Wang Tian Kitchen	restaurant	1.2772384	103.8369021\
+Machan's	restaurant	1.3088833	103.8513626\
+Gayatri Restaurant	restaurant	1.3096602	103.8520062\
+Ayush Ayurvedic	clinic	1.3100182	103.8522813\
+Ayush Ayurvedic	clinic	1.3101296	103.8523607\
+Raj	restaurant	1.3108280	103.8529076\
+Mr. Uncle & Auntie	restaurant	1.3077717	103.8505735\
+Mustard	restaurant	1.3079397	103.8506749\
+Arunachala Bhavan	restaurant	1.3080525	103.8507647\
+Kumbhak Arna	restaurant	1.3080910	103.8507942\
+Tulasi	restaurant	1.3081737	103.8508423\
+Happy Seafood Village	restaurant	1.3130496	103.8811697\
+The Aryaa	restaurant	1.2904181	103.8519359\
+Broadway Coffeeshop	food_court	1.3713479	103.8816021\
+Moonstone Seafood	food_court	1.3274863	103.8662290\
+Yardbird	restaurant	1.2829171	103.8580616\
+Bijin Nabe	restaurant	1.2856938	103.8451498\
+GUDSHT	restaurant	1.3013741	103.8362011\
+Shujin	restaurant	1.3014993	103.8363513\
+Chil Chil	restaurant	1.3015659	103.8362873\
+I'm Kim Junior	restaurant	1.3010404	103.8356234\
+Fish Tales	restaurant	1.3009399	103.8360199\
+Su Superstar	restaurant	1.3009805	103.8359134\
+Pope Jai Thai	restaurant	1.3011290	103.8356644\
+I-Tec		1.3134045	103.8851494\
+Banh Mi Thit	restaurant	1.3138972	103.8853398\
+Yes Natural	restaurant	1.3159351	103.8837600\
+Yes Natural Retail		1.3158211	103.8837425\
+Fatt Choy Mui Seafood	restaurant	1.3093581	103.8846880\
+Choo Zai Zhai Vegetarian Food	food_court	1.3079617	103.8853744\
+Kontiki	restaurant	1.2949650	103.8665912\
+Simply Wrapps	restaurant	1.2839956	103.8523795\
+Banh Mi Brothers	restaurant	1.2840861	103.8523312\
+Thunder Tea Rice	food_court	1.2805639	103.8507094\
+Guacamole 360 Degree	restaurant	1.2837123	103.8529986\
+The Pelican	restaurant	1.2852254	103.8538824\
+PS.Cafe	restaurant	1.2863798	103.8541399\
+Saizeriya	restaurant	1.3330827	103.8494612\
+Pizza Hut	restaurant	1.3330817	103.8493507\
+Koufu \uc0\u21475 \u31119 	food_court	1.3329128	103.8471167\
+Kongfu Zai (Chicken Rice)	food_court	1.2803502	103.8504999\
+Teochew City (Mixed Rice)	food_court	1.2803911	103.8504999\
+Claypot Bak Kuh Teh	food_court	1.2804668	103.8505019\
+Seng Keng (Local Delights)	food_court	1.2805044	103.8504966\
+Mr Popiah (Local Delights)	food_court	1.2804112	103.8506428\
+Shree Ganga (Indian Vegetarian)	food_court	1.2804420	103.8506253\
+Loy Kee (Yong Tau Foo)	food_court	1.2804890	103.8505851\
+Kway Chap (Pig's Organ Soup)	food_court	1.2805185	103.8505683\
+Fishing (Fish Soup)	food_court	1.2804689	103.8504718\
+Yong Kee (BBQ Seafood)	food_court	1.2805969	103.8507454\
+Hao Jia (Ban Mian)	food_court	1.2806123	103.8506542\
+Sunny Viet (Vietnamese Cuisine)	food_court	1.2807293	103.8505274\
+Song Kee (Noodle House)	food_court	1.2807172	103.8504282\
+Biryani Point	food_court	1.2807407	103.8503860\
+Lai Heng (Char Kway Teow)	food_court	1.2807548	103.8504081\
+Mama Thai	food_court	1.2805268	103.8502525\
+Bao Luo Wan Xiang	food_court	1.2805436	103.8504114\
+Central Food (Mixed Veg Rice)	food_court	1.2806180	103.8502411\
+Baekjung	restaurant	1.2829456	103.8488604\
+Fresh Plus	restaurant	1.2789839	103.8514848\
+Wheat Baumkuchen	restaurant	1.2787425	103.8507244\
+Non Neng Ji	restaurant	1.2842755	103.8523812\
+Ichiban Sushi	restaurant	1.3326260	103.8481557\
+B.E.D.	food_court	1.3353297	103.8889437\
+Colony	restaurant	1.2908946	103.8602408\
+The Soup Spoon	restaurant	1.2789025	103.8514101\
+Odette	restaurant	1.2899467	103.8515230\
+National Kitchen	restaurant	1.2908177	103.8520323\
+Hachi	restaurant	1.2895150	103.8512809\
+Y\'e0n	restaurant	1.2902368	103.8517102\
+Art di Daniele Sperindio	restaurant	1.2907462	103.8519927\
+Waku Ghin	restaurant	1.2838861	103.8590156\
+The Halia	restaurant	1.3113613	103.8149868\
+Les Amis	restaurant	1.3066080	103.8313124\
+Rakuichi	restaurant	1.3032714	103.8104309\
+Ippoh Tempura Bar	restaurant	1.3057463	103.8101389\
+Candlenut	restaurant	1.3058126	103.8100340\
+RedDot BrewHouse	restaurant	1.3061481	103.8115096\
+Morsels	restaurant	1.3058715	103.8120148\
+Long Beach @ Dempsey	restaurant	1.3060362	103.8119089\
+Tree Lizard	restaurant	1.3060067	103.8120843\
+Blu Kouzina	restaurant	1.3034603	103.8103807\
+Kerala Ayuverda Clinic	clinic	1.3084318	103.8514547\
+Chettinadu Restaurant	restaurant	1.3083863	103.8514255\
+Local Handmade Pau	food_court	1.3078996	103.8853438\
+Pasta Risotto (#01-09)	restaurant	1.3081415	103.8856287\
+London Grill (#01-08)	restaurant	1.3081235	103.8855360\
+Hock Guan	food_court	1.3080447	103.8856700\
+Homemade Springroll	food_court	1.3080508	103.8856853\
+Cho Kee Noodle	food_court	1.3079279	103.8854155\
+Xin Xin Yong Tau Fu (#01-07)	restaurant	1.3079768	103.8855268\
+3rd Culture Brewing Co.	food_court	1.3086377	103.8863201\
+Kim Satay	restaurant	1.3079868	103.8855751\
+Albert Street Prawn Noodle (#01-10)	restaurant	1.3081748	103.8857279\
+Yi Ji Fried Hokkien Prawn Me	food_court	1.3081007	103.8858041\
+BJ Grill Seafood	food_court	1.3081213	103.8858475\
+Meng Kee Minced Meat Noodle & Foo Chow Fish Ball	food_court	1.3081335	103.8858805\
+Chef Hong H.K. Bakery (#01-131)	food_court	1.3084401	103.8858939\
+132 Claypot Rice (#01-132)	food_court	1.3084496	103.8859184\
+Tiong Bahru Lor Mee (#01-124)	food_court	1.3084290	103.8860930\
+Lau Par Sat Taiwan Porridge	food_court	1.3084465	103.8864538\
+Dong Ji Fried Kway Teow	food_court	1.3085029	103.8860199\
+Hougang Jing Jia Mutton Soup	food_court	1.3084368	103.8861126\
+Minged Mixed Noodle	food_court	1.3084179	103.8860714\
+Tai Seng Herbal Soup	food_court	1.3085099	103.8860376\
+OAR Seafood Soup	food_court	1.3084412	103.8861314\
+Shake Farm	restaurant	1.2808425	103.8498694\
+Hafu Dog	restaurant	1.2801321	103.8499485\
+Cedele	restaurant	1.2786537	103.8488053\
+Pho Street	restaurant	1.2812740	103.8508754\
+Manichi	restaurant	1.2824432	103.8510501\
+Simply Mex	restaurant	1.2824405	103.8510409\
+"Economic Bee Hoon, Rice"	food_court	1.3227606	103.8668925\
+Parklane Zha Yun Tun Mee House	restaurant	1.3005531	103.8507217\
+Hock Lam Street Popular Beef Kway Teow	food_court	1.3079428	103.8853269\
+Jack's Kitchen	food_court	1.3079723	103.8853963\
+Mama Recipe Biryani Rice	food_court	1.3079816	103.8854190\
+Safura Muslim Food	food_court	1.3081974	103.8853494\
+(chinese)	food_court	1.3079525	103.8853505\
+Wah Cheong		1.3096677	103.8842822\
+Selera Rasa	food_court	1.3081541	103.8852390\
+Bhai 418	food_court	1.3136011	103.8856724\
+Johnson Duck	food_court	1.3136326	103.8856733\
+Grills & Fries	food_court	1.3135504	103.8856726\
+Mixed Rice	restaurant	1.3147146	103.8896629\
+L32 Handmade Noodles	restaurant	1.3139383	103.8870129\
+Ji Xiang Vegetarian	food_court	1.3153999	103.8832439\
+Ho Kee Pau	restaurant	1.3153891	103.8836087\
+True Veggie	restaurant	1.3154884	103.8836905\
+Turkish Cuisine	food_court	1.2807597	103.8503227\
+Healthy Carbs	food_court	1.2806608	103.8503407\
+Swanston		1.2854613	103.8430302\
+Gustoso Grill (Pasta Western Food)	food_court	1.2805439	103.8503761\
+Jason (Yong Tau Foo)	food_court	1.2806014	103.8502473\
+AS (Indian Classic Cuisine)	food_court	1.2805854	103.8502559\
+Qiu Lian (Ban Miam)	food_court	1.2806383	103.8503747\
+The Beef House (Homemade Beefball Noodles)	food_court	1.2806234	103.8503515\
+Hao Heng (Dim Sum)	food_court	1.2805570	103.8503942\
+Delhi Express (Indian Cuisine)	food_court	1.2807661	103.8505222\
+Jing	restaurant	1.2853737	103.8539290\
+LITTLE SHEEP	restaurant	1.2858792	103.8540316\
+Hot Spot Cafe Chill Crab	restaurant	1.3028124	103.8520764\
+KDS Supermarket		1.3127942	103.8711163\
+Food Haven	restaurant	1.3128565	103.8719992\
+Chang Cheng Mee Wah	restaurant	1.3127475	103.8729167\
+Boon Keng Clinic & Surgery	clinic	1.3141948	103.8708068\
+New Town Clinic	clinic	1.3143585	103.8712262\
+	restaurant	1.3144216	103.8713878\
+ABC Bistro Restaurant Pte Ltd	restaurant	1.3140630	103.8780943\
+Full House F&B	restaurant	1.3141823	103.8784986\
+Lok Lok Buffet	restaurant	1.3142482	103.8789281\
+Volcano Seafood Grill	restaurant	1.3142056	103.8787120\
+Abila Coffee Shop	restaurant	1.3141935	103.8786506\
+KS21	restaurant	1.3148170	103.8804894\
+Heng Long Teochew Porridge Rice	restaurant	1.3041929	103.8604914\
+Nan Hua Chang	restaurant	1.3046591	103.8606720\
+Al-Sahira Prata House	restaurant	1.3040962	103.8610243\
+Nanjing Restaurant	restaurant	1.3055641	103.8603530\
+Maya's Kitchen	restaurant	1.3056036	103.8604134\
+Camp Kilo Charcoal Club	restaurant	1.3060099	103.8661228\
+Melaka Satay Celup	restaurant	1.3087526	103.8769611\
+89.7 Supper Club	restaurant	1.3185448	103.8915066\
+Circuit Road Market and Food Centre	food_court	1.3236329	103.8854608\
+Circuit Road Market and Food Center	food_court	1.3278147	103.8870688\
+LifeCare Medical Centre	clinic	1.3290079	103.8869933\
+Chin Choo Clinic	clinic	1.3292358	103.8862708\
+	restaurant	1.3291460	103.8859087\
+MacPherson Medical Clinic	clinic	1.3276628	103.8852316\
+	restaurant	1.3281617	103.8853015\
+Fishball Story	restaurant	1.3287397	103.8854743\
+OneCare Medical Tiong Bahru	clinic	1.2860880	103.8287953\
+Chua and Partners Family Clinic	clinic	1.2857232	103.8267238\
+Kim San Leng	restaurant	1.3159915	103.8862216\
+The Curry Culture	restaurant	1.3018681	103.8401555\
+Maha mart		1.2740384	103.8103393\
+Soi Social	restaurant	1.2550928	103.8200500\
+Mr Bean	restaurant	1.2516775	103.8171735\
+Show Bites	restaurant	1.2513061	103.8172838\
+The Bay	restaurant	1.2579301	103.8174400\
+Alaturka	restaurant	1.3011933	103.8599707\
+Paper Rice	restaurant	1.3000468	103.8450315\
+Humpback	restaurant	1.2790530	103.8408499\
+Kingyo Izakaya	restaurant	1.2800114	103.8473846\
+Took Lae Dee	restaurant	1.3358776	103.8888454\
+Kinzan-ya	restaurant	1.3359073	103.8889100\
+Bakerzin	restaurant	1.3362716	103.8886109\
+The Clinic @ Tai Seng	clinic	1.3363319	103.8885834\
+Relish	restaurant	1.3226598	103.8144840\
+The Poiz Centre		1.3314360	103.8685709\
+Wildseed	restaurant	1.2788313	103.8131184\
+Balance&Cleanse	clinic	1.3110371	103.8736811\
+The Colonial at Scotts	restaurant	1.3107925	103.8351667\
+Ah Hock Fried Hokkien\'a0Mee	restaurant	1.3643100	103.8665843\
+Ang Mo Kio 409 Fried Carrot Cake #24	restaurant	1.3643368	103.8665255\
+Chomp Chomp Satay #34	restaurant	1.3643722	103.8664288\
+Ang Sa Lee Oyster Omelette #33	restaurant	1.3643603	103.8664649\
+Chong Pang Huat #26	restaurant	1.3642961	103.8666122\
+"Ah Mai Satay Bee Hoon, Hainan Beef Noodles"	restaurant	1.3642327	103.8665725\
+Scoop Wholefoods		1.3047518	103.8234804\
+boons	restaurant	1.3147653	103.8898504\
+Rex	restaurant	1.2997545	103.8499430\
+Our Place Bistro	restaurant	1.3158440	103.8046429\
+Soon Heng Rojak	restaurant	1.3325280	103.8477809\
+Island Family Clinic (Sengkang)	clinic	1.3860490	103.8932903\
+Cavemen	restaurant	1.3267958	103.8438484\
+Hong Fuling 81 Eating House	food_court	1.3238847	103.8562644\
+Teck Seng	food_court	1.3267556	103.8431204\
+UnPackt		1.2772417	103.8486417\
+UnPackt		1.3727295	103.8295882\
+Drs Lim & Chan Clinic	clinic	1.3506791	103.8757569\
+Tim Ho Wan	restaurant	1.3094900	103.8641755\
+Cold Storage		1.3107963	103.8638602\
+Sin Mee Eating House	food_court	1.3246744	103.8422318\
+Otou San	restaurant	1.3268252	103.8465593\
+AE Medical Clinic	clinic	1.3982332	103.8779152\
+Food Fair	food_court	1.3268167	103.8463775\
+Chui Huay Lim Teochew Cuisine	restaurant	1.3138127	103.8412960\
+Bgain @ Lavender Food Court	food_court	1.3134410	103.8603066\
+Cheng Mun Chee Kee Pig Organ Soup	restaurant	1.3122215	103.8600475\
+Old Airport Road Lor Mee	restaurant	1.3267650	103.8433510\
+Whampoa Keng	restaurant	1.3267023	103.8449687\
+	restaurant	1.3537124	103.8677983\
+	restaurant	1.3541097	103.8677127\
+Yolo Icon Village	restaurant	1.2748018	103.8445204\
+Yechun Xiao Jiang Nan	restaurant	1.2917633	103.8565284\
+Gu Thai Noodle Cafe	restaurant	1.2908050	103.8574070\
+Tingkat Peranakan	restaurant	1.2910797	103.8584628\
+Beyond Pancakes	restaurant	1.2908091	103.8575241\
+Seoul Garden	restaurant	1.2907860	103.8580531\
+Tenkaichi	restaurant	1.2906557	103.8574049\
+Attap House	restaurant	1.2910447	103.8586043\
+Kai Garden	restaurant	1.2906311	103.8574987\
+Pizza Hut	restaurant	1.2909162	103.8579625\
+HAO Eccellente		1.2924588	103.8583556\
+SuperNature		1.3061755	103.8288115\
+PappaMia	restaurant	1.2808657	103.8536934\
+Bushido	restaurant	1.2796199	103.8550764\
+Absolute Thai	restaurant	1.2801467	103.8531490\
+Erwin's Gastrobar	restaurant	1.2791705	103.8543371\
+Standing Sushi Bar	restaurant	1.2802137	103.8540272\
+Harry's	restaurant	1.2797563	103.8552441\
+Ichiban Boshi	restaurant	1.2802691	103.8532418\
+Paul	restaurant	1.2806832	103.8535474\
+Paradise Classic	restaurant	1.2798806	103.8528492\
+The House of Robert Timms	restaurant	1.2804041	103.8533115\
+Din Tai Fung	restaurant	1.2821396	103.8577897\
+Black Tap Craft Burgers & Beers	restaurant	1.2820768	103.8574136\
+Black Knight	restaurant	1.2823168	103.8575624\
+Punjab Grill	restaurant	1.2821735	103.8575104\
+Family Medicine Clinic Chinatown	clinic	1.2847410	103.8447974\
+Menya mlMusashi Bukotsu	restaurant	1.2854259	103.8448778\
+Tendon Kohaku	restaurant	1.2855814	103.8452730\
+A-One	restaurant	1.2852521	103.8448587\
+Nanbantei Yakitori	restaurant	1.2855613	103.8449497\
+Haikee Brothers	restaurant	1.2856541	103.8450438\
+Chicken Pot	restaurant	1.2856295	103.8451058\
+Tongue Tip Lanzhou Beef Noodles	restaurant	1.2857415	103.8451305\
+Rice Hut	restaurant	1.2855208	103.8449086\
+Lou Yau	restaurant	1.2850344	103.8447803\
+Peach Garden	restaurant	1.2856687	103.8452940\
+Hoshino Coffee	restaurant	1.2853462	103.8448849\
+Jom Makam Seafood	restaurant	1.3286981	103.8487771\
+Food Republic	food_court	1.3061766	103.8319464\
+Broadway	food_court	1.3318418	103.8679596\
+Don Don Donki		1.3116110	103.8565105\
+Ramen Dining Keisuke Tokyo	restaurant	1.2568193	103.8201452\
+The Refinery	restaurant	1.3106818	103.8622261\
+New Udon Moo-ka-ta	restaurant	1.3119451	103.8615937\
+Soi 47 Thai Food	restaurant	1.3103291	103.8617312\
+Red Eye Smokehouse	restaurant	1.3107158	103.8610851\
+Wanton	restaurant	1.3133394	103.8605592\
+Parkway Cancer Centre	clinic	1.3050898	103.8353997\
+Haig Road Putu Piring	restaurant	1.3721355	103.8456960\
+Tuckshop	food_court	1.2638784	103.8204579\
+Harry's	restaurant	1.2649725	103.8200025\
+PappaRich	restaurant	1.2640034	103.8200482\
+Elemen	restaurant	1.2651602	103.8200806\
+Song Fa Bak Kut Teh	restaurant	1.2647835	103.8200328\
+The Soup Spoon	restaurant	1.2639856	103.8204727\
+Yoshi Sushi	restaurant	1.2644950	103.8203029\
+Ramen Hitoyoshi	restaurant	1.2642415	103.8202973\
+The Orange Lantern	restaurant	1.2641709	103.8203795\
+Pastamania	restaurant	1.2639426	103.8204011\
+Seoul Garden Hot Pot	restaurant	1.2640028	103.8204200\
+Seoul Garden	restaurant	1.2650433	103.8199843\
+Yoshi Kushi & Gyoza	restaurant	1.2643957	103.8203538\
+Raffles Medical	clinic	1.2648169	103.8200050\
+The Bettership	restaurant	1.2993450	103.8474637\
+YuBa Hut	restaurant	1.3314520	103.8683658\
+Yu Long Dua Hotpot	restaurant	1.3268157	103.8474267\
+Kim Keat House	food_court	1.3251579	103.8538449\
+Sanook Kitchen	restaurant	1.3270736	103.8467759\
+Toa Payoh West Market & Food Centre	food_court	1.3381665	103.8447311\
+NTUC FairPrice		1.3209299	103.8702956\
+Food Summon	restaurant	1.2856958	103.8439666\
+Xin Tian Di	restaurant	1.2860315	103.8442044\
+FairPrice		1.3190161	103.8638661\
+Yuan Xing	restaurant	1.3199565	103.8644014\
+NTUC FairPrice Finest		1.2910424	103.8502148\
+Flavours By Saute	restaurant	1.2914951	103.8500874\
+Ajumma's	restaurant	1.2914605	103.8501347\
+Bizen	restaurant	1.2915771	103.8496243\
+Paradise Dynasty	restaurant	1.2915512	103.8506091\
+Godmama	restaurant	1.2911580	103.8502071\
+Old Street Bak Kut Teh	restaurant	1.2914001	103.8503378\
+Sushi Express	restaurant	1.2911267	103.8501282\
+Big Appetite	food_court	1.2916589	103.8496755\
+Sukiya \uc0\u12377 \u12365 \u23478 	restaurant	1.2914380	103.8501924\
+Yi Jia Buangkok Eating House	restaurant	1.3808568	103.8792515\
+MERCI MARCEL CLUB STREET	restaurant	1.2825252	103.8471354\
+Tanamera Coffee	restaurant	1.2899590	103.8373625\
+The Boiler	restaurant	1.2896513	103.8564281\
+D.O.P Mozzarella Bar & Restaurant	restaurant	1.2901854	103.8391107\
+Bonchon Chicken	restaurant	1.3923036	103.8953040\
+Boon Tong Kee	restaurant	1.3917571	103.8946985\
+Genki Sushi	restaurant	1.3923524	103.8952659\
+Eat 3 Bowls	restaurant	1.3922231	103.8951907\
+Chicken Pot	restaurant	1.3923950	103.8949451\
+EAT.	restaurant	1.3923365	103.8950828\
+N\'faodle	restaurant	1.3918546	103.8946845\
+Sally's	restaurant	1.3918319	103.8952039\
+Northeast Medical Group	clinic	1.3920890	103.8955251\
+Labyrinth	restaurant	1.2897950	103.8560630\
+NTUC FairPrice		1.3316740	103.8685537\
+Plank Sourdough Pizza	restaurant	1.3035511	103.8122224\
+Baanying	restaurant	1.3205831	103.8428508\
+	restaurant	1.3262773	103.8487809\
+Seorae	restaurant	1.3916573	103.8947707\
+White Restaurant	restaurant	1.3916824	103.8947107\
+Procross Medical Center	clinic	1.3318806	103.8683080\
+Indosunda	restaurant	1.3210420	103.8417058\
+Sinn Ji Hainanese Chicken Rice	restaurant	1.3205918	103.8419595\
+Lechon Republic	restaurant	1.3214454	103.8414428\
+Hyperbaric Medical Services	clinic	1.3247768	103.8422485\
+Braseiro	restaurant	1.3208715	103.8418353\
+Hong Kong Street Family Restaurant	restaurant	1.3203475	103.8421275\
+Nanta BBQ	restaurant	1.3183471	103.8436827\
+The Botanic	restaurant	1.2945684	103.8534421\
+Din Tai Fung	restaurant	1.3018245	103.8395520\
+Din Tai Fung	restaurant	1.3038511	103.8352878\
+Din Tai Fung	restaurant	1.3911475	103.8760643\
+Din Tai Fung	restaurant	1.2931018	103.8319215\
+Din Tai Fung	restaurant	1.3510873	103.8486158\
+Din Tai Fung	restaurant	1.2936406	103.8528918\
+Din Tai Fung	restaurant	1.3038447	103.8331828\
+Ah Loy Thai	restaurant	1.2983834	103.8567011\
+Niu Dian Beef Noodles	restaurant	1.3267031	103.8458437\
+New Ubin	restaurant	1.3272870	103.8466730\
+Malay Food Centre	restaurant	1.3106681	103.8727247\
+Hokkien Man Hokkien Mee (1913 Coffeeshop)	restaurant	1.3357407	103.8564664\
+Warong Nasi Pariaman	restaurant	1.3029855	103.8591642\
+Daessiksin	restaurant	1.2999728	103.8541786\
+Aburi Kaisen Don Keisuke	restaurant	1.2997409	103.8539441\
+Ramen Champion	restaurant	1.2995902	103.8544019\
+Rocku Yakiniku	restaurant	1.2996992	103.8544539\
+Poulet	restaurant	1.2996606	103.8542159\
+Marutama Ramen	restaurant	1.2997959	103.8539986\
+Suki-Ya	restaurant	1.2998020	103.8543243\
+Pratunam Plus	restaurant	1.2994100	103.8542354\
+Pizzamaru	restaurant	1.2999142	103.8540973\
+Astons Specialities	restaurant	1.2994105	103.8539591\
+Mala Xiang Guo	restaurant	1.2996184	103.8542519\
+Unauna	restaurant	1.2998839	103.8544286\
+Fish @ Bugis+	restaurant	1.2997555	103.8544120\
+Black Ball	restaurant	1.3001034	103.8541823\
+Seoul Yummy	restaurant	1.2995598	103.8541419\
+Scarlett		1.2999900	103.8543229\
+Nando's	restaurant	1.2989927	103.8547519\
+Flippers	restaurant	1.2989010	103.8548472\
+Ajisen Ramen	restaurant	1.2990705	103.8548753\
+Itacho Sushi	restaurant	1.2999291	103.8556329\
+Menya Musashi Takatora	restaurant	1.3000487	103.8557738\
+Kotsujiru Nabe	restaurant	1.2997995	103.8557843\
+Monster Curry	restaurant	1.2998495	103.8555840\
+Crystal Jade	restaurant	1.2998441	103.8555187\
+The Soup Spoon	restaurant	1.2997699	103.8556521\
+LeNu Chef Wai's Noodle Bar	restaurant	1.2996935	103.8557831\
+PastaMania	restaurant	1.3000985	103.8558301\
+Let's Eat!	restaurant	1.2997266	103.8557102\
+Tachinomiya	restaurant	1.3592615	103.8878328\
+Nakhom Kitchen	restaurant	1.3595091	103.8883789\
+Farrer Park Hospital	hospital	1.3126000	103.8540000\
+Nan Xian Chicken Rice	restaurant	1.3231559	103.8548079\
+	food_court	1.3856937	103.8730148\
+Gustoso	restaurant	1.3854559	103.8728067\
+	restaurant	1.3267660	103.8458647\
+The Ramen House	restaurant	1.3020341	103.8504186\
+Old Amoy Chendol	restaurant	1.2827420	103.8429092\
+NTUC FairPrice		1.3487949	103.8496434\
+NTUC Fairprice		1.2769332	103.8313294\
+NTUC Fairprice		1.3283770	103.8853008\
+NTUC Fairprice		1.2864788	103.8083891\
+NTUC FairPrice		1.3158326	103.8982559\
+NTUC FairPrice		1.3923315	103.8726240\
+NTUC FairPrice		1.3317511	103.8791816\
+NTUC Fairprice		1.2863838	103.8142036\
+NTUC FairPrice Finest		1.3911684	103.8759756\
+NTUC FairPrice		1.3540387	103.8707537\
+NTUC FairPrice		1.3364335	103.8888115\
+The Garden Club	restaurant	1.2771216	103.8484444\
+NTUC FairPrice		1.3126523	103.8727631\
+NTUC FairPrice		1.3388217	103.8489919\
+Gochi	food_court	1.2834079	103.8490628\
+Se\'f1or Taco	restaurant	1.2903525	103.8456666\
+Miss Tang's Rice Noodle \uc0\u21776 \u22823 \u23567 \u22992 \u23567 \u38149 \u31859 \u32447 	restaurant	1.2916861	103.8505824\
+Sushi Zushi	restaurant	1.2916362	103.8506452\
+Delibowl	restaurant	1.2912324	103.8503464\
+Steak & Sushi	restaurant	1.2914331	103.8497667\
+Yan Ji Gourmet	restaurant	1.2913472	103.8505077\
+The Oyster Bank	restaurant	1.2914185	103.8504330\
+Saap Saap Tha	restaurant	1.2912557	103.8501738\
+LeNu	restaurant	1.2915501	103.8496516\
+Afuri	restaurant	1.2915238	103.8500143\
+Keisuke Plus	restaurant	1.2915570	103.8494513\
+Mincheng Bibimbap	restaurant	1.2912356	103.8496057\
+Tae Woo Korean Restaurant	restaurant	1.2891409	103.8465754\
+Ramen Champion	restaurant	1.2889917	103.8463398\
+Sque Rotisserie & Alehouse	restaurant	1.2892005	103.8462625\
+Hot Pot Pin	restaurant	1.2890831	103.8464401\
+Rendezvous Hock Loke Kee	restaurant	1.2890073	103.8462903\
+Astons Specialities	restaurant	1.2891149	103.8464963\
+Bones 'n Slaw	restaurant	1.2893102	103.8466807\
+Man Man	restaurant	1.2891071	103.8467279\
+Marutama Ra-Men	restaurant	1.2888968	103.8462786\
+	food_court	1.2892695	103.8469362\
+Yoshi Sushi	restaurant	1.2890741	103.8465834\
+Chicha San Chen;Tendon Kohaku	restaurant	1.2888769	103.8467422\
+51 Soho	restaurant	1.2828952	103.8492156\
+The Soup Spoon	restaurant	1.3693563	103.8484830\
+Cold Storage		1.3314654	103.8067968\
+Cold Storage		1.2775827	103.8525052\
+Beach Road Kitchen	restaurant	1.2948096	103.8559530\
+Kopitam	restaurant	1.3121795	103.8776065\
+Food court	restaurant	1.3135688	103.8836743\
+Jalan Sultan Prawn Med	restaurant	1.3110382	103.8727959\
+Nihon Mura Express	restaurant	1.2994556	103.8479588\
+Chef Street	restaurant	1.2995707	103.8479599\
+The Tree	restaurant	1.2996002	103.8478673\
+Ajuma's	restaurant	1.2997972	103.8477801\
+NTUC FairPrice Xtra		1.2647712	103.8230258\
+kedai mamak nasi beriyani	restaurant	1.3024899	103.8586205\
+Shan Cheng	restaurant	1.3917398	103.8950345\
+Spotamin Cafe	restaurant	1.2887082	103.8341243\
+KEK Seafood (Chilli Crab)	restaurant	1.2857605	103.8036772\
+Papi\'92s Tacos	restaurant	1.2959092	103.8550066\
+Vatos Tacos	restaurant	1.2959351	103.8563298\
+Artemis restaurant (40th floor)	restaurant	1.2821237	103.8501264\
+Giant		1.3742656	103.8392817\
+Pho Street	restaurant	1.2813029	103.8643146\
+Hong Kong Sheng Kee Noodle House	restaurant	1.2813790	103.8643528\
+Chutney Mary	restaurant	1.2812365	103.8642817\
+Niigata Bento	restaurant	1.2812684	103.8642995\
+Sheng Siong		1.3140474	103.8704826\
+Sheng Siong		1.2954188	103.8100462\
+Sheng Siong		1.3216926	103.8596186\
+Sheng Siong		1.3931460	103.8870307\
+Sheng Siong		1.3518705	103.8360699\
+Sheng Siong		1.3390393	103.8554033\
+Sheng Siong		1.3917064	103.8801703\
+Sheng Siong		1.3978089	103.8813041\
+Giant		1.3647722	103.8474050\
+Giant		1.3728420	103.8539753\
+Giant Bishan 512		1.3497162	103.8499272\
+Giant		1.2777804	103.8192758\
+Giant		1.2869001	103.8184225\
+Giant		1.3533018	103.8714468\
+Giant Hougang 683		1.3737908	103.8861522\
+Giant		1.3191162	103.8924825\
+Scissor-cut Curry Rice	restaurant	1.3533143	103.8346842\
+Kim Satay	food_court	1.3079482	103.8854633\
+Hua Kee Hougang Famous Wan Ton Mee	food_court	1.3079086	103.8853583\
+Wong Poh Kopitiam	food_court	1.3261125	103.8556456\
+Prata Rajah	restaurant	1.3713321	103.8288804\
+Eu Yan Sang TCM Clinic	clinic	1.3916316	103.8949411\
+The Kid's Clinic	clinic	1.3915920	103.8949847\
+Watami Japanese Dining	restaurant	1.3115421	103.8561148\
+Shi Li Fang	restaurant	1.3115247	103.8561389\
+Malaysia Chiak!	food_court	1.3115097	103.8562466\
+Tim Ho Wan	restaurant	1.2932337	103.8318149\
+Din Tai Fung	restaurant	1.2835408	103.8506574\
+Din Tai Fung	restaurant	1.2937206	103.8570026\
+Mr Teh Tarik Eating House	food_court	1.3165674	103.8977098\
+Muchachos	restaurant	1.2790159	103.8471016\
+Ye Shang Hai Teochew porridge	restaurant	1.2868335	103.8133284\
+Alternative Pizza	restaurant	1.2947687	103.8596822\
+Ang Mo Supermarket		1.3580864	103.8442103\
+Ang Mo Supermarket		1.3618993	103.8554186\
+Ang Mo Supermarket		1.3716327	103.8802545\
+Parkway Shenton Medical Group	clinic	1.2807119	103.8497728\
+Bell's Crusine	restaurant	1.2913385	103.8563745\
+Meidi-Ya Food Court	food_court	1.2918733	103.8595928\
+elemen	restaurant	1.2926300	103.8600000\
+Kuishin Bo	restaurant	1.2958226	103.8589249\
+Kokoro Tokyo Mazesoba	restaurant	1.2955752	103.8584359\
+Kamon Udon	restaurant	1.2955162	103.8583219\
+Sumiya	restaurant	1.2957625	103.8588927\
+Maguro-Donya Miura-Misaki-Kou	restaurant	1.2954257	103.8582722\
+Kohaku Tendon	restaurant	1.2956241	103.8586714\
+Fugetsu Yakisoba	restaurant	1.2954545	103.8584023\
+Hanakatsu Katsudon	restaurant	1.2956878	103.8588498\
+Monster Curry	restaurant	1.2930399	103.8572655\
+Putien	restaurant	1.2934218	103.8568578\
+Wild Honey	restaurant	1.2940401	103.8557371\
+Flynn's Cicheti	restaurant	1.2945279	103.8557962\
+	restaurant	1.3506031	103.8691687\
+21 on Rajah	restaurant	1.3269455	103.8472946\
+Chui Xiang Kitchen	restaurant	1.3767841	103.8280620\
+Cross Street Food Centre	food_court	1.2816215	103.8491948\
+Chico-loco	restaurant	1.2816293	103.8474003\
+lucha loco	restaurant	1.2787783	103.8427475\
+Lee Fun Nam Kee	restaurant	1.3388982	103.8500843\
+Jin You Yuan Vegetarian 2nd	restaurant	1.3072891	103.8567126\
+Dumpling Darlings @ Amoy	restaurant	1.2804865	103.8469844\
+Singapore Seafood Restaurant	restaurant	1.2884575	103.8492290\
+The Skewer Bar	restaurant	1.3135732	103.8827070\
+Mok's Thai Cuisine	restaurant	1.3131410	103.8834859\
+Jia Bin Bak Kut Teh	restaurant	1.3139822	103.8543280\
+Song Fa Bak Kut Teh	restaurant	1.3916604	103.8761154\
+Tomo Izakaya	restaurant	1.2894693	103.8561786\
+B1STRO 8	food_court	1.3123749	103.8602022\
+Pizza Hut	restaurant	1.3045571	103.8337880\
+Kopitiam	food_court	1.3172300	103.8930000\
+Sushi Express	restaurant	1.3724352	103.8938620\
+Old Street Bak Kut Teh	restaurant	1.3725682	103.8939431\
+Ichiban Sushi	restaurant	1.3725172	103.8940009\
+Yakiniku-Go	restaurant	1.3723889	103.8939850\
+Saizeriya	restaurant	1.3724382	103.8940065\
+	food_court	1.3285884	103.8966529\
+Market Street Hawker Centre	food_court	1.2847738	103.8502341\
+Lang Nuong Viet Nam	restaurant	1.3121390	103.8599835\
+Ha-jun	restaurant	1.3102848	103.8638316\
+Dheli 6	restaurant	1.3077113	103.8504835\
+Zhen Neng Zhu	restaurant	1.3103839	103.8637507\
+One More	restaurant	1.3102351	103.8635518\
+Nature's Nutrition	restaurant	1.3102115	103.8637151\
+Korean Fusion BBQ	restaurant	1.3043849	103.8541413\
+Sing Ho	restaurant	1.3029709	103.8507047\
+Granny\'92s Pancakes	restaurant	1.2855555	103.8456742\
+	restaurant	1.3769967	103.8280719\
+Roasted Delight	restaurant	1.2805357	103.8504942\
+Spinach Soup	restaurant	1.3230707	103.8549017\
+Novena Peranakan Cuisine	restaurant	1.3204183	103.8420920\
+Cui Xiang Yuan	restaurant	1.3122979	103.8782321\
+	food_court	1.3129369	103.8801358\
+333 Bak Kut Teh	restaurant	1.3238737	103.8515663\
+Shanghai Pan-Fried Bun	restaurant	1.3181396	103.8438366\
+Hi Leskmi Nasi Lemak	restaurant	1.3232539	103.8548691\
+Kuya\'92s	restaurant	1.2973092	103.8549390\
+Claypot Porridge	restaurant	1.3325237	103.8850710\
+PizzaExpress	restaurant	1.3007562	103.8578065\
+Binomio	restaurant	1.2960226	103.8542164\
+How Hup	restaurant	1.3229665	103.8550483\
+Sin Bee Keng Restaurant	food_court	1.3244424	103.8576022\
+Mama & Machi Restaurant	restaurant	1.3047324	103.8539443\
+Bruno's Bistrot/Pizzeria & Grill	restaurant	1.3140162	103.8573306\
+Tamago-EN	restaurant	1.3506518	103.8724504\
+Soup Kitchen	restaurant	1.3507050	103.8726027\
+The Soup Spoon Union	restaurant	1.3507079	103.8725539\
+Prata Wala	restaurant	1.3506720	103.8726527\
+Tsui Wah \uc0\u32736 \u33775 	restaurant	1.2893534	103.8473309\
+Wahweda's	clinic	1.3069464	103.8515389\
+Akimitsu	restaurant	1.2997509	103.8451783\
+Rangoon Bar & Bistro	restaurant	1.3145727	103.8540610\
+Long Beach Seafood	restaurant	1.3137456	103.8281881\
+Jok Jok Mor	restaurant	1.3151935	103.8535060\
+Queen of WokFish Head Steamboat Restaurant	restaurant	1.3150807	103.8538182\
+Balestier Bak Kut Teh	restaurant	1.3249570	103.8504483\
+Beaujolais	restaurant	1.2815513	103.8454846\
+The Feather Blade	restaurant	1.2817126	103.8455742\
+Mazzo	restaurant	1.2820802	103.8458454\
+Royal Biriyani	restaurant	1.3180837	103.8436779\
+	restaurant	1.3224669	103.8631765\
+Mufiz	restaurant	1.3154030	103.8722207\
+Tai Peng Canteen	food_court	1.3192982	103.8960314\
+Priv\'e9 Tiong Bahru	restaurant	1.2849188	103.8333288\
+Haig Road Food Centre	food_court	1.3154275	103.8954762\
+	restaurant	1.2823721	103.8440277\
+Aloha Pok\'e9	restaurant	1.3033232	103.8340967\
+Milan Shokudo	restaurant	1.3918013	103.8947202\
+Hao Mart		1.3278267	103.8611225\
+Wang	food_court	1.3279513	103.8613968\
+Hao Mart		1.3281476	103.8602173\
+The Blackbird	restaurant	1.2776918	103.8038848\
+Toy Station		1.3225742	103.8137376\
+Priya Sen Skin & Laser Centre	hospital	1.3225665	103.8136561\
+Fat Belly	restaurant	1.3226175	103.8137249\
+99 Food Bazaar	restaurant	1.3199688	103.8926838\
+Madras New Woodlands	restaurant	1.3063689	103.8523830\
+Tiong Bahru Yong Tao Hu	restaurant	1.2839675	103.8340337\
+Little Elephant Thai Bistro	restaurant	1.2845787	103.8335509\
+Xian Ji Porridge	restaurant	1.2846017	103.8335327\
+3 Meals a Day	restaurant	1.3109765	103.8605713\
+ABC King Pte. Ltd.	restaurant	1.3112218	103.8621379\
+Soon Soon Wanton Noodles	restaurant	1.3128294	103.8605784\
+Parc Restaurant	restaurant	1.3123129	103.8606758\
+Wild Coco	restaurant	1.3112068	103.8608857\
+Scaled by Ah Hua Kelong	restaurant	1.3111069	103.8607476\
+The Chinese Kitchen	restaurant	1.3108738	103.8616282\
+Southpaw	restaurant	1.3108341	103.8612573\
+Ramen Masamune	restaurant	1.2784457	103.8437361\
+Chug Chug	restaurant	1.2778863	103.8435211\
+Grisliaa	restaurant	1.2782894	103.8418574\
+El Tardeo	restaurant	1.2781151	103.8423517\
+LEON	restaurant	1.2778664	103.8425136\
+Sofi Cafe + Pizza	restaurant	1.2776718	103.8427912\
+Barracuda Restaurant	restaurant	1.2776582	103.8428471\
+Twins Chicken	restaurant	1.2775739	103.8430051\
+Daejin	restaurant	1.2775533	103.8431490\
+Izakaya Sazangaku	restaurant	1.2775464	103.8431971\
+Izakaya Niningashi	restaurant	1.2775389	103.8432489\
+Unlimited Tanjong Buffet	restaurant	1.2775409	103.8437141\
+Sakari Dining	restaurant	1.2771483	103.8437540\
+Ryo Sushi	restaurant	1.2771147	103.8437492\
+Menya Sakura	restaurant	1.2770862	103.8437452\
+Kajiken	restaurant	1.2772074	103.8437623\
+Salmon King	restaurant	1.2769170	103.8437213\
+Royal Dragon	restaurant	1.2869498	103.8450493\
+Chi Toi Vietnamese Crusine	restaurant	1.2736172	103.8426210\
+Jin Yu Coffee House	restaurant	1.2736106	103.8424988\
+Dusk x Dawn	restaurant	1.2766613	103.8459187\
+Syohachi Yakiniku	restaurant	1.2765526	103.8460667\
+Sakhuntala's	restaurant	1.3060296	103.8521495\
+Prime		1.3952215	103.8959287\
+Koufu	food_court	1.3949757	103.8960696\
+Omu	restaurant	1.2932496	103.8564305\
+Loy Kee Chicken Rice & Porridge	restaurant	1.3231973	103.8542702\
+SATA CommHealth Potong Pasir Medical Centre	clinic	1.3290723	103.8700587\
+Streats	restaurant	1.2566243	103.8200247\
+Bountiful Restaurant	restaurant	1.2811314	103.8100182\
+Jubilee Garden Restaurant	restaurant	1.3304425	103.8546543\
+Qian Xi (Farrer Park) Restaurant	restaurant	1.3161274	103.8558827\
+Summer Garden Restaurant	restaurant	1.2775349	103.8171771\
+Tino's Pizza Caf\'e9	restaurant	1.2567801	103.8200085\
+Sessions	restaurant	1.2579425	103.8191200\
+Roost	restaurant	1.2566705	103.8201546\
+Ng Ah Sio Bak Kut Teh	restaurant	1.2569279	103.8201646\
+Paradise Classic	restaurant	1.2565265	103.8200783\
+Duckland	restaurant	1.2565234	103.8201772\
+LeNu	restaurant	1.2564517	103.8200773\
+Paradise Dynasty	restaurant	1.3039577	103.8328139\
+Guzman y Gomez	restaurant	1.3198047	103.8437199\
+Hao Mart		1.3730856	103.8295881\
+Swatow Seafood	restaurant	1.3337150	103.8509045\
+John Thai	restaurant	1.3255919	103.8488245\
+Crystal Jade	restaurant	1.3321028	103.8494431\
+Ming Ji Roasted Duck	restaurant	1.3229339	103.8551123\
+Bar Bar Black Sheep	restaurant	1.3225092	103.8142827\
+Meidi-Ya		1.2939643	103.8319923\
+Rasapura Masters	food_court	1.2857318	103.8596987\
+Old Chong Pang	restaurant	1.3231148	103.8548504\
+Carelink	clinic	1.3259807	103.8501156\
+Ananda Bhavan	restaurant	1.3132003	103.8566413\
+Selvi Stores		1.3061466	103.8500303\
+Pizza Hut	restaurant	1.3504207	103.8726757\
+Men-Men Tei	restaurant	1.2776802	103.8524889\
+O'Green	restaurant	1.2776033	103.8524344\
+Addictude	restaurant	1.2776481	103.8524638\
+Kraftwich	restaurant	1.2777746	103.8525417\
+Ah Khoo	restaurant	1.2777226	103.8525944\
+Little Bowl	restaurant	1.2778185	103.8525662\
+Cuan Noooodle	restaurant	1.2778643	103.8525955\
+Baja Fresh	restaurant	1.2779418	103.8526460\
+Pinto Thai	restaurant	1.2779881	103.8526735\
+Kopi & Tarts	restaurant	1.2780229	103.8526969\
+Arcade Fish Soup	restaurant	1.2780666	103.8527205\
+The Daily Cut	restaurant	1.2781087	103.8527559\
+Standing Sushi Bar	restaurant	1.2780626	103.8528668\
+Chiak!	restaurant	1.2780220	103.8529346\
+A Poke Theory	restaurant	1.2780480	103.8530580\
+PizzaExpress	restaurant	1.2781651	103.8530101\
+Xiao Ya Tou	restaurant	1.2793363	103.8429217\
+Seletar Hill Restaurant	restaurant	1.3851954	103.8725881\
+Jia Xiang Sarawak Kolo Mee	restaurant	1.2738628	103.8016137\
+Jia Xiang Sarawak Kolo Mee	restaurant	1.3359718	103.8890467\
+Jia Xiang Sarawak Kolo Mee	restaurant	1.2649858	103.8218000\
+Jia Xiang Sarawak Kolo Mee	restaurant	1.2909952	103.8563121\
+Jia Xiang Sarawak Kolo Mee	restaurant	1.2911605	103.8584893\
+Jia Xiang Sarawak Kolo Mee	restaurant	1.2751331	103.8446859\
+Lime House Caribbean	restaurant	1.2796461	103.8416929\
+Hoha Eating House	food_court	1.3336513	103.8945669\
+Ubi 33 Food House	food_court	1.3321422	103.8936743\
+Greenwood Fish Market	restaurant	1.3318499	103.8064393\
+Issin Machi	restaurant	1.3312235	103.8071991\
+Shin Yuu	restaurant	1.3313675	103.8068894\
+Faranese	restaurant	1.3315580	103.8067092\
+Peperoni Pizzeria	restaurant	1.2927241	103.8311184\
+Peperoni Pizzeria	restaurant	1.2950963	103.8589405\
+Bojio	restaurant	1.3535106	103.8334193\
+Kushi @ Thompson	restaurant	1.3535563	103.8333731\
+Seoul Zzip	restaurant	1.3536027	103.8333263\
+Huat Heng Fried Oyster	restaurant	1.3232256	103.8548148\
+Seng Huat Coffee House	food_court	1.2984055	103.8557695\
+Mufiz Restaurant	restaurant	1.3212167	103.8866941\
+	food_court	1.3748722	103.8503768\
+Yong Li Coffee Station	food_court	1.3210493	103.8867033\
+	food_court	1.3339105	103.8498131\
+Unihealth Toa Payoh	clinic	1.3335469	103.8493034\
+183 Food Court	food_court	1.3333711	103.8499216\
+Raffles Medical	clinic	1.3339080	103.8495277\
+Baan Ying	restaurant	1.3200417	103.8438667\
+Korean Tofu House	restaurant	1.2938475	103.8593334\
+Yang Yeon BBQ	restaurant	1.2856262	103.8451762\
+De Tian	food_court	1.2715185	103.8098248\
+Element on Tras	restaurant	1.2751005	103.8437586\
+Salmon Samurai	restaurant	1.2749230	103.8437467\
+Hokkaido Marche	restaurant	1.3003459	103.8402105\
+Ming Fa Fishball	restaurant	1.3536708	103.8343805\
+Tomyum Mama	restaurant	1.3534902	103.8345272\
+Molten diners	restaurant	1.3536254	103.8344167\
+Shenton Medical Group	clinic	1.3829151	103.8933453\
+	clinic	1.3716615	103.8940304\
+Thai-Tai Kitchen	restaurant	1.3268352	103.8464788\
+Two Blur guys	restaurant	1.3132952	103.8597476\
+Empress	restaurant	1.2872082	103.8513023\
+Casuarina Curry	restaurant	1.3303376	103.8754672\
+	food_court	1.3297035	103.8734974\
+TG 339 Eating House	food_court	1.3644965	103.8490927\
+Chen Family Clinic	clinic	1.3702358	103.8727691\
+Jmart		1.3642220	103.8489685\
+	food_court	1.3695433	103.8734513\
+Singapore Fried Hokkien Mee	restaurant	1.3230668	103.8549707\
+	restaurant	1.3701400	103.8729620\
+LiveWell Medical	clinic	1.3267486	103.8465576\
+The Kind Bowl	restaurant	1.2987567	103.8393735\
+Old Airport Rd Wanton Noodle	restaurant	1.3018790	103.8386870\
+Minmed Clinic (Sengkang)	clinic	1.3919980	103.8949214\
+Don Lech\'f3n	restaurant	1.3140655	103.8913309\
+Healthmark Family Clinic (Compassvale)	clinic	1.3950646	103.8958158\
+NTWU Canteen	food_court	1.3912546	103.8961731\
+Skyville@Dawson Food Court	food_court	1.2953302	103.8103800\
+Pho Viet	restaurant	1.3525572	103.8347590\
+At The Myo	restaurant	1.2768651	103.8400693\
+Dr. W Family Clinic	clinic	1.3164845	103.8055343\
+Yap Medicare Clinic & Surgery	clinic	1.3165799	103.8056430\
+VENUE by Sebastian	restaurant	1.2765986	103.8481197\
+Garden Clinic	clinic	1.3536722	103.8677737\
+As-Safeera Restaurant	restaurant	1.3533607	103.8677349\
+Alley on 25	restaurant	1.2992451	103.8577334\
+YSW seafood	restaurant	1.3221707	103.8634883\
+Misaki Japanese Restaurant	restaurant	1.2791391	103.8546382\
+Home Bar.Kitchen	restaurant	1.3159330	103.8576666\
+Settlers Cafe	restaurant	1.3142988	103.8575178\
+Podi & Poriyal	restaurant	1.3138496	103.8572618\
+Liu TCM clinic	clinic	1.2825111	103.8255999\
+Health First Family Clinic	clinic	1.2825856	103.8256950\
+	food_court	1.3354059	103.8858269\
+La Kopi	restaurant	1.3531980	103.8720306\
+Sri Aachi Aappakadai	restaurant	1.3084857	103.8514807\
+Samayai by 6ixers	restaurant	1.3085705	103.8515451\
+	restaurant	1.3306291	103.8943489\
+	food_court	1.3316512	103.8976050\
+Gurkha Palace	restaurant	1.3086173	103.8515793\
+	food_court	1.3314942	103.8939119\
+Fo You Yuan Vegetarian Restaurant	restaurant	1.3152933	103.8595912\
+Sheng Kee Curry Chicken Noodle	restaurant	1.3075107	103.8568494\
+Marti Derm La Formula	clinic	1.3043747	103.8598693\
+Maxim	food_court	1.3317055	103.8433162\
+Benson Salted Duck Rice	restaurant	1.3317621	103.8433205\
+Kumoya	restaurant	1.3042959	103.8599367\
+Haji Kadi	restaurant	1.3147790	103.8599373\
+Saizeriya	restaurant	1.3912553	103.8761605\
+Han's	restaurant	1.3913251	103.8758449\
+E-Sarn	restaurant	1.3529476	103.8337293\
+Haniffa		1.3058966	103.8526085\
+Arya Bhavan	restaurant	1.3101369	103.8563919\
+Lazeez	restaurant	1.3081188	103.8529467\
+Tomahawk	restaurant	1.3206463	103.8419111\
+Sing Thai	restaurant	1.3212148	103.8416033\
+Prawnography	restaurant	1.3204780	103.8420476\
+Bangkok Street Mookata	restaurant	1.3730000	103.8295881\
+Springleaf Prata	restaurant	1.3970687	103.8187665\
+Unicuz Chinese Cuisine	restaurant	1.3977746	103.8185597\
+Han's Union	restaurant	1.3975780	103.8186155\
+Mongkok Dimsum	restaurant	1.3980418	103.8184838\
+Beng Cheng Restaurant	restaurant	1.3992612	103.8179926\
+Hakka Ampang Yong Tau Fu	restaurant	1.3993240	103.8179697\
+Ngee Fou Restaurant Ampang Yueng Tow Fu	restaurant	1.3994469	103.8179249\
+Mookata	restaurant	1.3984544	103.8183095\
+Meeras Curry Banana Leaf	restaurant	1.3985789	103.8182593\
+\uc0\u23439 \u35760 \u32905 \u39592 \u33590 	restaurant	1.3986393	103.8182350\
+Soon Kee Duck Rice Eating House	restaurant	1.3982104	103.8184078\
+Bee Heong Palace Restaurant	restaurant	1.3713339	103.8289612\
+Springleaf Taiwan Porridge	restaurant	1.3717296	103.8292360\
+Hoover Fish Porridge	restaurant	1.3231294	103.8549981\
+Koat Aroy	restaurant	1.3362070	103.8864541\
+The Boneless Kitchen	restaurant	1.3360587	103.8860727\
+Blanco Prawn Noodle House	restaurant	1.3961286	103.8728532\
+Keat Lim Vegetarian Food	restaurant	1.3232629	103.8541982\
+Meidi-Ya		1.2918384	103.8595448\
+Don Don Donki		1.2635544	103.8202252\
+HAO Eccellente		1.2936580	103.8553490\
+So Good Char Chan Tang	restaurant	1.3000213	103.8373581\
+Eat	food_court	1.3000890	103.8370717\
+iSTEAKS @ myVillage	restaurant	1.3649420	103.8652160\
+Eat 3 Bowls	restaurant	1.3045173	103.8609166\
+Julaiha	restaurant	1.3323718	103.8846894\
+Tokyo Soba	restaurant	1.2754114	103.8442423\
+\uc0\u19992 \u22253 \u37202 \u23478 	restaurant	1.2870905	103.8346108\
+J.2 \uc0\u32654 \u39135 \u38401 	food_court	1.2871381	103.8346101\
+Peach Garden	restaurant	1.2883872	103.8372087\
+Peach Garden	restaurant	1.2851052	103.8488766\
+Selera Nasi Padang	restaurant	1.2892826	103.8171762\
+EATcetera	restaurant	1.2900211	103.8173307\
+Tsuta Japanese Soba Noodles	restaurant	1.2634496	103.8226922\
+Sheng Siong		1.3918936	103.8714570\
+	restaurant	1.3978868	103.8816973\
+Lepak One Corner by Yassin Kampung	restaurant	1.3947869	103.8884548\
+\uc0\u27494 \u21513 \u22763 \u28900 \u28078 	restaurant	1.2982517	103.8556303\
+\uc0\u34521 \u21151 \u22827 	restaurant	1.2983555	103.8557079\
+Din Tai Fung	restaurant	1.3000571	103.8448187\
+Marmaris	restaurant	1.3055021	103.8528995\
+Jia Xiang	restaurant	1.3040664	103.8543640\
+	restaurant	1.2810123	103.8458880\
+Genki Sushi	restaurant	1.3006708	103.8447839\
+Uncle Fong Hot pot Restaurant \uc0\u26041 \u21460 \u21460 \u37325 \u24950 \u32769 \u28779 \u37707 	restaurant	1.2934880	103.8568939\
+Genki Sushi	restaurant	1.2954542	103.8579804\
+Nam Kee Pau	food_court	1.3001551	103.8449056\
+Rolling Rice	restaurant	1.2920302	103.8565944\
+Nanjya Monjya	restaurant	1.2901207	103.8353797\
+Lotus Vegetarian	restaurant	1.3205224	103.8428746\
+Penguin\'92s Kitchen	restaurant	1.3277695	103.8671278\
+Gourmet Paradise \uc0\u26032 \u39135 \u23578 	food_court	1.3324517	103.8480770\
+Fo Yin Vegetarian (	restaurant	1.3324715	103.8479925\
+Mutton Soup Steamboat	restaurant	1.2831148	103.8459227\
+Hyangtogol	restaurant	1.2940456	103.8533883\
+Ippudo	restaurant	1.2941476	103.8531987\
+Sushi Tei	restaurant	1.2945024	103.8531304\
+88 Hong Kong Roast Meat Specialist	restaurant	1.3151506	103.8596332\
+DA Clinic@Anchorvale	clinic	1.3933433	103.8870606\
+Monster Planet	restaurant	1.3021121	103.8395986\
+Tsui Wah Restaurant	restaurant	1.3023228	103.8374623\
+Coffee Express 2000	food_court	1.2966339	103.8533622\
+Kallang Cantonese Live Prawn Noodle	restaurant	1.3080698	103.8854615\
+Pizza Hut	restaurant	1.3268769	103.8459689\
+	clinic	1.2649750	103.8190429\
+Amoy Don	restaurant	1.2794779	103.8466116\
+Mutual Healthcare Medical Clinic	clinic	1.3857092	103.8972981\
+80 Eating House	food_court	1.2877473	103.8187432\
+HeartlandHealth	clinic	1.2868999	103.8187598\
+Providence Clinic @ Redhill	clinic	1.2869037	103.8188227\
+Old Street Bak Kut Teh	restaurant	1.2863158	103.8278597\
+Marutama	restaurant	1.2864269	103.8278892\
+Xin Wang Hong Kong Cafe	restaurant	1.2863572	103.8277447\
+Ajisen Ramen	restaurant	1.2864757	103.8274388\
+Sushiro	restaurant	1.2864495	103.8267072\
+SBCC Baby & Child Clinic	clinic	1.2863998	103.8279775\
+Pizza Hut	restaurant	1.2864805	103.8266438\
+Yim Clinic	clinic	1.2860934	103.8286335\
+SOG Clinic for Children	clinic	1.2860710	103.8289334\
+Thomson Women's Clinic	clinic	1.2856271	103.8268548\
+The iClinic	clinic	1.2855801	103.8268785\
+IPPUDO	restaurant	1.3061106	103.8318689\
+Pinnacle Family Clinic (Compassvale)	clinic	1.3976235	103.8969541\
+Aunty Rosie	restaurant	1.3959601	103.8932720\
+My Family Clinic (Anchorvale)	clinic	1.3947810	103.8880698\
+	food_court	1.3491401	103.8891022\
+Tian Xiang	food_court	1.2875383	103.8140064\
+Meden Clinic & Surgery	clinic	1.2887871	103.8146922\
+Zi Yean	restaurant	1.2879028	103.8143351\
+Aaysha Restaurant	restaurant	1.2893451	103.8155797\
+S17 Kitchens	restaurant	1.2882142	103.8145315\
+Amoy Don	restaurant	1.2795418	103.8467113\
+Eye Care Clinic Bishan	clinic	1.3483241	103.8495404\
+T P Sim Family Clinic & Surgery	clinic	1.3484422	103.8495658\
+Ak Salmal Eating House Pte Ltd	restaurant	1.3486133	103.8495413\
+Prudence Family Clinic	clinic	1.3494771	103.8499904\
+DA Clinic @ Bishan	clinic	1.3483221	103.8493688\
+Mata Thai	restaurant	1.3486984	103.8492360\
+Astra Women's Specialist Centre	clinic	1.3485176	103.8485376\
+Lifeline Bishan Medical Clinic	clinic	1.3482867	103.8495324\
+\uc0\u26519 \u23478 \u20937 \u30382 	restaurant	1.3491407	103.8486888\
+Ambush	restaurant	1.3502282	103.8484238\
+Tap Craft Beer Bar	restaurant	1.2979280	103.8454121\
+Malaysia Chiak!	food_court	1.3187971	103.8938122\
+Cantine	food_court	1.3186160	103.8924842\
+Paradise Dynasty	restaurant	1.3177356	103.8930406\
+NTUC FairPrice Finest		1.3177750	103.8929956\
+Kebabs Faktory	restaurant	1.2913044	103.8503270\
+The Hearing Room	clinic	1.2914685	103.8511500\
+Adelphi Psych Medicine Clinic	clinic	1.2912098	103.8514790\
+Rice Bowl Boys	restaurant	1.2827882	103.8430996\
+Sukiya	restaurant	1.2946309	103.8602679\
+Q&M Medical Clinic (Buangkok Mrt)	clinic	1.3833115	103.8929226\
+Everhealth Medical Centre	clinic	1.3777985	103.8915104\
+Hock Kee Coffee	food_court	1.3736174	103.8856168\
+Neighbourhood Medical Clinic	clinic	1.3733522	103.8861324\
+Hougang Specialist Eye Centre	clinic	1.3721376	103.8864401\
+Le Man Yuan Seafood	restaurant	1.3709032	103.8838213\
+Pow Family Clinic & Surgery	clinic	1.3701565	103.8839615\
+Fish & Co.	restaurant	1.3693270	103.8489613\
+Ajisen @ AMK Hub	restaurant	1.3691325	103.8480494\
+Ichiban Sushi	restaurant	1.3694129	103.8490192\
+Kopitiam	food_court	1.3693538	103.8476042\
+Swensen's	restaurant	1.3692930	103.8479523\
+S-11	food_court	1.3691777	103.8472501\
+Takagi Ramen	restaurant	1.3692935	103.8469139\
+Shuang Y Y Hot Pot Buffet	restaurant	1.3712169	103.8479043\
+Collin's	restaurant	1.3718339	103.8475432\
+Raffles Medical	clinic	1.3724889	103.8474507\
+Kids First Clinic	clinic	1.3723101	103.8474714\
+Asam Tree	restaurant	1.3715782	103.8469715\
+\uc0\u22909 \u28363 \u21619 \u32654 \u39135 \u22478 	restaurant	1.3720494	103.8473815\
+Life Family Clinic	clinic	1.3714569	103.8467562\
+Nixta	restaurant	1.2822860	103.8476737\
+Wonderland Savour	restaurant	1.3037514	103.8329411\
+Uya	restaurant	1.3044912	103.8308211\
+Shinagawa Eye Centre	clinic	1.3047759	103.8302232\
+Harry's	restaurant	1.3053284	103.8302623\
+Olive Tree	clinic	1.3061000	103.8288073\
+Social Place	restaurant	1.3062940	103.8286363\
+Hana	restaurant	1.3060911	103.8286500\
+Chimichanga	restaurant	1.3048266	103.8538700\
+The Providore Downtown	restaurant	1.2772517	103.8486066\
+Little Vietnam	restaurant	1.3141442	103.8917902\
+Soi 72	restaurant	1.3141196	103.8916888\
+D'life vegetarian	restaurant	1.3206022	103.8441910\
+Sanook Kitchen	restaurant	1.3596739	103.8853344\
+House Of Yam	restaurant	1.3596079	103.8851651\
+Gong Yuan	restaurant	1.3596218	103.8853047\
+Saizeriya	restaurant	1.3593092	103.8849479\
+Sushi Express	restaurant	1.3595927	103.8851232\
+Curry & Curry	restaurant	1.3576159	103.8843871\
+Meetup @ 203	food_court	1.3585319	103.8844340\
+Goh Clinic & Surgery	clinic	1.3586058	103.8847533\
+Eastern Hougang Eye Specialist	clinic	1.3578976	103.8835025\
+Al-Hussain Restaurant	restaurant	1.3595919	103.8884210\
+Lim Country Clinic	clinic	1.3587045	103.8867242\
+21 Seafood (Hougang)	restaurant	1.3598356	103.8883370\
+Kovan 212	food_court	1.3599494	103.8882796\
+7 Stars	food_court	1.3590911	103.8874536\
+Healthcare Medical @ Kovan	clinic	1.3587141	103.8867520\
+Dr Chan Clinic	clinic	1.3593415	103.8880613\
+Gynae Health Clinic For Women	clinic	1.3593376	103.8875890\
+Intemedical Kovan	clinic	1.3593732	103.8865521\
+Buddy Hoagies	restaurant	1.3594456	103.8847349\
+Bacos The Dine	restaurant	1.3052927	103.8512316\
+NTUC Fairprice		1.3051900	103.8513117\
+Waa Cow! Marina One	restaurant	1.2767110	103.8524818\
+Maccha House	restaurant	1.3173765	103.8925748\
+Tung Lok Seafood	restaurant	1.3175861	103.8931544\
+Collin's	restaurant	1.3175972	103.8925844\
+Haidilao Hot Pot	restaurant	1.3172529	103.8931510\
+Donburi King	restaurant	1.3175465	103.8930202\
+Bonchon Chicken	restaurant	1.3174969	103.8931465\
+Sushi Express	restaurant	1.3173497	103.8926687\
+Kanada-Ya	restaurant	1.3174221	103.8927015\
+Saizeriya	restaurant	1.3174183	103.8926010\
+Hot Tomato	restaurant	1.3175317	103.8931430\
+True Medical Clinic	clinic	1.3174634	103.8927360\
+Pizza Hut	restaurant	1.3174236	103.8932089\
+Ichikokudo	restaurant	1.3173333	103.8928269\
+Tipsy Bird	restaurant	1.3175212	103.8937006\
+Wursthans	restaurant	1.3174781	103.8932196\
+The Providore	restaurant	1.3179239	103.8936106\
+Wine Connection	restaurant	1.3173536	103.8937209\
+800\'b0	restaurant	1.3148081	103.8948390\
+Chef Kiosk	restaurant	1.3149703	103.8946662\
+Kucina	restaurant	1.3150956	103.8947217\
+Chiro Time	clinic	1.3146784	103.8948875\
+Qiji	restaurant	1.3146593	103.8948308\
+A-Lan	restaurant	1.3145435	103.8946878\
+Soon Huat Bak Kut Teh	restaurant	1.3148409	103.8946263\
+Kimchi Xpress	restaurant	1.3146634	103.8945851\
+Penyet Town	restaurant	1.3148959	103.8949517\
+Li Fang Congee	restaurant	1.3149464	103.8946060\
+Beauty in The Pot	restaurant	1.3150928	103.8946062\
+Abbas Restaurant	restaurant	1.3147037	103.8938897\
+City Plaza Food Court	food_court	1.3150589	103.8937194\
+Dapur Penyet	restaurant	1.3149932	103.8936825\
+Grove	restaurant	1.3187763	103.8941823\
+YGF Malatang	restaurant	1.3188037	103.8943151\
+Parkway Shenton Medical Group	clinic	1.3191671	103.8946109\
+Encik Tan	restaurant	1.3189213	103.8940105\
+Lau Wang	restaurant	1.3185717	103.8939527\
+Kin Teck Kong	clinic	1.3187616	103.8943566\
+Putien	restaurant	1.3187448	103.8935999\
+FairPrice SingPost Centre		1.3190301	103.8938497\
+Salmon Warrior	restaurant	1.3187309	103.8937040\
+Miam Miam	restaurant	1.3000474	103.8558229\
+Osaka Ohsho	restaurant	1.3504453	103.8482731\
+PastaMania	restaurant	1.3507462	103.8485142\
+Canton Paradise Essence Of Hong Kong	restaurant	1.3511439	103.8485105\
+Penang Culture	restaurant	1.3508707	103.8720924\
+Genki Sushi	restaurant	1.3507018	103.8726906\
+Dian Xiao Er	restaurant	1.3507969	103.8719288\
+Mr. Biryani	restaurant	1.3080313	103.8540173\
+Geylang Briyani Stall	restaurant	1.3166639	103.8982593\
+Allauddin\'92s Briyani	restaurant	1.3058904	103.8506812\
+Swensen's	restaurant	1.3911944	103.8759418\
+Umi Sushi	restaurant	1.3914893	103.8758881\
+Etern Medical Clinic (Sengkang)	clinic	1.3915161	103.8762046\
+Ramen Hitoyoshi	restaurant	1.3914875	103.8761830\
+Singapura Heritage	food_court	1.3912449	103.8759218\
+Fish Mart Sakuraya	restaurant	1.3912512	103.8763403\
+Collin's	restaurant	1.3914464	103.8758699\
+Sushi Express	restaurant	1.3914081	103.8762003\
+Ha-Jun Korean	restaurant	1.3912436	103.8758949\
+Yakiniku-Go	restaurant	1.3913013	103.8761499\
+\uc0\u32769 \u28779 \u27748 	restaurant	1.3911160	103.8760260\
+Haidilao Hot Pot	restaurant	1.3912850	103.8763064\
+Pontian Wanton Noodles	restaurant	1.3912297	103.8760082\
+FoodHub	food_court	1.3915524	103.8709949\
+Island Family Clinic	clinic	1.3920201	103.8716567\
+Penang Heritage	restaurant	1.3915392	103.8712115\
+Xing Juan TCM Clinic	clinic	1.3918621	103.8713239\
+Holistic Care Family Clinic	clinic	1.3918582	103.8715542\
+Super 28 Coffee Shop	food_court	1.3329042	103.8496390\
+\uc0\u22238 \u21619 \u20043 \u23478 	restaurant	1.3317643	103.8493866\
+East Treasure Chinese Restaurant \uc0\u26481 \u23542 \u20043 \u26481 \u26041 \u26126 \u29664 	restaurant	1.3318870	103.8494126\
+Fork & Spoon	food_court	1.3319876	103.8494023\
+Siam Square Mookata	restaurant	1.3339224	103.8510645\
+D'life	restaurant	1.3339841	103.8508771\
+Doctors Inc Medical Group	clinic	1.3335559	103.8496979\
+Al Ameerag Restaurant	restaurant	1.3339207	103.8508816\
+J 99 Eating House	food_court	1.3320271	103.8501721\
+Monster Curry	restaurant	1.3198987	103.8437569\
+Krave	restaurant	1.3012072	103.8584495\
+YuBa Hut	restaurant	1.2768066	103.8450153\
+Ya Lor	restaurant	1.2767997	103.8452233\
+Guzman y Gomez	restaurant	1.2770015	103.8453771\
+Souperstar	restaurant	1.2767827	103.8451364\
+Aburi-En	restaurant	1.2770881	103.8456498\
+Kiwami	restaurant	1.2770851	103.8455884\
+Imakatsu	restaurant	1.2769065	103.8455684\
+Ippudo	restaurant	1.2765452	103.8461959\
+Takada	restaurant	1.2764425	103.8455886\
+Chalong	restaurant	1.2768764	103.8452017\
+Daily Bite	restaurant	1.2769102	103.8453273\
+Pura Brasa	restaurant	1.2767080	103.8461235\
+Han's	restaurant	1.2770346	103.8449892\
+La Mensa	restaurant	1.2769083	103.8453663\
+City Hot Pot	restaurant	1.2769020	103.8456318\
+Crave	restaurant	1.2768926	103.8451134\
+Kuro Maguro	restaurant	1.2768232	103.8458476\
+The Wicked Garlic	restaurant	1.2760018	103.8462610\
+Komala's Restaurants	restaurant	1.2761542	103.8460149\
+Pin Yi	restaurant	1.2756895	103.8456338\
+Kia Hiang Restaurant	restaurant	1.2759074	103.8458192\
+Doco	restaurant	1.2759937	103.8455999\
+Keisuke	restaurant	1.2761825	103.8463286\
+Makan & Sip	restaurant	1.2758933	103.8462333\
+Jewel 7	food_court	1.2761376	103.8462181\
+DA Clinic @ Anson	clinic	1.2761097	103.8458445\
+Siam Sensation	restaurant	1.2760649	103.8462513\
+Hakumai	restaurant	1.2760656	103.8456709\
+Tracy Juice Culture	restaurant	1.2759766	103.8456748\
+Spinach Fish Soup	restaurant	1.2789826	103.8504548\
+Silvermalt	restaurant	1.2796792	103.8506720\
+Hello	food_court	1.2788881	103.8501343\
+Hermitage	restaurant	1.2795266	103.8505736\
+Ar-Rahman Prata & Teh Tarik	restaurant	1.2790448	103.8503483\
+Shenton Food Hall	food_court	1.2784306	103.8499033\
+Kevin Khoo	restaurant	1.2761780	103.8486436\
+\uc0\u20048 \u31119 \u38401 	food_court	1.2789333	103.8501634\
+Fullerton Healthcare	clinic	1.2794961	103.8535499\
+Don Ho	restaurant	1.2789581	103.8414992\
+Laksa	restaurant	1.3190832	103.8632249\
+Italian	restaurant	1.2640819	103.8123940\
+Food Splash	restaurant	1.2968138	103.8995102\
+Kimchi Box	restaurant	1.2968007	103.8995809\
+Prata Wala	restaurant	1.2968249	103.8995810\
+Picotin Express	restaurant	1.2967811	103.8995951\
+Ippai	restaurant	1.2800064	103.8401834\
+Senshi	restaurant	1.2796396	103.8398952\
+Ng Ah Sio Pork Ribs Eating House	restaurant	1.3176252	103.8528521\
+Dong Bei Ren Jia	restaurant	1.2839678	103.8453034\
+XW Western Grill	restaurant	1.2933549	103.8533954\
+\uc0\u40634  House Yamamoto	restaurant	1.2941807	103.8528564\
+Yang Ming Seafood	restaurant	1.3446789	103.8557700\
+Genki Sushi	restaurant	1.3006699	103.8396570\
+Sushi Express	restaurant	1.3006928	103.8385357\
+Prime Supermarket		1.3081107	103.8605103\
+Selera Restaurant	restaurant	1.3044524	103.8498169\
+Ban Sok Thai Noodle	restaurant	1.3131481	103.8604896\
+Hao Mart		1.3082098	103.8604142\
+Tian Xiang Can Shj	food_court	1.3078329	103.8607872\
+Shree Bhaavan	restaurant	1.3150803	103.8578392\
+O sogane	restaurant	1.3130239	103.8605569\
+Baan Kanom Thai	restaurant	1.3132062	103.8603959\
+	food_court	1.3548191	103.8935739\
+Ying Kang	food_court	1.3596424	103.8950852\
+	food_court	1.3228670	103.8556658\
+True care Clinic	clinic	1.3144784	103.8541035\
+Lao Huo Tang	restaurant	1.3267732	103.8449246\
+	restaurant	1.2564950	103.8094816\
+	restaurant	1.3263821	103.8442934\
+Jishuai BBQ	restaurant	1.3147088	103.8579185\
+Canopy Garden Dining	restaurant	1.2786318	103.8007836\
+Tamoya	restaurant	1.3011105	103.8449984\
+Nakajima Suisan	restaurant	1.3021153	103.8351999\
+SUSHIRO	restaurant	1.2945614	103.8600451\
+"Blk 101, ttsh foot and limb center"	hospital	1.3206085	103.8484559\
+Interior Artist Pte Ltd		1.3131662	103.8566188\
+Hjh Maimunah @ Jalan Pisang	restaurant	1.3031607	103.8585558\
+Jack's Place	restaurant	1.2971298	103.8534439\
+Dignity Kitchen	food_court	1.3171150	103.8625007\
+		1.3180595	103.8614978\
+Digital Kitchen	restaurant	1.3170371	103.8633244\
+Suk's Thai Kitchen	restaurant	1.3139574	103.8544621\
+Gokul Vegetarian Restaurant	restaurant	1.3064572	103.8525875\
+Komala's Fusion Dining	restaurant	1.3065470	103.8523515\
+Bugis St. Chuen Chuen Chicken Rice	restaurant	1.3255244	103.8490365\
+QJ Western Food - Hainanese Chicken Rice	restaurant	1.3030457	103.8509438\
+Hao Lai Wu Steamboat BBQ	restaurant	1.3025397	103.8522579\
+Abundance	restaurant	1.3135197	103.8598010\
+\uc0\u20843 \u20843 \u20845 	restaurant	1.3138511	103.8598786\
+Olive	restaurant	1.3363364	103.8872901\
+Dumpling Darlings @ Circular	restaurant	1.2874990	103.8487558\
+Botanico	restaurant	1.3189113	103.8155605\
+Ippudo	restaurant	1.2852624	103.8603515\
+Ippudo	restaurant	1.2932889	103.8418073\
+Happy Hawkers	food_court	1.3836806	103.8972757\
+Wangi Garden	restaurant	1.3133897	103.8604198\
+Gu Ma Jia Private Kitchen	restaurant	1.3284558	103.8699650\
+Ippudo	restaurant	1.3019307	103.8360256\
+Poke Theory	restaurant	1.3004473	103.8373978\
+Xin Peng La Mian Dao Xiao Mian	restaurant	1.3133738	103.8602587\
+Popiah	restaurant	1.3254667	103.8491641\
+Founder Bak Kut Teh	restaurant	1.3059775	103.8605075\
+Seafood @ Sumbad	restaurant	1.3149709	103.8570295\
+Ah Hui Big Prawn Noodle	restaurant	1.3255499	103.8489844\
+Pig Organ Soup \'95 Herbal Mutton	restaurant	1.3232379	103.8549805\
+Lala Bee Hoon	restaurant	1.3004730	103.8519252\
+my Supermarket		1.3135760	103.8569542\
+Authentic Siam	restaurant	1.3231480	103.8550953\
+Japan Korea Cuisine	restaurant	1.3232396	103.8547944\
+The Captain Superstore		1.3263118	103.8425333\
+Bonchon Chicken	restaurant	1.3035757	103.8334327\
+Makan Vegan \uc0\u25995 \u36825 \u37324  (	restaurant	1.3324984	103.8480706\
+Tenya	restaurant	1.3009005	103.8393329\
+Chir Chir	restaurant	1.3013129	103.8382544\
+Ichikokudo	restaurant	1.3010512	103.8383193\
+Sunday F&B	restaurant	1.3739925	103.8548672\
+Kang Clinic	clinic	1.3739658	103.8548900\
+S11	restaurant	1.3727964	103.8554009\
+Atrio Family Clinic	clinic	1.3738781	103.8549642\
+Gainhealth Clinic and Homecare	clinic	1.3733471	103.8546373\
+Happy Hawkers	restaurant	1.3733503	103.8540950\
+Food in the Woods	restaurant	1.3737846	103.8540713\
+NagaraThai	restaurant	1.3729351	103.8556319\
+Pizza Hut	restaurant	1.3724623	103.8556393\
+ABC Food Court	restaurant	1.3723500	103.8554932\
+Immanuel Dialysis Centre	clinic	1.3722759	103.8553457\
+Ming Fa	restaurant	1.3727366	103.8557704\
+Al-Aameena Prata House	restaurant	1.3726343	103.8558468\
+Magic Kitchen	restaurant	1.3723007	103.8554083\
+Chua Medico Clinic	clinic	1.3723173	103.8550581\
+Vital Care	clinic	1.3725978	103.8540144\
+Giant Express		1.3726391	103.8538715\
+Ippudo	restaurant	1.2765383	103.8461784\
+Shenton Family Medical Clinic	clinic	1.2760068	103.8411354\
+Taki	restaurant	1.2842159	103.8526136\
+Monti	restaurant	1.2846744	103.8539915\
+Bistro Aseana	restaurant	1.2864795	103.8541400\
+Qiji	restaurant	1.2920833	103.8562709\
+malts	restaurant	1.2918456	103.8561715\
+Kenny Rogers Roaster	restaurant	1.2920370	103.8563814\
+Shiraishi	restaurant	1.2911123	103.8594081\
+Encik Tan	food_court	1.2911526	103.8582877\
+Gourmet Paradise	food_court	1.2918226	103.8564274\
+Joash Family Clinic and Surgery	clinic	1.3630401	103.8885051\
+Yong's Teochew Kueh	restaurant	1.3628934	103.8883374\
+	restaurant	1.2873363	103.8313906\
+(Tim sum)	food_court	1.3318750	103.8671228\
+Save Mart		1.2814277	103.8421059\
+Fong Yong Tao Fu	restaurant	1.2835237	103.8163152\
+Clarke Quay Central		1.2889993	103.8461796\
+Beurre	restaurant	1.2791486	103.8402466\
+\uc0\u21644 \u35760 \u31909 	restaurant	1.2806355	103.8446021\
+Monzushi	restaurant	1.2801370	103.8435282\
+6ixty 7even	restaurant	1.2793889	103.8423299\
+Old House	restaurant	1.2799704	103.8432917\
+The Bond	restaurant	1.2797991	103.8428933\
+Acoustic Coffee Bar	restaurant	1.2794712	103.8424199\
+Xperience	restaurant	1.2800713	103.8497487\
+En Dining	restaurant	1.2773520	103.8477042\
+The Palace	restaurant	1.2751479	103.8461987\
+Latern	restaurant	1.2831541	103.8537541\
+La Brasserie	restaurant	1.2831203	103.8533783\
+The Landing Point	restaurant	1.2835767	103.8534368\
+The Clifford Pier	restaurant	1.2839174	103.8535246\
+L'Entrec\'f4te Customs House	restaurant	1.2827934	103.8533065\
+Ichikokudo	restaurant	1.3021068	103.8593742\
+Jack's Place	restaurant	1.3925044	103.8949952\
+Johnson Eatery (Teochew fish soup)	food_court	1.3619550	103.8517526\
+C\'f4 Chung	restaurant	1.2870415	103.8486728\
+	food_court	1.2984268	103.8549704\
+Prince Noodles	restaurant	1.3133774	103.8605152\
+Ponggol Nasi Lemak	restaurant	1.2928327	103.8512494\
+So Good Char Chan Tang	restaurant	1.2929312	103.8512616\
+Lights Up	restaurant	1.2796224	103.8422750\
+Crystal Jade Palace	restaurant	1.3027930	103.8341779\
+Mizuki	restaurant	1.3023052	103.8348718\
+The Workbench	restaurant	1.3618822	103.8516941\
+Johnson9 Eatery	restaurant	1.3619400	103.8516363\
+Healthway Medical	clinic	1.3626523	103.8507325\
+	food_court	1.3836714	103.8259118\
+151 Rocovo Restaurant	restaurant	1.3181532	103.8438913\
+Mukjja Korean Chinese Restaurant	restaurant	1.3213057	103.8415797\
+Siam Village	restaurant	1.3303011	103.8748895\
+L&L Family Medicine Clinic	clinic	1.3529096	103.8362889\
+The Plant Food	restaurant	1.3534628	103.8354651\
+Buta Kin	restaurant	1.3534252	103.8353985\
+Tamago-EN	restaurant	1.3544475	103.8303321\
+Hokkaido-Ya	restaurant	1.3548178	103.8305985\
+Ikura	restaurant	1.3547639	103.8312237\
+Eng's Heritage	restaurant	1.3542924	103.8303563\
+Han's	restaurant	1.3545466	103.8302516\
+Na Na Curry	restaurant	1.3543937	103.8302793\
+Pizza Hut	restaurant	1.3545958	103.8314155\
+San Ren Xing	restaurant	1.3544679	103.8302039\
+Peach Garden	restaurant	1.3545257	103.8310175\
+Nyonya Memories	restaurant	1.3544655	103.8314154\
+Sushi Tei	restaurant	1.3548585	103.8304996\
+Astons Specialties	restaurant	1.3543654	103.8301526\
+Swensen's	restaurant	1.3545656	103.8313644\
+Shi Li Fang	restaurant	1.3548753	103.8311007\
+Y. C. Goh Clinic & Surgery for Women	clinic	1.3549123	103.8308474\
+KidsNexus Paediatric Centee	clinic	1.3550521	103.8306268\
+The Grumpy Bear	restaurant	1.3549390	103.8308718\
+Tsukada Nojo	restaurant	1.3547376	103.8304380\
+SpecialKids Child Health & Development Clinic	clinic	1.3550308	103.8306180\
+Hajime	restaurant	1.3545488	103.8303762\
+A-Roy Thai Restaurant	restaurant	1.3198611	103.8436452\
+Din Tai Fung	restaurant	1.3198960	103.8434272\
+Ichiban Boshi	restaurant	1.3200990	103.8433954\
+Tomi Sushi	restaurant	1.3198455	103.8436825\
+Fish & Co.	restaurant	1.3200568	103.8434403\
+Lucky Kitchen	restaurant	1.3204329	103.8437459\
+The Soup Spoon Union	restaurant	1.3195353	103.8439634\
+Lao Beijing	restaurant	1.3200201	103.8434728\
+Song Fa Bak Kut Teh	restaurant	1.3190307	103.8442797\
+KFood	restaurant	1.3204548	103.8436980\
+Gyu-Kaku	restaurant	1.3199223	103.8437961\
+Han's	restaurant	1.3204736	103.8437305\
+The Flying Squirrel	restaurant	1.2812606	103.8470454\
+Gravy Restaurant & Bar	restaurant	1.2740068	103.8427196\
+Ali Nachin Eating House	restaurant	1.2740108	103.8425016\
+Xin Xiong Ji Noodle House	restaurant	1.2740063	103.8426605\
+Healthy & Delicious	restaurant	1.2740088	103.8425497\
+Le Shrimp Ramen	restaurant	1.3001260	103.8445417\
+Canton Paradise	restaurant	1.3001003	103.8445300\
+SUSHIRO	restaurant	1.3055640	103.8316882\
+Sanpoutei Ramen	restaurant	1.3055499	103.8316566\
+Dancing Fish Signature	restaurant	1.3046107	103.8331709\
+Tangs Market	food_court	1.3052319	103.8327888\
+London Fat Duck	restaurant	1.3058004	103.8328394\
+PizzaExpress	restaurant	1.3058537	103.8328184\
+Eggslut	restaurant	1.3057395	103.8326962\
+Paradise Teochew Restaurant	restaurant	1.3058554	103.8329553\
+Fish & Co.	restaurant	1.3036580	103.8357561\
+Hototogisu	restaurant	1.3037164	103.8352447\
+Tambuah Mas	restaurant	1.3035529	103.8352095\
+Aburi-En Grand	restaurant	1.3034969	103.8353288\
+Imperial Treasure	restaurant	1.3034542	103.8357170\
+Shimbashi Soba	restaurant	1.3034898	103.8354593\
+Aroy Dee	restaurant	1.3007687	103.8516851\
+U Stars Xpress		1.3702816	103.8721951\
+Elyon Family Clinic & Surgery	clinic	1.2739437	103.8085649\
+U Stars Supermarket		1.2739509	103.8086629\
+Botak Jones	restaurant	1.2816159	103.8126678\
+Botak Jones	restaurant	1.3341066	103.8827195\
+Hachi Restaurant	restaurant	1.2895444	103.8512726\
+U Stars Supermarket		1.3148526	103.8823136\
+U Stars Supermarket		1.3532511	103.8897356\
+Canton Paradise	restaurant	1.3507597	103.8717879\
+Ang Mo Supermarket		1.3364380	103.8728643\
+Malaysia Boleh!	food_court	1.3015381	103.8398785\
+Penang Culture	restaurant	1.2649030	103.8233349\
+ASTONS Specialities	restaurant	1.2636051	103.8227824\
+Paradise Dynasty	restaurant	1.2635153	103.8222379\
+Town	restaurant	1.2864386	103.8528078\
+Un-Yang-Kor-Dai Singapore	restaurant	1.2871169	103.8483333\
+Lumo Bar & Restaurant	restaurant	1.2876356	103.8482724\
+Legendary Bak Kut Teh At South Bridge \uc0\u30332 \u20256 \u20154 \u32905 \u39592 \u33590 	restaurant	1.2878812	103.8483939\
+Ikigai	restaurant	1.2887652	103.8488122\
+The Dragon Chamber	restaurant	1.2880828	103.8489093\
+665 Degrees Fahrenheit	restaurant	1.2991690	103.8577342\
+Meating Place	restaurant	1.2995202	103.8584790\
+YEN Socialu	restaurant	1.2995656	103.8585210\
+Jason's Deli		1.2844899	103.8602433\
+Prime Supermarket		1.3736137	103.8713274\
+Prime Supermarket		1.3342750	103.8788956\
+Prime Supermarket		1.3518731	103.8796115\
+Prime Supermarket		1.3540084	103.8909356\
+Kuro Maguro	restaurant	1.2766699	103.8460111\
+NKF Dialysis Centre	clinic	1.2825995	103.8234166\
+Ayesha\'92s Kitchen	restaurant	1.2792720	103.8483315\
+Straits Chinese	restaurant	1.2803706	103.8489610\
+NTUC Fairprice		1.3686099	103.8560460\
+Bizgram Asia Pte Ltd		1.3032323	103.8531612\
+Ma Kuang TCM Medical Centre	clinic	1.3687218	103.8555019\
+Chong Boon Food Centre	food_court	1.3681493	103.8563655\
+\uc0\u20013 \u21326 \u21307 \u38498 	clinic	1.3322949	103.8513408\
+Teck Ghee Square Hawker Centre	food_court	1.3627019	103.8552846\
+Kim Keat Food & Drinks Centre	restaurant	1.3320314	103.8575098\
+The Fortune Cookie	restaurant	1.3010584	103.8600588\
+Byblos Grill	restaurant	1.3011576	103.8599961\
+Straits Teppanyaki	restaurant	1.3012261	103.8599525\
+Sultan Turkish Restaurant	restaurant	1.3016817	103.8596627\
+Waffle Place	restaurant	1.3019098	103.8593377\
+Ayasofya	restaurant	1.3018830	103.8593636\
+Padi @ Bussorah	restaurant	1.3018171	103.8594108\
+Lepak at Rayz	restaurant	1.3015251	103.8596200\
+Istanbul Turkish Restaurant	restaurant	1.3013457	103.8597558\
+Flying Monkey	restaurant	1.3011074	103.8598755\
+Cappadocia	restaurant	1.3010209	103.8599335\
+The Malayan Council	restaurant	1.3009427	103.8599819\
+Blessed health tcm	clinic	1.3708296	103.8570836\
+Cendex Cafeteria	food_court	1.2803309	103.8223110\
+Everton Food Place	food_court	1.2769930	103.8390688\
+Vatan Se	restaurant	1.3029541	103.8967740\
+noodles & cocktails	restaurant	1.2779971	103.8420523\
+Choh Dee Food Place	food_court	1.3016806	103.8543463\
+Farmer		1.3264050	103.8467095\
+Ice Bar Bistro	restaurant	1.3141928	103.8539872\
+Tims Restaurant & Cafe	restaurant	1.3392121	103.8490098\
+Spices & Curries Express	restaurant	1.3411738	103.8472114\
+Thailily	restaurant	1.3411733	103.8471224\
+Lam's Garden	restaurant	1.3023088	103.8625262\
+T Medical Clinic (City Gate)	clinic	1.3019416	103.8623493\
+Doris's Devilishly Delicious Curry	restaurant	1.3023999	103.8624120\
+Spice	restaurant	1.3020561	103.8625537\
+Sove	restaurant	1.3024254	103.8624616\
+Ru's Kitchen	restaurant	1.3023685	103.8624954\
+Chun Kee	restaurant	1.3019929	103.8623081\
+Rafah Twins	restaurant	1.3020348	103.8622846\
+Evan's Kitch	restaurant	1.3021745	103.8626468\
+Lobster Air	restaurant	1.3021078	103.8626529\
+Mom's Hand Mini Bowl Kitchen	restaurant	1.3002855	103.8491977\
+Meokja	restaurant	1.3000632	103.8494056\
+House On The Moon	restaurant	1.3001111	103.8491436\
+Chong Qing Xiao Mu Deng	restaurant	1.2999498	103.8492069\
+Sidewalk Food	restaurant	1.2920057	103.8495933\
+Food court	food_court	1.2746892	103.8413729\
+Jiu Fu Food Court	food_court	1.2922153	103.8506925\
+Food City	food_court	1.3016467	103.8386646\
+		1.2919972	103.8508677\
+	food_court	1.3252396	103.8911847\
+Nalaa Restaurant	restaurant	1.3056341	103.8529905\
+Al Haleem Restaurant	restaurant	1.3049116	103.8534458\
+Thye Guan Eating House	food_court	1.3113949	103.8632781\
+Makan Thai Food	restaurant	1.3106188	103.8641690\
+Ng Khan Chilli Pan Mee	restaurant	1.3125459	103.8603112\
+Indulge	restaurant	1.3290425	103.8485001\
+Estate	restaurant	1.3021964	103.8359667\
+	restaurant	1.3233745	103.8105325\
+Sho Yakitori Sushi	restaurant	1.2929454	103.8588900\
+Quinn\'92s	restaurant	1.2929079	103.8591992\
+Ole\'92s	restaurant	1.2928945	103.8593074\
+Yap Chai Lack Roasted Pig	restaurant	1.3277895	103.8930302\
+Ling Brother Eating House	restaurant	1.3378183	103.8869367\
+Otto Ristorante	restaurant	1.2770993	103.8463718\
+Apoze Coffee Shop	restaurant	1.3380553	103.8867951\
+Wonderful Chinese Restaurant	restaurant	1.3385095	103.8864501\
+Yu Cun	restaurant	1.3392060	103.8859368\
+Saap Saap Thai	restaurant	1.3164306	103.8967905\
+GoodDoctors Medical Clinic	clinic	1.3167036	103.8977913\
+Hokkai Small Town	restaurant	1.3149438	103.8949366\
+Shi Li Fang	restaurant	1.3151877	103.8945209\
+Osomatsu	restaurant	1.3152375	103.8947107\
+Salvo	restaurant	1.3157780	103.8932258\
+Rempapa	restaurant	1.3166270	103.8932827\
+Zing	restaurant	1.3164094	103.8931851\
+Yhingthai Palace	restaurant	1.2966518	103.8548195\
+Heniu Teppanyaki	restaurant	1.3012285	103.8385111\
+Blue Lotus Opio Bar & Kitchen	restaurant	1.2736297	103.8035201\
+St Pierre	restaurant	1.2862755	103.8542246\
+The dancing crab	restaurant	1.3002917	103.8400511\
+The Shelf Side	restaurant	1.2753733	103.8444301\
+Route 65 Bar + Kitchen	restaurant	1.2954671	103.8585896\
+Ma Maison Kitchen	restaurant	1.2748144	103.8437449\
+Ura Hototogisu Ramen	restaurant	1.2748567	103.8436514\
+Tai Liok Claypot chicken rice	restaurant	1.2865346	103.8044952\
+Biseryu by Deli\'92s kitchen	restaurant	1.3069054	103.8332840\
+Walking on Sushine	restaurant	1.3007010	103.8399241\
+The book cafe	restaurant	1.2911920	103.8388751\
+Miam Miam	restaurant	1.2992244	103.8552729\
+De Luca Restaurant	restaurant	1.3179702	103.8426594\
+Ciel Patisserie	restaurant	1.3529584	103.8868151\
+BistroG	restaurant	1.2921464	103.8595279\
+Gading Indonesian Street Food	restaurant	1.3044801	103.8338605\
+Dark Horse Japanese Bar	restaurant	1.2860570	103.8497752\
+Carrara Cafe	restaurant	1.2866646	103.8066972\
+Happy Ending Pizza Parlour	restaurant	1.3021342	103.8626533\
+Atico Lounge	restaurant	1.3042646	103.8319549\
+Tingkat Peramakan	restaurant	1.3138617	103.8527303\
+Abundance	restaurant	1.2896189	103.8156537\
+Kokonoka Ryori	restaurant	1.3050456	103.8626504\
+Beppu Menkan Japanese Noodle Restaurant	restaurant	1.2845420	103.8475535\
+Guann Handmade minced Pork & Crab meatballs	restaurant	1.2749195	103.8422456\
+Jian Zhao Ipoh curry noodle	restaurant	1.3617323	103.8518830\
+Winestone	restaurant	1.3139195	103.8283341\
+Ipoh curry noodle	restaurant	1.3621484	103.8518070\
+Magal BBQ	restaurant	1.2811774	103.8480249\
+Botanico at The Garage	restaurant	1.3189632	103.8155809\
+Korat Thai Cafe	restaurant	1.3071726	103.8292189\
+Si Wei Mao Cai Restaurant	restaurant	1.2835657	103.8453954\
+Big Brand Satay Boutique	restaurant	1.2839601	103.8467906\
+Buta Kabayaki	restaurant	1.3012603	103.8384807\
+Ji Ji Noodle House	restaurant	1.2854763	103.8457953\
+Inle Myanmar Restaurant	restaurant	1.2920844	103.8506940\
+Moona Thai Kitchen	restaurant	1.3533498	103.8875155\
+Ta lu prawn noodle	restaurant	1.2841961	103.8470360\
+Max\'92s restaurant	restaurant	1.3076394	103.8335786\
+Lucca\'92s Trattoria	restaurant	1.2916772	103.8416086\
+Walnut Tree	restaurant	1.2774080	103.8394414\
+The Assembly Ground	restaurant	1.2993963	103.8476990\
+Dumpling.ru	restaurant	1.2774259	103.8463384\
+The Grumpy Bear	restaurant	1.3547732	103.8309845\
+Plain vanilla	restaurant	1.2816883	103.8479898\
+Moona Thaikitchen	restaurant	1.3533239	103.8875008\
+Zazz Pizza	restaurant	1.3027476	103.8505485\
+Tai Liok Claypot Chicken Rice	restaurant	1.2865847	103.8045279\
+Ciel Patisserie	restaurant	1.3529432	103.8868102\
+The book cafe	restaurant	1.2912244	103.8388866\
+Jian Zao Ipoh curry noodle	restaurant	1.3617836	103.8518217\
+King of fried rice	restaurant	1.3619683	103.8550982\
+Thai\'92d Me Up	restaurant	1.3164161	103.8355308\
+Abundance	restaurant	1.2896278	103.8156344\
+Don Dae Bak	restaurant	1.2806793	103.8422618\
+The Social Space	restaurant	1.2811281	103.8422188\
+	restaurant	1.2845199	103.8439573\
+La Boca	restaurant	1.3033082	103.8592052\
+Kinzu Izakaya	restaurant	1.3033429	103.8592370\
+Twenty Grammes	restaurant	1.3033666	103.8592675\
+Mr Mookata	restaurant	1.2986959	103.8558946\
+Ban Kok Clinic & Surgery	clinic	1.3316487	103.8675772\
+Paradise Hotpot	restaurant	1.3924490	103.8948466\
+Yakiniku Like	restaurant	1.3924194	103.8948403\
+LeNu	restaurant	1.3924186	103.8948125\
+Xin Xiong Ji Noodle House	restaurant	1.2748315	103.8429140\
+AMK Specialist Centre	clinic	1.3723779	103.8471951\
+AMK 722 Food House	food_court	1.3720186	103.8475052\
+Cheng San Food Centre	food_court	1.3726769	103.8545671\
+Chop Fung Uk Restaurant	food_court	1.3711136	103.8634077\
+Yi Jia Food Centre	food_court	1.3723042	103.8617554\
+Kim San Leng Food Centre	food_court	1.3674052	103.8395715\
+Himawari	restaurant	1.2739435	103.8033847\
+Ju Shin Jung	restaurant	1.2738829	103.8032978\
+Imperial Treasure Steamboat	restaurant	1.3000586	103.8372241\
+Kei Kaisendon	restaurant	1.3001528	103.8373859\
+Han\'92s	restaurant	1.3001236	103.8377822\
+StarMed Specialist Centre	hospital	1.3122814	103.8546429\
+$1.30 Dim Sum	restaurant	1.3589211	103.8914045\
+The Lobby by Food Paradise	food_court	1.3108201	103.8598949\
+Luck Thai	restaurant	1.3111001	103.8601431\
+Ma Ma Spin Pot	restaurant	1.3110527	103.8601817\
+Penang Savour	restaurant	1.3082655	103.8620388\
+Yan Chuan Roasters	restaurant	1.3084051	103.8622273\
+Zhang Liang	restaurant	1.2987304	103.8545622\
+Hey! Yakiniku	restaurant	1.2985429	103.8544146\
+Chaoniu Hot Pot	restaurant	1.2992383	103.8579144\
+Nana's Green Tea	restaurant	1.2992869	103.8580628\
+The Jungle Boy	restaurant	1.2818127	103.8481384\
+Bacaro	restaurant	1.3313015	103.8074224\
+Koufu	restaurant	1.2774512	103.8352012\
+Kopitiam	restaurant	1.2799813	103.8345529\
+SG Hawker	restaurant	1.2786342	103.8363217\
+Kaffe & Toast	restaurant	1.2795340	103.8349655\
+Arbora	restaurant	1.2713355	103.8191608\
+Thai Master Kitchen	restaurant	1.3794690	103.8882645\
+Fu Fa Food Court	food_court	1.3795690	103.8878011\
+Food Loft	food_court	1.3788304	103.8877928\
+Pangium	restaurant	1.3145629	103.8093493\
+Osteria Mozza	restaurant	1.3020717	103.8359381\
+Boat Noodle	restaurant	1.3032427	103.8532722\
+Thai Kha	restaurant	1.2871317	103.8451050\
+Santouka	restaurant	1.2890371	103.8459561\
+Rasa Rasa @ Sengkang	food_court	1.3826956	103.8910887\
+Slikroutes @ Sengkang Clinic	clinic	1.3825278	103.8911956\
+Seletar Corner	restaurant	1.3862514	103.8734820\
+Seletar Hill Restaurant	restaurant	1.3858325	103.8731199\
+Maccha House \uc0\u25273 \u33590 \u39208 	restaurant	1.3008553	103.8393292\
+Kim Dae Mun Korean Food	restaurant	1.3004036	103.8424126\
+Kitchenman Nasi Lemak	restaurant	1.3123779	103.8630201\
+Hao Lai Ke	restaurant	1.3103551	103.8640630\
+Ng Kuan Chilli Pan Mee	restaurant	1.3008930	103.8518032\
+Seow Choon Hua	restaurant	1.3013020	103.8612021\
+Naowarat	restaurant	1.3272328	103.8455375\
+Timbre X S.E.A.	restaurant	1.2878476	103.8507929\
+Yuen Kee Dumpling	restaurant	1.3003618	103.8520060\
+Old Airport Road Food Centre	food_court	1.3082727	103.8858564\
+Coffee Lounge	restaurant	1.3084257	103.8339896\
+L'Espresso	restaurant	1.3087855	103.8343693\
+Gordon Grill	restaurant	1.3088849	103.8343137\
+Min Jiang	restaurant	1.3086682	103.8343097\
+Jiang-Nan Chun	restaurant	1.3051160	103.8287373\
+One-Ninety Restaurant	restaurant	1.3051308	103.8286622\
+Nobu	restaurant	1.3051823	103.8287476\
+The Line	restaurant	1.3113306	103.8268068\
+Shang Palace	restaurant	1.3113791	103.8267144\
+HAO Eccellente		1.3076599	103.8335416\
+Mutual Healthcare Medical Clinic	clinic	1.3914507	103.8901654\
+Kidslink Children's Clinic	clinic	1.3898718	103.8985765\
+Hong Kong Zhai \uc0\u39321 \u28207 \u20180 	restaurant	1.2909865	103.8585336\
+BORNGA \uc0\u48376 \u44032 	restaurant	1.2946388	103.8603258\
+Ssak3 \uc0\u49913 \u50416 \u47532 	restaurant	1.2973249	103.8534694\
+BK Coffee House	food_court	1.3298373	103.8740379\
+KL Mart		1.3298063	103.8738978\
+Sin Li Food Junction	restaurant	1.3302593	103.8751228\
+New Econ		1.3277292	103.8852461\
+Cross Straits \uc0\u20004 \u23736 \u23567 \u39135 	restaurant	1.3072300	103.8339059\
+NaNa Thai Restaurant	restaurant	1.3073397	103.8339879\
+Pondok Jawa Timur	restaurant	1.3073333	103.8340050\
+Nanbantei \uc0\u21335 \u34542 \u20141 	restaurant	1.3069683	103.8336261\
+Ah Yat Kitchen \uc0\u38463 \u19968 \u21416 \u22346 	restaurant	1.3068330	103.8335146\
+Puncak Muslim Food	restaurant	1.3075213	103.8335553\
+New Station Snack Bar \uc0\u26032 \u39135 \u31449 \u21416 	restaurant	1.3074900	103.8335407\
+\uc0\u36771 \u23478 \u23567 \u39208 	restaurant	1.3019805	103.8495852\
+Local	restaurant	1.2985710	103.8503509\
+Food Dynasty	food_court	1.2979217	103.8498849\
+ABC Sultan PTE LTD	food_court	1.3029669	103.8616884\
+Box N Sticks	restaurant	1.3021804	103.8597360\
+Sultan's Kitchen	food_court	1.3032347	103.8615036\
+Imperial Treasure Fine Shanghai Cuisine	restaurant	1.3027091	103.8347966\
+Paradise Teochew Restaurant	restaurant	1.3030047	103.8338760\
+Tampopo \uc0\u12383 \u12435 \u12413 \u12413 	restaurant	1.3032117	103.8342934\
+Frenchie	restaurant	1.2773187	103.8443152\
+GattOpardo	restaurant	1.2784600	103.8443607\
+Thai Pan	restaurant	1.3035407	103.8513388\
+Kumi Den	restaurant	1.2797415	103.8433351\
+Fleur De Sel	restaurant	1.2776781	103.8442075\
+Hougang Family Medicine Clinic	clinic	1.3751487	103.8828083\
+Tan Yu	restaurant	1.2986940	103.8553214\
+Chen's Mapo Tofu	restaurant	1.3502350	103.8731127\
+Ramen Kiou	restaurant	1.3507457	103.8718247\
+Yun Nans	restaurant	1.3510860	103.8724609\
+WANt Food Chinatown Taiwanese Delights	restaurant	1.2844270	103.8466869\
+Spice 45	restaurant	1.2844250	103.8470332\
+Aglio Olio	restaurant	1.2843289	103.8471893\
+Waku-Shin	restaurant	1.2841706	103.8470701\
+Miraku	restaurant	1.2841292	103.8475508\
+Koji Sushi Bar	restaurant	1.2843676	103.8471266\
+Chilli Pan Mee (Batu Road)	restaurant	1.2835228	103.8478046\
+Lai Huat Signatures	restaurant	1.2834383	103.8477597\
+\uc0\u22269 \u24220 	restaurant	1.2836079	103.8476799\
+Luka	restaurant	1.2834618	103.8475840\
+Bad Greens	restaurant	1.2840329	103.8479555\
+\uc0\u24352 \u20142 \u40635 \u36771 \u28907 	restaurant	1.2842582	103.8473057\
+\uc0\u21035 \u24220 	restaurant	1.2841489	103.8475074\
+Fernvale Hawker Centre	food_court	1.3917332	103.8769908\
+Wu Fu	food_court	1.3720720	103.8888572\
+J Mart		1.3720748	103.8887513\
+Malaysia Boleh	food_court	1.2988823	103.8554666\
+Fairprice Xpress		1.3007277	103.8496842\
+OmoOmo Food Concepts	restaurant	1.3031554	103.8728360\
+Old Street Bak Kut Teh	restaurant	1.3037111	103.8723561\
+Pastamania	restaurant	1.3036285	103.8723830\
+Ayam Penyet President	restaurant	1.3037717	103.8723486\
+The Soup Spoon Union	restaurant	1.3031881	103.8729203\
+\uc0\u26497 \u40092 	restaurant	1.3025167	103.8730970\
+Yaowarat Thai Kway Chap	restaurant	1.3614410	103.8862004\
+Nassim Hill Bakery Bistro Bar	restaurant	1.3056352	103.8229963\
+24 Hr Clinic	clinic	1.3728753	103.8538831\
+Reve	restaurant	1.2808187	103.8421005\
+Tim Ho Wan \uc0\u28155 \u22909 \u36939 	restaurant	1.2931520	103.8319347\
+Old School Delights	restaurant	1.2897595	103.8561407\
+The Malayan Council	restaurant	1.2893458	103.8558057\
+Straits Chinese Signatures	restaurant	1.2899146	103.8560648\
+Noosh	restaurant	1.2895622	103.8564245\
+Supply & Demand	restaurant	1.2893984	103.8565779\
+28 Black	restaurant	1.2806873	103.8429038\
+Hortus	restaurant	1.2848620	103.8640812\
+Mr. Holmes Bakehouse	restaurant	1.2852563	103.8524715\
+Family Healthcare Clinic & Surgery	clinic	1.3737179	103.8908413\
+Mangiano	restaurant	1.3209678	103.8417674\
+Yummiz	restaurant	1.3186132	103.8435333\
+	food_court	1.3233438	103.8558183\
+Torasho	restaurant	1.2787104	103.8443559\
+Levant	restaurant	1.2786148	103.8443389\
+Mandalay Style	restaurant	1.2922215	103.8506244\
+Le Jardin	restaurant	1.2947166	103.8468799\
+Ippudo \uc0\u19968 \u39080 \u22530 	restaurant	1.2906777	103.8457521\
+SG Hawker	food_court	1.2907602	103.8465435\
+Nanyang Food Culture	food_court	1.3085756	103.8575066\
+Junior Kuppanna	restaurant	1.3101370	103.8568124\
+San Laksa	restaurant	1.3099638	103.8569828\
+Chandra Mahal	restaurant	1.3128110	103.8563146\
+NBCB	restaurant	1.3006984	103.8398042\
+COL	restaurant	1.2791314	103.8414646\
+PanHealth Family Clinic (Hougang)	clinic	1.3751009	103.8821732\
+Taste Bud Eating House	food_court	1.3751461	103.8819742\
+Elissa Medical Clinic	clinic	1.3757868	103.8796958\
+Tun Xiang	restaurant	1.3756012	103.8797377\
+Umi Sushi	restaurant	1.3755685	103.8796368\
+Gochi-So Shokudo	restaurant	1.3756510	103.8797023\
+Saizeriya	restaurant	1.3754342	103.8793872\
+Crawfurd Medical	clinic	1.2957062	103.8585405\
+ISteaks	restaurant	1.2959121	103.8585266\
+Al Mayili's	restaurant	1.3132458	103.8566746\
+Native Kitchen	restaurant	1.2525917	103.8202697\
+March\'e9 M\'f6venpick	restaurant	1.2639426	103.8210739\
+The beef House (beef noodles)	food_court	1.3074499	103.8582700\
+Golden mile food centre	food_court	1.3029312	103.8640011\
+Cherki	restaurant	1.2756228	103.8494894\
+Cherki	restaurant	1.2757437	103.8495323\
+Supreme Vege	restaurant	1.2971846	103.8523822\
+Supreme Vege	restaurant	1.2975776	103.8521942\
+Don Don Donki		1.3208756	103.8439889\
+Sangeetha Bhavan	restaurant	1.3138893	103.8541059\
+Wilder Mann	restaurant	1.3979673	103.8184920\
+Holycrab	restaurant	1.2930103	103.8512147\
+Tipsy Flamingo	restaurant	1.2946780	103.8533397\
+Johnson Eatery	food_court	1.3381097	103.8458437\
+2612 Little Vietnam Cuisine	restaurant	1.3381296	103.8458161\
+Jade's Chicken	restaurant	1.3381561	103.8458171\
+Bangkok D.K. Food	restaurant	1.3380926	103.8458151\
+Ian-Tau Sarawak Laksa	restaurant	1.3381748	103.8458378\
+	food_court	1.2770590	103.8192066\
+	food_court	1.2775455	103.8198357\
+	food_court	1.2779160	103.8197198\
+Seroja	restaurant	1.2995853	103.8581354\
+Health way Medical	clinic	1.3834403	103.8971415\
+Chiropractic First	clinic	1.3727302	103.8936732\
+Raffles Medical	clinic	1.3713249	103.8939429\
+Grace (SL) Medical Centre	clinic	1.3718288	103.8935956\
+The Clinic @ Campus	clinic	1.2963561	103.8500685\
+	restaurant	1.2801598	103.8012605\
+Nan Yang Dao (Malaysian food)	restaurant	1.3532142	103.8719354\
+	restaurant	1.3213504	103.8527099\
+	food_court	1.3156562	103.8962235\
+Yi Zun Beef Noodle	restaurant	1.3148936	103.8984038\
+Mouth	restaurant	1.2791102	103.8450411\
+Shikar	restaurant	1.2790591	103.8443837\
+Hwang Sil	restaurant	1.2791757	103.8449532\
+Hyang Yeon	restaurant	1.2789768	103.8450349\
+Mul Gogi	restaurant	1.2781078	103.8442918\
+Teppan Works	restaurant	1.2782723	103.8443246\
+Cumi Bali	restaurant	1.2780658	103.8442787\
+Anju	restaurant	1.2777282	103.8442143\
+Haewon	restaurant	1.2774185	103.8441696\
+Euphoria	restaurant	1.2773798	103.8441689\
+Gyutan-Tan	restaurant	1.2782870	103.8445002\
+Terra	restaurant	1.2779747	103.8442742\
+Hamamoto	restaurant	1.2778335	103.8442364\
+Sushi Mitsuya	restaurant	1.2777769	103.8442175\
+Brasserie Gaurocke	restaurant	1.2776342	103.8441918\
+Chef\'92s Table	restaurant	1.2778035	103.8443971\
+So Seoul	restaurant	1.2781110	103.8444670\
+Taboo	restaurant	1.2780576	103.8431865\
+Dakga	restaurant	1.2796497	103.8433409\
+Ju Hua Tai	restaurant	1.2792810	103.8429041\
+Raku Raku	restaurant	1.2791317	103.8433991\
+Fav Korean Grillbar	restaurant	1.2794393	103.8423908\
+iKo	restaurant	1.2794089	103.8423632\
+Beast	restaurant	1.2792500	103.8428564\
+	restaurant	1.3076077	103.8582056\
+Joji's Diner	restaurant	1.3458290	103.8715575\
+Ramen Bari-Uma	restaurant	1.3205326	103.8420049\
+The Oyster Cart	restaurant	1.3166610	103.8532240\
+Suriwan Thai Kitchen	restaurant	1.3118915	103.8632648\
+Sri Lakshmi Nharasimha	restaurant	1.3129503	103.8564250\
+Shi Mei Traditional Charcoal Roast	restaurant	1.3101849	103.8564309\
+Al Mubin	restaurant	1.3093147	103.8554773\
+Five Stones	restaurant	1.3062684	103.8532989\
+Tracy\'92s	restaurant	1.3001157	103.8523240\
+Priv\'e9	restaurant	1.3149893	103.8161321\
+Billion Food Point	restaurant	1.3605470	103.8567495\
+GHK 407 Foodhouse	restaurant	1.3623123	103.8554727\
+Healthway Medical	clinic	1.3688314	103.8565262\
+8 Korean BBQ	restaurant	1.3062788	103.8315988\
+8 Korean BBQ	restaurant	1.2891310	103.8461569\
+Mei Tang		1.3262681	103.8637132\
+Kimly Coffeeshop	food_court	1.3574727	103.8442937\
+Sin Ming Roti Prata	restaurant	1.3555290	103.8364516\
+Indulge	restaurant	1.3583320	103.8333065\
+Islamic Food Paradise	restaurant	1.3581202	103.8338355\
+Nursing Training Centre	hospital	1.2870419	103.8019720\
+Rappu	restaurant	1.2782565	103.8433326\
+pho-losophy	restaurant	1.2788912	103.8509459\
+Firangi Superstar	restaurant	1.2777790	103.8425358\
+Malaysia Chiak!	food_court	1.2775632	103.8535534\
+Chili Ban Mian and Char Quay Teow	restaurant	1.2775491	103.8535592\
+Hainanese Curry Rice	restaurant	1.2775565	103.8535435\
+Yong Peng Fish Ball Noodle	restaurant	1.2775739	103.8535404\
+Supergreen	restaurant	1.2775836	103.8535754\
+New Hong Kong Roast	restaurant	1.2653996	103.8221211\
+Merci Marcel	restaurant	1.3064966	103.8295711\
+Kaayaloram	restaurant	1.3056302	103.8534532\
+Kozen Sushi Bar & Restaurant	restaurant	1.3120343	103.8571966\
+Kwong Satay	restaurant	1.3139029	103.8845221\
+	restaurant	1.2883401	103.8059983\
+Pu Xian	restaurant	1.3630708	103.8952373\
+Koufu	food_court	1.3626390	103.8950595\
+Sheng Siong		1.3632233	103.8952516\
+Charlie's	restaurant	1.3625242	103.8949706\
+Savoreux	restaurant	1.3094226	103.8580908\
+FoodHub\uc0\u22823 \u24072 	restaurant	1.3672872	103.8485466\
+Sukiya	restaurant	1.3828053	103.8922779\
+FairPrice Finest		1.3825576	103.8922195\
+Collin's	restaurant	1.3824817	103.8926875\
+Tokyo Shokudo	restaurant	1.3819711	103.8923576\
+Southbridge	restaurant	1.2884004	103.8491872\
+City Hotpot	restaurant	1.3826266	103.8924338\
+Qin Ji Rougamo	restaurant	1.3819195	103.8924295\
+	food_court	1.3460661	103.8418335\
+Nam Wah	restaurant	1.3388986	103.8873138\
+Maxim	restaurant	1.3645803	103.8495632\
+	restaurant	1.2773978	103.8176392\
+The Soup Spoon	restaurant	1.3197806	103.8435203\
+Dee Sha Thai Cuisine	restaurant	1.3133650	103.8603006\
+N\'f8nresident	restaurant	1.2988012	103.8500587\
+Black Knight	restaurant	1.2929634	103.8585631\
+Nozomi	restaurant	1.2929524	103.8586828\
+Kura	restaurant	1.2929442	103.8587833\
+Sushi Murasaki	restaurant	1.2929442	103.8588168\
+New Shah Alam Restaurant	restaurant	1.2872991	103.8489586\
+FairPrice Finest		1.3505336	103.8488463\
+Shifudo japanese restaurant	restaurant	1.3455383	103.8820887\
+Mutiara Seafood	restaurant	1.3162885	103.8966646\
+Selera Serambi	restaurant	1.3163318	103.8970268\
+Tasty Wok	restaurant	1.3163171	103.8995324\
+Marhaba Restaurant	restaurant	1.3163956	103.8992865\
+Joo Chiat Food Centre	restaurant	1.3159511	103.8994573\
+Al-Azhar Restaurant	restaurant	1.3158971	103.8972041\
+Nenda\'92s Fritters	restaurant	1.3156607	103.8962937\
+Kedai Kopi	restaurant	1.3156669	103.8963397\
+Tenderbest	restaurant	1.3156768	103.8963961\
+\uc0\u19968 \u21697 \u28900 \u40060 	restaurant	1.3145775	103.8950619\
+XLX Modern Tze Char	restaurant	1.3088957	103.8772825\
+	food_court	1.3069847	103.8000782\
+Leaf Corner	restaurant	1.3364194	103.8874689\
+Scarlett Supermarket		1.3338571	103.8877974\
+Connect	food_court	1.3337795	103.8878544\
+Kushi Japanese Dining	restaurant	1.3336741	103.8879718\
+Jae's Kitchen	restaurant	1.3338031	103.8880282\
+Bethesda Medical	clinic	1.3338071	103.8875457\
+Frontier Family Medicine Clinic	clinic	1.3337201	103.8874844\
+B\'e1nh M\'ec B\'e9 Bi	restaurant	1.3327623	103.8788850\
+Super Thai by Soi Aroy	restaurant	1.3328891	103.8788615\
+Kei Kaisendon	restaurant	1.3342637	103.8894627\
+Maki-San	restaurant	1.3288144	103.8694847\
+The Beef Station	restaurant	1.3284712	103.8695960\
+51 Noodle House	restaurant	1.3284622	103.8695246\
+Sean Kee Duck Rice	restaurant	1.3145682	103.8885424\
+Um Yong Baek	restaurant	1.2812587	103.8486383\
+Ontama Don	restaurant	1.3246438	103.8514051\
+Collin's	restaurant	1.3246008	103.8514594\
+Mui Kee	restaurant	1.3244360	103.8516709\
+Kolkata Beckons	restaurant	1.3083344	103.8509577\
+Doki Doki Donburi	restaurant	1.2795994	103.8506042\
+Brewerkz	restaurant	1.3389555	103.8727551\
+Parkway MediCentre	clinic	1.3386411	103.8720397\
+Watami Japanese Dining	restaurant	1.3388811	103.8721899\
+So Pho	restaurant	1.3386486	103.8717205\
+NTUC FairPrice Finest		1.3385533	103.8712185\
+Food Republic	food_court	1.3387867	103.8720184\
+Paradise Classic & LeNu	restaurant	1.3384540	103.8719398\
+Bulgogi Syo	restaurant	1.3385818	103.8717283\
+Genki Sushi	restaurant	1.3386889	103.8715954\
+The Soup Spoon Union	restaurant	1.3384584	103.8720641\
+Hi NOODLE	restaurant	1.3386428	103.8719468\
+COLLIN'S\'ae\uc0\u65039  GASTRO DINING	restaurant	1.3387237	103.8721270\
+Hototogisu Ramen	restaurant	1.3386393	103.8721418\
+Poulet	restaurant	1.3384299	103.8720298\
+OEI & KOH	clinic	1.3357219	103.8566962\
+National Health Group Diagnostics X-Ray	clinic	1.3345021	103.8589590\
+Sin Kee Heong	food_court	1.3068512	103.8000259\
+SBCD	restaurant	1.2740153	103.8013476\
+N\'faodle \uc0\u29275 \u19968 \u22068 	restaurant	1.2735093	103.8017579\
+Yahava	restaurant	1.3239926	103.8527903\
+Oaklife Family Clinic	clinic	1.3267682	103.8424618\
+MacPherson Eating House	restaurant	1.2880980	103.8485644\
+Soi 47	restaurant	1.2892544	103.8463781\
+Picolino	restaurant	1.3247925	103.8512446\
+Koo Kee	restaurant	1.3245051	103.8515872\
+	restaurant	1.3055913	103.8547055\
+Wok Legend	restaurant	1.3055685	103.8547557\
+Intemedical Teck Ghee	clinic	1.3641077	103.8486100\
+Food Loft	food_court	1.3638786	103.8484547\
+Famous Whampoa Seafood White Bee Hoon	restaurant	1.3232579	103.8547741\
+Sukiya \uc0\u12377 \u12365 \u23478 	restaurant	1.3206581	103.8442162\
+Chifa!	restaurant	1.2553421	103.8198546\
+Feng Shui Inn	restaurant	1.2581432	103.8166855\
+Harry\'92s	restaurant	1.2560885	103.8208815\
+The Malayan Council cafe	restaurant	1.3100216	103.8417166\
+10 Winstedt Road	restaurant	1.3099384	103.8421646\
+Minutes	restaurant	1.2987466	103.8491205\
+Zangliang Malatang	restaurant	1.2986108	103.8490044\
+Good Old Times BBQ	restaurant	1.2991202	103.8493612\
+House Of Thai	restaurant	1.3004886	103.8495091\
+Kopi & Tea	restaurant	1.3005451	103.8495320\
+\uc0\u36255 \u28907  Tang Tang	restaurant	1.3006590	103.8495998\
+Isle Eating House	restaurant	1.3005785	103.8495804\
+Parklane Medical Centre	clinic	1.3006418	103.8493335\
+Gao Feng Food Court	food_court	1.3005495	103.8494474\
+Nature Cafe	restaurant	1.2864578	103.8092877\
+Q&M Dental Center (Balestier)	clinic	1.3263295	103.8427332\
+QQ Rice	restaurant	1.3210542	103.8441871\
+Eight Korean BBQ	restaurant	1.2892978	103.8464641\
+Lan Nuong	restaurant	1.3114740	103.8609475\
+Tang Huo Kung Fu Mala Tang	restaurant	1.2990607	103.8488997\
+	restaurant	1.3640675	103.8491672\
+Friendship Food Court	restaurant	1.2844552	103.8422487\
+Sushi Tei	restaurant	1.2634234	103.8228097\
+Earle Swensen's	restaurant	1.2634245	103.8228994\
+	restaurant	1.3501910	103.8731141\
+Srisun Express	restaurant	1.3725638	103.8857693\
+Medlife Clinic & Surgery	clinic	1.3741186	103.8870422\
+Food Hub	food_court	1.3707372	103.8812687\
+MyCLINQ	clinic	1.3740616	103.8938451\
+Eiddwen Family Medicine Clinic	clinic	1.3096209	103.8844910\
+The Bank	restaurant	1.2779584	103.8420722\
+Teck Lee	restaurant	1.3822847	103.8934838\
+Buangkok Hawker Centre	food_court	1.3834730	103.8922085\
+So Good Char Chan Teng	restaurant	1.2746340	103.8434323\
+The Great Madras	restaurant	1.3050137	103.8530040\
+Chong Qing Grilled Fish Upper Thomson	restaurant	1.3517411	103.8352718\
+Kazoku Japanese Cuisine	restaurant	1.3184492	103.8426847\
+Im Em Thai Kitchen	restaurant	1.3104116	103.8640981\
+BHC Chicken	restaurant	1.2923799	103.8581016\
+Ramen Dining Keisuke Tokyo \uc0\u12369 \u12356 \u12377 \u12369 \u26481 \u20140 	restaurant	1.2929418	103.8511046\
+The Banana Leaf Apolo	restaurant	1.3052594	103.8518807\
+Treasure Toast	restaurant	1.2961589	103.8554985\
+Armenor	restaurant	1.2966680	103.8550712\
+	restaurant	1.2961837	103.8554600\
+Thai Supermarket		1.3097081	103.8643862\
+Rainbow Rice House	restaurant	1.2872078	103.8468567\
+EatAlley	food_court	1.3004741	103.8393677\
+Sanook Kitchen	restaurant	1.2913310	103.8501030\
+Shrimp prawn seafood	restaurant	1.2871300	103.8493272\
+Sheng Yuan Food Street	food_court	1.3287008	103.8794604\
+Dinner Lok Lok Mou	restaurant	1.3287664	103.8793817\
+MM Western Charcoal Grill	restaurant	1.3287285	103.8793968\
+"Sing Hiong Market, Bakery & Confectionery"		1.3331217	103.8787865\
+Taste of Vietnam Food	restaurant	1.3332574	103.8788039\
+Hoe Nam Bak Kut Teh	restaurant	1.3288450	103.8698388\
+Macpherson Minced Meat Noodles	restaurant	1.3284226	103.8700190\
+Zheng Yi Hainanese Beef Noodles	restaurant	1.3284289	103.8700343\
+Mermaid Mala & BBQ	restaurant	1.3287884	103.8698464\
+Lao Zhong Zhong Eating House	food_court	1.3289787	103.8697870\
+Soon Li Whitley Food Centre Pork Porridge	restaurant	1.3290347	103.8698521\
+Mr Duck	restaurant	1.3290065	103.8697889\
+88 Chicken	restaurant	1.3288722	103.8694519\
+Katsu Izakaya Japanese Bistro	restaurant	1.3289794	103.8693782\
+Wan Wan Mookata	restaurant	1.3298822	103.8740124\
+Minah Tina Rina Ayam Penyet	restaurant	1.3298631	103.8740134\
+House Of Samosas	restaurant	1.3320436	103.8827657\
+Casablanca	restaurant	1.3005739	103.8592850\
+Legendary Hong Kong Cart Noodles	restaurant	1.2916856	103.8496499\
+TamJai SamGor Mixian \uc0\u35674 \u20180 \u19977 \u21733 \u31859 \u32218 	restaurant	1.2916563	103.8496364\
+French Fold	restaurant	1.3065220	103.8295118\
+Est. 1819 dine by the quay	restaurant	1.2881365	103.8493159\
+Tian tian fisherman's pier seafood restaurant	restaurant	1.2866207	103.8495128\
+Cottage & Kettle	restaurant	1.2867548	103.8494544\
+Rojak	restaurant	1.3241204	103.8140574\
+Chicken Rice	restaurant	1.3242298	103.8140517\
+Prawn Noodles	restaurant	1.3242822	103.8141453\
+XiaoLongKan	restaurant	1.3015844	103.8377669\
+Mother's Restaurant	restaurant	1.3062836	103.8534400\
+Soi 47 Thai Food	restaurant	1.3368721	103.8538053\
+Madam Mookata	restaurant	1.3399141	103.8921332\
+Sprouts Food Place	food_court	1.3170477	103.8180615\
+Kura Oyster & Highball Bar	restaurant	1.2827684	103.8486653\
+Ikkoten Omakase	restaurant	1.2827200	103.8486531\
+	food_court	1.3797329	103.8415273\
+	food_court	1.3794997	103.8402479\
+Happy Kampong Seafood	restaurant	1.3861445	103.8302925\
+Quan Shui Wet Market		1.3836916	103.8280781\
+Le Bistrot Du Sommelier	restaurant	1.2945878	103.8494496\
+Kim San Leng	food_court	1.3148516	103.8506316\
+Food Haus	food_court	1.3655545	103.8532120\
+Imperial Treasure Steamboat Restaurant	restaurant	1.2934131	103.8315619\
+Joyden Canton Kitchen	restaurant	1.2933245	103.8316667\
+The Gong	restaurant	1.2929153	103.8325581\
+Tambuah Mas	restaurant	1.2935307	103.8316723\
+Cloud Nine	restaurant	1.3116549	103.8631784\
+K C Yeo Surgery & Clinic for Women	clinic	1.3254703	103.8423768\
+	clinic	1.3220087	103.8530980\
+\uc0\u21776 \u22823 \u23567 \u22992  Mademoiselle Tang Noodle	restaurant	1.3203199	103.8430211\
+Co Chung	restaurant	1.3007408	103.8452053\
+Supply & Demand	restaurant	1.3003010	103.8399013\
+Katsu-an \uc0\u12363 \u12388 \u24245 	restaurant	1.2958709	103.8586250\
+Eggslut	restaurant	1.2950440	103.8598291\
+Big Appetite	food_court	1.2952745	103.8601983\
+Tipo Strada	restaurant	1.3203692	103.8429844\
+Chobu Ya	restaurant	1.3002205	103.8521536\
+Hanamaruken	restaurant	1.2978660	103.8499581\
+Madison's	restaurant	1.2939103	103.8504551\
+Teru	restaurant	1.2882232	103.8474318\
+Novena Specialist Center	clinic	1.3201236	103.8446597\
+Sin Yuu	restaurant	1.3204694	103.8429208\
+HAO Eccellente		1.3011717	103.8404406\
+Bella Pasta	restaurant	1.2909864	103.8414868\
+Food Alley \uc0\u23567 \u39135 \u24055 	food_court	1.3330355	103.8483028\
+Yayoi Japanese Teishoku Restaurant \uc0\u12420 \u12424 \u12356 \u36562 	restaurant	1.3172843	103.8433527\
+Adipoli Curry Pot	restaurant	1.3124395	103.8629742\
+Cahaya Singapura	restaurant	1.3122365	103.8631190\
+Wah Por	restaurant	1.3125305	103.8629252\
+Balestier Medical Clinic	clinic	1.3213048	103.8532002\
+Shine Korea		1.3093800	103.8642993\
+Kim Bee Seng	restaurant	1.3243491	103.8575356\
+		1.3224483	103.8598190\
+Teh Tarik Chinatown	restaurant	1.2820556	103.8437496\
+ABC Foodcourt	food_court	1.3097678	103.8784924\
+Market hall	food_court	1.2584142	103.8115656\
+St John Singapore Dementia Centre	clinic	1.3016846	103.8634603\
+Adda	restaurant	1.2998206	103.8598509\
+Osteria Bar & Billiard Room	restaurant	1.2942938	103.8545378\
+Bar.B.Q. Tonight	restaurant	1.3105484	103.8538436\
+Shwe Innwa		1.2921331	103.8509462\
+Astoria	restaurant	1.2884975	103.8517039\
+Hong Kong Stars Cafe	restaurant	1.3128038	103.8596193\
+GreenBlissHabitat	restaurant	1.3003559	103.8521158\
+Diner\'92s Shack	restaurant	1.3003102	103.8522940\
+Tanglin Cookhouse	restaurant	1.3046787	103.8237807\
+	restaurant	1.3047047	103.8240416\
+Oppa Sha-Shabu	restaurant	1.2998940	103.8492144\
+OVM Super Store		1.3228067	103.8522385\
+Na Na	restaurant	1.3098387	103.8637517\
+NTUC Fairprice		1.3251781	103.8510683\
+Mount Elizabeth Proton Therapy Centre	hospital	1.3224903	103.8450626\
+ABC Bistro	restaurant	1.3118885	103.8774655\
+Sinfoode	restaurant	1.3388059	103.8873596\
+Rod Dee Thai Cafe	restaurant	1.2802682	103.8407772\
+Mad About Sucre	restaurant	1.2796838	103.8407708\
+Casa	restaurant	1.2797523	103.8407648\
+Friends Kitchen HK	restaurant	1.2796979	103.8424123\
+Konjiki Hototogisu Singapore	restaurant	1.2945856	103.8525143\
+HONBO	restaurant	1.2951880	103.8526651\
+Tian Tian Hainanese Chicken Rice	restaurant	1.2804747	103.8448344\
+Din Tai Fung	restaurant	1.2939731	103.8541738\
+Milkfish Raffles City	restaurant	1.2940035	103.8525854\
+Zhen Zhen Porridge	restaurant	1.2804427	103.8447176\
+Lao Ban Soya Beancurd	restaurant	1.2803516	103.8445903\
+Jin Hua Fish Head Bee Hoon	restaurant	1.2803878	103.8447855\
+Heng Ji Chicken Rice	restaurant	1.2826022	103.8428133\
+Ming Fa Fishball	restaurant	1.2826595	103.8429860\
+Outram Park Fried Kwat Teow Mee	restaurant	1.2854092	103.8459219\
+Ann Chin Popiah	restaurant	1.2827033	103.8430189\
+Tai Wah Pork Noodle	restaurant	1.2854074	103.8459509\
+Seng Kee Local Delights	restaurant	1.2806753	103.8504689\
+	food_court	1.3073251	103.8838408\
+Akane Restaurant	restaurant	1.3303810	103.8157061\
+Donguri	restaurant	1.3308654	103.8160437\
+Spizza	restaurant	1.3169106	103.8351170\
+The Asia 2019	restaurant	1.3004123	103.8519611\
+Finest Gourmet		1.3167154	103.8352760\
+Yaowarat Seafood	restaurant	1.3155228	103.8593953\
+Xin Wang Hong Kong Cafe	restaurant	1.3200546	103.8434204\
+"Japanese Association Clinic, Singapore"	clinic	1.3306350	103.8157691\
+An Nyeong	restaurant	1.3227587	103.8143539\
+	restaurant	1.3020082	103.8503903\
+Lajiang Shan	restaurant	1.3004189	103.8495504\
+Jiang\'92s Noodle House	restaurant	1.3006494	103.8496611\
+Shine Korea		1.2964128	103.8538356\
+Goldenroy Sourdough Pizza	restaurant	1.3081938	103.8565934\
+Mr. Prata	restaurant	1.3184236	103.8200526\
+Josh\'92s Grill	restaurant	1.2987293	103.8555609\
+Swensen\'92s	restaurant	1.2990247	103.8557864\
+Kaisendon	restaurant	1.2837732	103.8463836\
+Tempura Udon	restaurant	1.2768261	103.8437062\
+Sukhothai	restaurant	1.2769488	103.8437347\
+Pine & Dine	restaurant	1.3039628	103.8516444\
+LKF Medical	clinic	1.2867403	103.8477685\
+Soorya Mahal	restaurant	1.3162270	103.8582268\
+TungLok Signatures	restaurant	1.2893246	103.8465446\
+So Pho	restaurant	1.3203501	103.8441448\
+Curry Times	restaurant	1.3204213	103.8441828\
+YGF Mala Hot Pot	restaurant	1.2996793	103.8546157\
+Long Phung	restaurant	1.2831921	103.8428178\
+Peace Family TCM Clinic	clinic	1.2834149	103.8429716\
+NG AH SIO bak kut teh \uc0\u40643 \u20126 \u32048 \u32905 \u39592 \u33590 	restaurant	1.2893011	103.8472858\
+NTUC FairPrice Finest Clarke Quay		1.2910606	103.8454824\
+Aburi En	restaurant	1.3057988	103.8319260\
+LouLou	restaurant	1.2795583	103.8415849\
+Tanamera Coffee	restaurant	1.3047351	103.8236537\
+Tanamera Coffee	restaurant	1.3649649	103.8654131\
+Kulinari	restaurant	1.2858069	103.8496223\
+Sampoorna Swadesi	restaurant	1.3153218	103.8583632\
+Rochor Beancurd House	restaurant	1.3148939	103.8904145\
+Warong Sudi Mampir	restaurant	1.3155222	103.8955662\
+SoupCup HongLeong	restaurant	1.2813189	103.8510169\
+SoupCup Suntec City	restaurant	1.2934194	103.8566220\
+	restaurant	1.2959798	103.8522912\
+Three Buns	restaurant	1.2905338	103.8395346\
+Meow Barbecue \uc0\u29483 \u25235 \u28900 \u32905 	restaurant	1.2997565	103.8546400\
+To Go Soup	restaurant	1.3008718	103.8554642\
+EN Seeds / Bowl Of Gratitude	restaurant	1.3003612	103.8520704\
+Bodhi Tree	restaurant	1.3003843	103.8521584\
+Seva	restaurant	1.3004644	103.8522230\
+Ping Jie	restaurant	1.3315310	103.8694773\
+The Basement	restaurant	1.2811679	103.8506621\
+Yokohama Ramen	restaurant	1.3337063	103.8883459\
+Sunny Korean	restaurant	1.3364306	103.8888825\
+Warung Ijo	restaurant	1.3337010	103.8880883\
+Oasis Taiwan Porridge	restaurant	1.3337728	103.8884186\
+Wu You Eating Place	restaurant	1.3153578	103.8595266\
+	restaurant	1.3413711	103.8404714\
+Beng Thin Hoon Kee Restaurant	restaurant	1.2848363	103.8492321\
+Shoukouwa Shinjidai	restaurant	1.3046043	103.8248180\
+Jinkura Izakaya	restaurant	1.3123776	103.8629211\
+Twin Island Noodle House	restaurant	1.3123106	103.8629904\
+Saizeriya	restaurant	1.2738283	103.8017489\
+Umisushi	restaurant	1.2743682	103.8014276\
+Tingkat PeraMakan	restaurant	1.2737083	103.8013273\
+Vibe	restaurant	1.2840897	103.8511920\
+Quantum Medical Imaging	clinic	1.3095086	103.8644963\
+Foodmaster	food_court	1.3098270	103.8638744\
+Pohang Seafood & Butchery	restaurant	1.3097081	103.8643249\
+Ichiho	restaurant	1.3095673	103.8644401\
+The Clinic @ Aperia	clinic	1.3096636	103.8640917\
+Nature Caf\'e9	restaurant	1.3097242	103.8641038\
+Saizeriya	restaurant	1.3095963	103.8644519\
+\uc0\u35920 \u22823 \u21416 	restaurant	1.3096457	103.8644063\
+Black Pepper Multicuisine	restaurant	1.3115078	103.8553571\
+	restaurant	1.2920846	103.8496007\
+Ember	restaurant	1.2869644	103.8471696\
+Deli(Jie) Fish Head Steamboat	restaurant	1.3233301	103.8548654\
+Excelsior Shopping Centre		1.2920995	103.8496887\
+Ka-En	restaurant	1.2932787	103.8515278\
+Ichiban Boshi	restaurant	1.3174686	103.8438145\
+Nara	restaurant	1.3180208	103.8434660\
+	restaurant	1.3180386	103.8435179\
+FoodHaven	food_court	1.2775478	103.8001896\
+Red Dot Mala Hot Pot	restaurant	1.3225326	103.8637737\
+Pocha	restaurant	1.2898984	103.8451755\
+BBQ BOX	restaurant	1.2902518	103.8458360\
+Tomo Tokyo	restaurant	1.2896189	103.8450302\
+Mimi	restaurant	1.2899735	103.8449913\
+Nana Thai Royale	restaurant	1.2899748	103.8452024\
+Hanjip	restaurant	1.2901954	103.8459553\
+Red Tail	restaurant	1.2908704	103.8458275\
+Monster Fish	restaurant	1.2902847	103.8457710\
+Le Mont Singapore	restaurant	1.2800166	103.8420067\
+Willow	restaurant	1.2873745	103.8474273\
+Kunthaville	restaurant	1.3074785	103.8535103\
+	food_court	1.3420845	103.8495164\
+MobileDoctorClinic	clinic	1.2848614	103.8469329\
+Han Hot Pot	restaurant	1.2972066	103.8559708\
+Sichuan Alley	restaurant	1.2830626	103.8491969\
+City Hot Pot	restaurant	1.2838435	103.8511263\
+FOC	restaurant	1.2873440	103.8474760\
+NKF Dialysis Center	clinic	1.3961432	103.8914706\
+Guan Keat	restaurant	1.3136721	103.8768633\
+Penang Seafood Restaurant	restaurant	1.3148097	103.8820864\
+	restaurant	1.2845571	103.8192596\
+Singapore Orthopaedic Clinic	clinic	1.3220092	103.8441955\
+Annapoorna	restaurant	1.3112306	103.8557707\
+Sapporo Misono	restaurant	1.2929958	103.8592853\
+The Dispensary Heritage	restaurant	1.3199840	103.8814991\
+Jia Bing (Klang) Bak Kut Teh	restaurant	1.3139084	103.8543759\
+79 Chuaner Talk	restaurant	1.3120790	103.8572300\
+Ryu Ichi	restaurant	1.3122582	103.8573794\
+Good Yo	restaurant	1.3146953	103.8813840\
+The Other Clinic	clinic	1.3150224	103.8811219\
+Forman Makan	restaurant	1.2845636	103.8463810\
+noa	restaurant	1.2789840	103.8421165\
+Boon Keng New Taste	restaurant	1.3225714	103.8638208\
+Makuake	restaurant	1.3116390	103.8615152\
+Tipo Osteria	restaurant	1.3113271	103.8610775\
+NTUC Fairprice		1.3968408	103.8887344\
+Healthway Medical	clinic	1.3197988	103.8614510\
+Hankang Pocha	restaurant	1.3222095	103.8635239\
+El Shaddai	clinic	1.3204719	103.8619888\
+Tan Teoh Clinic & Surgery	clinic	1.3192674	103.8609969\
+Yooi Clinic	clinic	1.3204059	103.8619348\
+Chuan Pai	restaurant	1.2999790	103.8549931\
+Yan Woo	restaurant	1.2844663	103.8444023\
+Anchorvale Hawker Centre	food_court	1.3969052	103.8883334\
+Genesis	restaurant	1.2869069	103.8451363\
+Yi Su Pin \uc0\u19968 \u32032 \u21697 	restaurant	1.2854096	103.8438729\
+Kale by KangSu \uc0\u24247 \u32032 	restaurant	1.2908694	103.8512899\
+Ding Chiang Lou	restaurant	1.3338933	103.8879989\
+Trattoria Da Mimmo	restaurant	1.3502743	103.8429861\
+Grains & Hops	food_court	1.2978681	103.8386726\
+Kee's	restaurant	1.2885817	103.8473577\
+Sushiro \uc0\u12473 \u12471 \u12525 \u12540 	restaurant	1.3010827	103.8405022\
+Bangkok Jam - Plaza Singapura	restaurant	1.3003014	103.8449187\
+Fu Kang Coffee Shop	restaurant	1.2833769	103.8167022\
+J-Wok	restaurant	1.2834067	103.8177702\
+HC Endoscopy & Piles Centre	clinic	1.3331325	103.8491921\
+Ang mo supermarket		1.3362266	103.8481281\
+Kok Sen	restaurant	1.2792896	103.8416060\
+Ms. Maria & Mr. Singh	restaurant	1.2780685	103.8420016\
+CS Fresh		1.3172829	103.8361658\
+Han\'92s	restaurant	1.2833777	103.8190930\
+Fook Seng Goldenhill Chicken Rice	restaurant	1.2892322	103.8096424\
+Bukchon Korean Restaurant	restaurant	1.3316206	103.8792619\
+Sin Ming chicken rice	restaurant	1.3455115	103.8555377\
+La table d'Emma	restaurant	1.2828530	103.8464742\
+Pastaro	restaurant	1.3172713	103.8361051\
+Pocha	restaurant	1.3917156	103.8948725\
+Thai Palace	food_court	1.3579398	103.8444778\
+Penang Culture	restaurant	1.3922256	103.8952314\
+Soup Restaurant	restaurant	1.3923165	103.8952291\
+Woke Ramen	restaurant	1.3921691	103.8952293\
+Winsome	clinic	1.3242466	103.8565822\
+	food_court	1.3241337	103.8567561\
+Happiness Is Now!	restaurant	1.2983239	103.8556861\
+Dim Sum Hall	restaurant	1.3013270	103.8398903\
+Dapur Penyet	restaurant	1.3023730	103.8399699\
+49 Seats	restaurant	1.3022036	103.8398497\
+Fire Ramen	restaurant	1.3022994	103.8398773\
+Dosirak	restaurant	1.2993031	103.8575264\
+Diandin Leluk	restaurant	1.3023174	103.8620787\
+Hai Ge Ji Hainanese Chicken Rice	restaurant	1.3038251	103.8598994\
+Ding Ji Cafe \uc0\u40718 \u35760 \u39184 \u23460 	restaurant	1.2886110	103.8158400\
+Sushi Plus	restaurant	1.2988697	103.8556842\
+Bebek Goreng Pak Ngdut	restaurant	1.3047491	103.8338135\
+City Hot Pot	restaurant	1.3824087	103.8925528\
+Tsujiri	restaurant	1.3829710	103.8920055\
+Noodle Star K	restaurant	1.2790632	103.8437943\
+SODAM	restaurant	1.2793335	103.8437456\
+HANKANG POCHA \uc0\u54620 \u44053 \u54252 \u52264 	restaurant	1.2792489	103.8437634\
+Bad Habits Provision	restaurant	1.2933624	103.8414135\
+Ooagachaga	clinic	1.2834262	103.8440475\
+\uc0\u19977 \u30405 \u20841 \u20214  Soup Restaurant	restaurant	1.3039667	103.8356428\
+OrthoSportsAtConnexion	clinic	1.3125904	103.8539957\
+Singapore Paincare TCM Wellness	clinic	1.2913006	103.8575122\
+Raffles Medical	clinic	1.2910677	103.8589975\
+Sofra	restaurant	1.2907386	103.8571570\
+The Original Katong Laksa	restaurant	1.3451957	103.8814641\
+Daebak Korean Cuisine	restaurant	1.3330414	103.8844018\
+Sofra	restaurant	1.2907386	103.8571570\
+Raffles Medical	clinic	1.2910677	103.8589975\
+Daebak Korean Cuisine	restaurant	1.3330414	103.8844018\
+The Original Katong Laksa	restaurant	1.3451957	103.8814641\
+Shifu Food Court	food_court	1.2969279	103.8530811\
+Shunsui	restaurant	1.2876972	103.8472956\
+	restaurant	1.2872309	103.8476729\
+Mizume	restaurant	1.2873159	103.8475290\
+Am\'f2	restaurant	1.2875120	103.8472126\
+	restaurant	1.2838192	103.8437556\
+	restaurant	1.2837803	103.8438318\
+	restaurant	1.2837307	103.8439055\
+MOC Quan	restaurant	1.2923632	103.8425418\
+Black Society	restaurant	1.2981053	103.8447476\
+	restaurant	1.2814365	103.8443552\
+Soi 19 Thai Wanton Mee	restaurant	1.3015944	103.8570006\
+MTX Taiwan Fusion Cuisine	restaurant	1.3015583	103.8572267\
+DaXi	restaurant	1.2976117	103.8578288\
+So Do Fun	restaurant	1.2971868	103.8571018\
+Flutes Restaurant	restaurant	1.2973297	103.8572711\
+Setsuri Ishinomaki	restaurant	1.2971241	103.8573491\
+Mirai Robatayaki & Sushi Restaurant	restaurant	1.2969282	103.8573593\
+Summer Folks Cafe & Steakhouse	restaurant	1.2969512	103.8576994\
+UMAI	restaurant	1.2969947	103.8576564\
+Tipsy Time	restaurant	1.2979491	103.8571130\
+GX Banh Mi	restaurant	1.2980904	103.8569958\
+Chong Qing Steamboat Bar	restaurant	1.2974191	103.8567559\
+grillninetynine	restaurant	1.3025840	103.8580160\
+X Maris B. Clinic	clinic	1.3025494	103.8580478\
+Hansang Korean Family Restaurant	restaurant	1.3209314	103.8440858\
+Huevos	restaurant	1.3041024	103.8603714\
+Shine Korea		1.3010984	103.8552433\
+Saint Marc	restaurant	1.2998869	103.8569320\
+Terra Moon	restaurant	1.2999468	103.8493558\
+Genkai Koya	restaurant	1.3000011	103.8493979\
+\uc0\u32447 \u22826 \u29239 	restaurant	1.3002536	103.8493525\
+Voon Eye Clinic	clinic	1.3005009	103.8495420\
+Take A Bite	restaurant	1.3021926	103.8498819\
+	restaurant	1.2984019	103.8165652\
+	restaurant	1.2974732	103.8159012\
+	restaurant	1.2944242	103.8150251\
+Dawson Medical Singapore	clinic	1.2953713	103.8094704\
+Jade Medical Clinic	clinic	1.2891622	103.8466390\
+Minmed Clinic (Redhill)	clinic	1.2900423	103.8170888\
+Nandhana's	restaurant	1.3729412	103.8474773\
+Khao Hom	restaurant	1.3729620	103.8476917\
+Buddy Hoagies	restaurant	1.3729505	103.8475544\
+Bangladeshi Food	restaurant	1.3085965	103.8552126\
+Al Bismi	restaurant	1.3088771	103.8552324\
+Sichuan Chef	restaurant	1.3834504	103.8925042\
+NTWU Canteen	food_court	1.3838874	103.8926277\
+Dr Plus Medical & Paincare Hougang	clinic	1.3703931	103.8954608\
+Trucare Medical & Surgery	clinic	1.3703744	103.8954267\
+Fundamental Aesthetic Medical Clinic	clinic	1.3705083	103.8954421\
+Nom Nom Monster	restaurant	1.3701836	103.8951926\
+The Cheery Child Clinic	clinic	1.3704387	103.8954645\
+New Ubin Seafood	restaurant	1.3164875	103.8265598\
+Singapore Chee Chung Huay Free Clinic	clinic	1.3310478	103.8796607\
+Alani	restaurant	1.2805192	103.8452003\
+Sabar Menanti	restaurant	1.3026603	103.8586997\
+D\'92life Signature	restaurant	1.3206885	103.8443261\
+Rangoon Club	restaurant	1.2783737	103.8432026\
+Din Tai Fung	restaurant	1.2850277	103.8445733\
+Wo Peng Cuisine \uc0\u21644 \u24179 \u23476 \u39321 \u28207 \u31925 \u33756 	restaurant	1.2863694	103.8446576\
+The Hainan Story Coffee House \uc0\u28023 \u21335 \u23542 	restaurant	1.2850719	103.8447303\
+Scarlett \uc0\u24605 \u23478 \u23458 		1.2851743	103.8447256\
+Segar Restaurant \uc0\u39135 \u23478 \u23567 \u21416 	restaurant	1.2852429	103.8449713\
+Victor's Kitchen	restaurant	1.2856091	103.8450868\
+Shi Li Fang	restaurant	1.2852089	103.8448323\
+Monster Curry \uc0\u12514 \u12531 \u12473 \u12479 \u12540 \u12459 \u12524 \u12540 	restaurant	1.2855910	103.8451046\
+Ichikokudo	restaurant	1.2954255	103.8586331\
+Lao Jiang Superior Soup	restaurant	1.3968358	103.8880902\
+Idaten Udon	restaurant	1.3967391	103.8882910\
+Essen @ The Anchorvale	restaurant	1.3971381	103.8865256\
+ASU	restaurant	1.2678973	103.8004943\
+Scarlett \uc0\u24605 \u23478 \u23458 		1.3918557	103.8759328\
+Soi 47	restaurant	1.3917128	103.8759826\
+Gong Yuan Mala Tang \uc0\u23470 \u28304 \u40635 \u36771 \u29145 	restaurant	1.3914759	103.8760817\
+Eat 3 Bowls	restaurant	1.3918206	103.8759832\
+Fong Sheng Hao \uc0\u35920 \u30427 \u34399 	restaurant	1.3177274	103.8929500\
+Chimichanga	restaurant	1.3175457	103.8932041\
+London Fat Duck	restaurant	1.3173344	103.8926115\
+Sanook Kitchen	restaurant	1.3175027	103.8930400\
+Pontian Wanton Noodles	restaurant	1.3694157	103.8485797\
+\uc0\u12377 \u12365 \u23627  Sukiya	restaurant	1.3692046	103.8482547\
+Ma Maison	restaurant	1.2991284	103.8557357\
+Yu\'e1n	restaurant	1.3048204	103.8544405\
+Kopitiam	food_court	1.3214845	103.8457236\
+Swaad	restaurant	1.3087761	103.8553927\
+Royz Et Vous	restaurant	1.2809163	103.8479353\
+Cho	restaurant	1.2847043	103.8497231\
+Bukit Timah Clinic	clinic	1.3246212	103.8091001\
+The Dolar Shop Hot Pot Singapore	restaurant	1.2952829	103.8520189\
+HarriAnns Nonya Table	restaurant	1.3002759	103.8559255\
+Hopscotch	restaurant	1.2813555	103.8615619\
+Latido	restaurant	1.2783165	103.8443278\
+HMI Onecare Clinic	clinic	1.3917097	103.8800584\
+Vitacare Family Clinic	clinic	1.3916529	103.8796958\
+WU DA LANG OLD HOT POT \uc0\u27494 \u22823 \u37070 \u32769 \u28779 \u38149 	restaurant	1.2841221	103.8440746\
+100 XLX Modern Tze Char	restaurant	1.3034031	103.8618167\
+Keng Eng Kee Seafood	restaurant	1.2859030	103.8037672\
+Boon Tong Kee	restaurant	1.3674626	103.8370563\
+Sunny Choice Vegan	restaurant	1.2862249	103.8031756\
+Shalom Clinic + Surgery	clinic	1.2864907	103.8035632\
+AMK 232 Foodhouse	restaurant	1.3680517	103.8373827\
+Sichuan Tianfu	restaurant	1.3014515	103.8613343\
+}
