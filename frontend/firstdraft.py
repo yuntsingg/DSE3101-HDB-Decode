@@ -7,9 +7,64 @@ from folium.plugins import HeatMap
 from streamlit_folium import folium_static
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
+import base64
+import plotly.express as px
 
-# Set page config (This should be the first command in the script)
+
 st.set_page_config(page_title="HDB Prediction and Finder", layout="wide")
+
+st.markdown(
+    """
+    <style>
+        .language-container {
+            position: fixed;
+            top: 5px;
+            right: 10px;
+            z-index: 1000;
+        }
+        .language-container select {
+            width: auto !important;  /* Make select box smaller */
+
+        }
+    </style>
+    <div class="language-container" id="language-container"></div>
+    """,
+    unsafe_allow_html=True,
+)
+
+# Streamlit select box
+language = st.selectbox("Language", ["English", "Chinese", "Malay", "Tamil"], index=0, key="language")
+
+# Move the select box into the custom container
+st.markdown(
+    """
+    <script>
+        document.getElementById("language-container").appendChild(
+            document.querySelector('div[data-testid="stSelectbox"]')
+        );
+    </script>
+    """,
+    unsafe_allow_html=True,
+)
+
+
+
+logo_path = "photo_2025-03-14 13.13.14.jpeg"  
+
+def get_image_base64(image_path):
+    with open(image_path, "rb") as img_file:
+        return base64.b64encode(img_file.read()).decode()
+
+image_base64 = get_image_base64(logo_path)
+
+st.sidebar.markdown(
+    f"""
+    <div style="text-align: center;">
+        <img src="data:image/jpeg;base64,{image_base64}" width="200">
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
 
 st.markdown(
@@ -81,23 +136,24 @@ st.markdown(
 
 # Sidebar Navigation
 st.sidebar.title("Navigation")
-if st.sidebar.button("🏠 Home Page", key="home", help="Go to Home Page", use_container_width=True):
-    st.session_state.page = "Home Page"
+if st.sidebar.button("🏠 Homepage", key="home", help="Go to Homepage", use_container_width=True):
+    st.session_state.page = "Homepage"
 if st.sidebar.button("📈 Predict Your HDB Price", key="predict", help="Predict your HDB price", use_container_width=True):
     st.session_state.page = "Predict Your HDB Price"
 if st.sidebar.button("🏡 Find Your Ideal Home", key="quiz", help="Find your ideal HDB", use_container_width=True):
     st.session_state.page = "Find Your Ideal Home"
-
+if st.sidebar.button("❓ Help & About Us", key="help", help="Help and About Us", use_container_width=True):
+    st.session_state.page = "Help & About Us"
 
 # Ensure session state is set for navigation
 if "page" not in st.session_state:
-    st.session_state.page = "Home Page"
+    st.session_state.page = "Homepage"
 
 # Page Routing
 page = st.session_state.page
 
 # Home Page
-if page == "Home Page":
+if page == "Homepage":
     st.title("Welcome to the HDB Decode!")
     
     # Singapore Heatmap
@@ -110,26 +166,68 @@ if page == "Home Page":
     HeatMap(singapore_coords).add_to(map_sg)
     
     # Render the map
-    folium_static(map_sg)
+    folium_static(map_sg, width=800, height=600)
     
     # Plot Graph of Average Price Over Time
-    st.subheader("Average Price Over Time by Town")
+    st.subheader("Average Price Over Time")
     
-    # Example dataset (to simulate the data)
-    towns = ['Town A', 'Town B', 'Town C', 'Town D']
-    time = pd.date_range("2021-01-01", periods=12, freq="M")
-    avg_price_data = {
-        "Town A": np.random.randint(300000, 500000, size=12),
-        "Town B": np.random.randint(400000, 600000, size=12),
-        "Town C": np.random.randint(350000, 550000, size=12),
-        "Town D": np.random.randint(450000, 650000, size=12),
-    }
-    df = pd.DataFrame(avg_price_data, index=time)
+    # Load Data
+    df = pd.read_csv("/Users/hushiqi/Desktop/DSE3101project/DSE3101-HDB-Decode/data/cleaned/resale_price_cleaned.csv")
 
-    selected_town = st.selectbox("Select a Town to View Average Price Over Time:", towns)
-    
-    st.write(f"### Average Price for {selected_town} Over Time")
-    st.line_chart(df[selected_town])
+    # Convert 'month' column to datetime format
+    df['month'] = pd.to_datetime(df['month'])
+
+    # Define lease bins and labels
+    bins = [40, 50, 60, 70, 80, 90, 100]
+    labels = ["40-50", "50-60", "60-70", "70-80", "80-90", "90-99"]
+
+    df["lease_range"] = pd.cut(df["remaining_lease"], bins=bins, labels=labels, right=False)
+
+    # Extract unique values for dropdowns
+    unique_towns = sorted(df['town'].unique().tolist())
+    unique_flat_type = sorted(df['flat_type'].unique().tolist())
+    unique_lease_range = sorted(df['lease_range'].dropna().unique().tolist())  # Drop NaN to avoid issues
+
+    # Initialize session state for filter selection
+    if "selected_town" not in st.session_state:
+        st.session_state.selected_town = None
+    if "selected_flat_type" not in st.session_state:
+        st.session_state.selected_flat_type = None
+    if "selected_lease_range" not in st.session_state:
+        st.session_state.selected_lease_range = None
+
+    # UI Layout for filters
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        selected_town = st.selectbox("Select a Town:", ["All"] + unique_towns, index=0)
+    with col2:
+        selected_flat_type = st.selectbox("Select a Flat Type:", ["All"] + unique_flat_type, index=0)
+    with col3:
+        selected_remaining_lease_years = st.selectbox("Select Remaining Lease Years:", ["All"] + unique_lease_range, index=0)
+
+    # Filter data based on selection
+    if selected_town != "All":
+        df = df[df["town"] == selected_town]
+    if selected_flat_type != "All":
+        df = df[df["flat_type"] == selected_flat_type]
+    if selected_remaining_lease_years != "All":
+        df = df[df["lease_range"] == selected_remaining_lease_years]
+
+    # Aggregate Data: Compute average resale price per month
+    price_trends = df.groupby('month')['resale_price'].mean().reset_index()
+
+    # Plot using Plotly
+    fig = px.line(price_trends, x='month', y='resale_price',
+              labels={'month': 'Month', 'resale_price': 'Average Resale Price'},
+              markers=True)
+
+    fig.update_traces(mode="lines+markers", hovertemplate="%{x}: $%{y:.2f}")
+
+    # Show the Plotly chart in Streamlit
+    st.plotly_chart(fig, use_container_width=True)
+
+
+
 
 # Predict Your HDB Price
 elif page == "Predict Your HDB Price":
@@ -150,6 +248,12 @@ elif page == "Predict Your HDB Price":
             st.write(f"### Predicted Price: ${predicted_price:,.2f}")
         else:
             st.warning("Please fill out all fields!")
+
+elif page == "About Us":
+    st.title("About Us")
+    st.write("Welcome to HDB Decode! Our platform helps you find and predict HDB prices.")
+    st.write("We aim to make housing decisions easier by providing data-driven insights and tools.")
+ 
 
 # Find Your Ideal Home Page
 
