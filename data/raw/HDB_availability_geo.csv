@@ -1,17 +1,3 @@
-bldg_contract_town,total_dwelling_units
-CT,2235
-KWN,1978
-GL,1460
-BM,1185
-BD,1166
-QT,840
-TP,656
-CCK,271
-BT,256
-WL,243
-HG,204
-SGN,179
-MP,96
-BH,92
-AMK,88
-PRC,55
+version https://git-lfs.github.com/spec/v1
+oid sha256:047dd0a467e5064c8e9fe712e7bbda4551bf7595507bfff55342694522eaeac3
+size 158
