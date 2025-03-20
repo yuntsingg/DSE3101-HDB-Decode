@@ -49,7 +49,7 @@ st.markdown(
 
 
 
-logo_path = "photo_2025-03-14 13.13.14.jpeg"  
+logo_path = "photo_2025-03-20 15.12.15.jpeg"  
 
 def get_image_base64(image_path):
     with open(image_path, "rb") as img_file:
@@ -172,7 +172,7 @@ if page == "Homepage":
     st.subheader("Average Price Over Time")
     
     # Load Data
-    df = pd.read_csv("/Users/hushiqi/Desktop/DSE3101project/DSE3101-HDB-Decode/data/cleaned/resale_price_cleaned.csv")
+    df = pd.read_csv("../data/cleaned/frontend_resale_price_cleaned.csv")
 
     # Convert 'month' column to datetime format
     df['month'] = pd.to_datetime(df['month'])
@@ -298,7 +298,7 @@ elif page == "Find Your Ideal Home":
                 st.session_state.quiz_answers['proximity_mrt'] = proximity_mrt
                 st.experimental_rerun()
 
-        # Question 4: Preferred Town
+         # Question 4: Preferred Town
         elif 'preferred_town' not in st.session_state.quiz_answers:
             preferred_town = st.selectbox("Which town would you prefer?", ["Town A", "Town B", "Town C", "Town D"])
             if st.button("Next"):
