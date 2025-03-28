@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -10,9 +11,68 @@ from sklearn.linear_model import LinearRegression
 import base64
 import plotly.express as px
 
-
 st.set_page_config(page_title="HDB Prediction and Finder", layout="wide")
 
+# Language Translation Data
+translations = {
+    "english": {
+        "homepage_title": "Welcome to the HDB Decode!",
+        "average_price_over_time": "Average Price Over Time",
+        "predict_hdb_price": "Predict Your HDB's Price",
+        "find_ideal_home": "Find Your Ideal HDB",
+        "help_and_about": "Help & About Us",
+        "start_quiz": "Start Quiz",
+        "budget_question": "What is your budget?",
+        "next_button": "Next",
+        "ideal_hdb": "Based on your answers, here is your ideal HDB:",
+        "restart_quiz": "Restart Quiz"
+    },
+    "chinese": {
+        "homepage_title": "欢迎来到 HDB 解码!",
+        "average_price_over_time": "时间上的平均价格",
+        "predict_hdb_price": "预测您的 HDB 价格",
+        "find_ideal_home": "寻找您的理想 HDB",
+        "help_and_about": "帮助和关于我们",
+        "start_quiz": "开始测验",
+        "budget_question": "您的预算是多少?",
+        "next_button": "下一步",
+        "ideal_hdb": "根据您的答案，这是您的理想 HDB:",
+        "restart_quiz": "重新开始测验"
+    },
+    "malay": {
+        "homepage_title": "Selamat datang ke HDB Decode!",
+        "average_price_over_time": "Harga Purata Mengikut Masa",
+        "predict_hdb_price": "Ramalkan Harga HDB Anda",
+        "find_ideal_home": "Cari HDB Ideal Anda",
+        "help_and_about": "Bantuan & Mengenai Kami",
+        "start_quiz": "Mula Kuiz",
+        "budget_question": "Apakah bajet anda?",
+        "next_button": "Seterusnya",
+        "ideal_hdb": "Berdasarkan jawapan anda, berikut adalah HDB ideal anda:",
+        "restart_quiz": "Mulakan Semula Kuiz"
+    },
+    "tamil": {
+        "homepage_title": "HDB டிகோடு இல் வரவேற்கின்றேன்!",
+        "average_price_over_time": "காலப்பகுதியில் சராசரி விலை",
+        "predict_hdb_price": "உங்கள் HDB விலையை முன்னறிவிக்கவும்",
+        "find_ideal_home": "உங்கள் आदர HDB ஐ கண்டுபிடிக்கவும்",
+        "help_and_about": "உதவி மற்றும் எங்களைப் பற்றி",
+        "start_quiz": "கேள்வி தொகுப்பை துவங்கு",
+        "budget_question": "உங்கள் பட்ஜெட் என்ன?",
+        "next_button": "அடுத்தது",
+        "ideal_hdb": "உங்கள் பதில்களைப் பொருந்திய HDB:",
+        "restart_quiz": "மறுதலாக கேள்வி தொகுப்பை துவங்குங்கள்"
+    }
+}
+
+# Streamlit select box for language
+language = st.selectbox("Select Language", ["English", "Chinese", "Malay", "Tamil"], index=0)
+
+# Map the selected language to the translation dictionary
+language_key = language.lower()  # Convert the language to lowercase to match dictionary keys
+translations_selected = translations.get(language_key, translations["english"])  # Default to English
+
+# Streamlit UI Configuration
 st.markdown(
     """
     <style>
@@ -24,7 +84,6 @@ st.markdown(
         }
         .language-container select {
             width: auto !important;  /* Make select box smaller */
-
         }
     </style>
     <div class="language-container" id="language-container"></div>
@@ -32,117 +91,15 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# Streamlit select box
-language = st.selectbox("Language", ["English", "Chinese", "Malay", "Tamil"], index=0, key="language")
-
-# Move the select box into the custom container
-st.markdown(
-    """
-    <script>
-        document.getElementById("language-container").appendChild(
-            document.querySelector('div[data-testid="stSelectbox"]')
-        );
-    </script>
-    """,
-    unsafe_allow_html=True,
-)
-
-
-
-logo_path = "photo_2025-03-20 15.12.15.jpeg"  
-
-def get_image_base64(image_path):
-    with open(image_path, "rb") as img_file:
-        return base64.b64encode(img_file.read()).decode()
-
-image_base64 = get_image_base64(logo_path)
-
-st.sidebar.markdown(
-    f"""
-    <div style="text-align: center;">
-        <img src="data:image/jpeg;base64,{image_base64}" width="200">
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
-
-
-st.markdown(
-    """
-    <style>
-    body {
-        font-family: 'Arial', sans-serif;
-        background-color: #f5f5f5;  /* Soft background color */
-    }
-    h1, h2, h3, h4, h5, h6 {
-        color: #333333;
-        font-size: 24px; /* Larger text */
-    }
-    .sidebar .sidebar-content {
-        background-color: #007bff;  /* Blue background for the sidebar */
-        color: white;
-        font-size: 20px; /* Larger font size */
-        padding: 30px;
-        border-radius: 10px;
-    }
-    .sidebar .sidebar-button {
-        background-color: #0056b3; /* Darker blue for buttons */
-        color: white;
-        padding: 20px;
-        font-size: 22px; /* Larger buttons */
-        margin-bottom: 15px;
-        border-radius: 12px;
-        transition: background-color 0.3s;
-    }
-    .sidebar .sidebar-button:hover {
-        background-color: #003366;
-    }
-    .button {
-        background-color: #007bff;
-        color: white;
-        padding: 15px 30px;
-        border-radius: 12px;
-        font-size: 22px; /* Large button text */
-        border: none;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-    }
-    .button:hover {
-        background-color: #003366;
-    }
-    .stTextInput input, .stNumberInput input {
-        font-size: 20px;
-    }
-    .stSelectbox, .stRadio, .stButton, .stTextInput, .stNumberInput {
-        margin: 10px 0;
-    }
-    .stMarkdown {
-        font-size: 22px;
-    }
-    .stHeader {
-        font-size: 26px;
-    }
-    .stSelectbox > div, .stRadio > div {
-        font-size: 20px;
-    }
-
-    .st-radio label {
-        font-size: 18px !important; /* Adjust the size as necessary */
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-
 # Sidebar Navigation
 st.sidebar.title("Navigation")
-if st.sidebar.button("🏠 Homepage", key="home", help="Go to Homepage", use_container_width=True):
+if st.sidebar.button("🏠 Homepage", key="home", help=translations_selected["homepage_title"], use_container_width=True):
     st.session_state.page = "Homepage"
-if st.sidebar.button("📈 Predict Your HDB Price", key="predict", help="Predict your HDB price", use_container_width=True):
+if st.sidebar.button("📈 Predict Your HDB Price", key="predict", help=translations_selected["predict_hdb_price"], use_container_width=True):
     st.session_state.page = "Predict Your HDB Price"
-if st.sidebar.button("🏡 Find Your Ideal Home", key="quiz", help="Find your ideal HDB", use_container_width=True):
+if st.sidebar.button("🏡 Find Your Ideal Home", key="quiz", help=translations_selected["find_ideal_home"], use_container_width=True):
     st.session_state.page = "Find Your Ideal Home"
-if st.sidebar.button("❓ Help & About Us", key="help", help="Help and About Us", use_container_width=True):
+if st.sidebar.button("❓ Help & About Us", key="help", help=translations_selected["help_and_about"], use_container_width=True):
     st.session_state.page = "Help & About Us"
 
 # Ensure session state is set for navigation
@@ -154,41 +111,27 @@ page = st.session_state.page
 
 # Home Page
 if page == "Homepage":
-    st.title("Welcome to the HDB Decode!")
-    
+    st.title(translations_selected["homepage_title"])
+
     # Singapore Heatmap
-    st.subheader("Singapore Heatmap")
-    # Example data (coordinates of popular areas in Singapore)
+    st.subheader(translations_selected["average_price_over_time"])
     singapore_coords = [[1.3521, 103.8198], [1.2921, 103.7718], [1.2833, 103.8470], [1.3018, 103.8303]]
-    
-    # Create a folium map
     map_sg = folium.Map(location=[1.3521, 103.8198], zoom_start=12)
     HeatMap(singapore_coords).add_to(map_sg)
-    
-    # Render the map
     folium_static(map_sg, width=800, height=600)
-    
+
     # Plot Graph of Average Price Over Time
-    st.subheader("Average Price Over Time")
-    
-    # Load Data
+    st.subheader(translations_selected["average_price_over_time"])
+
     df = pd.read_csv("../data/cleaned/frontend_resale_price_cleaned.csv")
-
-    # Convert 'month' column to datetime format
     df['month'] = pd.to_datetime(df['month'])
-
-    # Define lease bins and labels
     bins = [40, 50, 60, 70, 80, 90, 100]
     labels = ["40-50", "50-60", "60-70", "70-80", "80-90", "90-99"]
-
     df["lease_range"] = pd.cut(df["remaining_lease"], bins=bins, labels=labels, right=False)
-
-    # Extract unique values for dropdowns
     unique_towns = sorted(df['town'].unique().tolist())
     unique_flat_type = sorted(df['flat_type'].unique().tolist())
-    unique_lease_range = sorted(df['lease_range'].dropna().unique().tolist())  # Drop NaN to avoid issues
+    unique_lease_range = sorted(df['lease_range'].dropna().unique().tolist())
 
-    # Initialize session state for filter selection
     if "selected_town" not in st.session_state:
         st.session_state.selected_town = None
     if "selected_flat_type" not in st.session_state:
@@ -196,7 +139,6 @@ if page == "Homepage":
     if "selected_lease_range" not in st.session_state:
         st.session_state.selected_lease_range = None
 
-    # UI Layout for filters
     col1, col2, col3 = st.columns(3)
     with col1:
         selected_town = st.selectbox("Select a Town:", ["All"] + unique_towns, index=0)
@@ -205,7 +147,6 @@ if page == "Homepage":
     with col3:
         selected_remaining_lease_years = st.selectbox("Select Remaining Lease Years:", ["All"] + unique_lease_range, index=0)
 
-    # Filter data based on selection
     if selected_town != "All":
         df = df[df["town"] == selected_town]
     if selected_flat_type != "All":
@@ -213,109 +154,80 @@ if page == "Homepage":
     if selected_remaining_lease_years != "All":
         df = df[df["lease_range"] == selected_remaining_lease_years]
 
-    # Aggregate Data: Compute average resale price per month
     price_trends = df.groupby('month')['resale_price'].mean().reset_index()
 
-    # Plot using Plotly
     fig = px.line(price_trends, x='month', y='resale_price',
-              labels={'month': 'Month', 'resale_price': 'Average Resale Price'},
-              markers=True)
+                  labels={'month': 'Month', 'resale_price': 'Average Resale Price'},
+                  markers=True)
 
     fig.update_traces(mode="lines+markers", hovertemplate="%{x}: $%{y:.2f}")
-
-    # Show the Plotly chart in Streamlit
     st.plotly_chart(fig, use_container_width=True)
-
-
-
 
 # Predict Your HDB Price
 elif page == "Predict Your HDB Price":
-    st.title("Predict Your HDB's Price")
+    st.title(translations_selected["predict_hdb_price"])
     
     st.subheader("Enter Your HDB Details")
     
-    # Input fields
     postal_code = st.text_input("Postal Code")
     floor_area = st.number_input("Floor Area (sq ft)", min_value=0)
     floor_number = st.number_input("Floor Number", min_value=0)
     lease_left = st.number_input("Number of Years of Lease Left", min_value=0)
     
-    if st.button("Predict Price"):
-        # Simulate a prediction model
+    if st.button(translations_selected["next_button"]):
         if postal_code and floor_area > 0:
-            predicted_price = floor_area * 300 + floor_number * 50 + lease_left * 1000  # Example formula
+            predicted_price = floor_area * 300 + floor_number * 50 + lease_left * 1000
             st.write(f"### Predicted Price: ${predicted_price:,.2f}")
         else:
             st.warning("Please fill out all fields!")
 
-elif page == "About Us":
-    st.title("About Us")
-    st.write("Welcome to HDB Decode! Our platform helps you find and predict HDB prices.")
-    st.write("We aim to make housing decisions easier by providing data-driven insights and tools.")
- 
-
-# Find Your Ideal Home Page
-
-# Initialize session state to track quiz status
-if 'quiz_started' not in st.session_state:
-    st.session_state.quiz_started = False
-if 'quiz_answers' not in st.session_state:
-    st.session_state.quiz_answers = {}
-
 # Find Your Ideal Home Page
 elif page == "Find Your Ideal Home":
-    st.title("Find Your Ideal HDB")
+    st.title(translations_selected["find_ideal_home"])
 
-    # Ask user to click a button to start the quiz
+    if 'quiz_started' not in st.session_state:
+        st.session_state.quiz_started = False
+    if 'quiz_answers' not in st.session_state:
+        st.session_state.quiz_answers = {}
+
     if not st.session_state.quiz_started:
-        start_quiz = st.button("Start Quiz")
+        start_quiz = st.button(translations_selected["start_quiz"])
         if start_quiz:
             st.session_state.quiz_started = True
 
     if st.session_state.quiz_started:
-        st.subheader("Answer the Following Questions to Find Your Ideal HDB")
-
-        # Question 1: Budget Range
+        st.subheader(translations_selected["budget_question"])
         if 'budget' not in st.session_state.quiz_answers:
-            budget = st.radio("What is your budget?", ["Below $300,000", "$300,000 - $500,000", "Above $500,000"])
-            if st.button("Next"):
+            budget = st.radio(translations_selected["budget_question"], ["Below $300,000", "$300,000 - $500,000", "Above $500,000"])
+            if st.button(translations_selected["next_button"]):
                 st.session_state.quiz_answers['budget'] = budget
-                # Use session state to manage navigation to the next question
                 st.experimental_rerun()
 
-        # Question 2: Number of Bedrooms
         elif 'num_bedrooms' not in st.session_state.quiz_answers:
             num_bedrooms = st.selectbox("How many bedrooms would you like?", [1, 2, 3, 4, 5])
-            if st.button("Next"):
+            if st.button(translations_selected["next_button"]):
                 st.session_state.quiz_answers['num_bedrooms'] = num_bedrooms
                 st.experimental_rerun()
 
-        # Question 3: Proximity to MRT Station
         elif 'proximity_mrt' not in st.session_state.quiz_answers:
             proximity_mrt = st.selectbox("How close do you want your HDB to be to an MRT station?", ["Very Close", "Moderately Close", "Far"])
-            if st.button("Next"):
+            if st.button(translations_selected["next_button"]):
                 st.session_state.quiz_answers['proximity_mrt'] = proximity_mrt
                 st.experimental_rerun()
 
-         # Question 4: Preferred Town
         elif 'preferred_town' not in st.session_state.quiz_answers:
             preferred_town = st.selectbox("Which town would you prefer?", ["Town A", "Town B", "Town C", "Town D"])
-            if st.button("Next"):
+            if st.button(translations_selected["next_button"]):
                 st.session_state.quiz_answers['preferred_town'] = preferred_town
                 st.experimental_rerun()
 
-        # After all questions are answered, show the ideal HDB suggestion
         else:
-            st.write("### Based on your answers, here is your ideal HDB:")
+            st.write(f"### {translations_selected['ideal_hdb']}")
             st.write(f"**Budget:** {st.session_state.quiz_answers['budget']}")
             st.write(f"**Number of Bedrooms:** {st.session_state.quiz_answers['num_bedrooms']}")
             st.write(f"**Proximity to MRT:** {st.session_state.quiz_answers['proximity_mrt']}")
             st.write(f"**Preferred Town:** {st.session_state.quiz_answers['preferred_town']}")
-            st.write("We have found an HDB that matches your preferences!")
-
-            # Reset the quiz for next user
-            if st.button("Restart Quiz"):
+            if st.button(translations_selected["restart_quiz"]):
                 st.session_state.quiz_started = False
                 st.session_state.quiz_answers = {}
                 st.experimental_rerun()
