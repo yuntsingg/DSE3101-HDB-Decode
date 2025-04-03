@@ -47,7 +47,6 @@ st.markdown("""
 # Language selection using radio buttons
 language = st.radio("Select Language:", ["English", "Chinese", "Malay", "Tamil"], horizontal=True)
 
-import streamlit as st
 
 # Define translations
 translations = {
@@ -180,6 +179,8 @@ st.markdown(
 st.sidebar.title("Navigation")
 if st.sidebar.button("🏠 Homepage", key="home", help="Go to Homepage", use_container_width=True):
     st.session_state.page = "Homepage"
+if st.sidebar.button("📊 HDB Price Trend", key="trend", use_container_width=True):
+    st.session_state.page = "HDB Price Trend"
 if st.sidebar.button("📈 Predict Your HDB Price", key="predict", help="Predict your HDB price", use_container_width=True):
     st.session_state.page = "Predict Your HDB Price"
 if st.sidebar.button("🏡 Find Your Ideal Home", key="quiz", help="Find your ideal HDB", use_container_width=True):
@@ -198,19 +199,46 @@ page = st.session_state.page
 if page == "Homepage":
     st.title(t["title"])
     st.write(t["description"])
+
     
+    st.markdown("""
+    **HDB Decode** is an innovative platform designed to help you make smarter decisions when buying or selling second-hand HDB flats.
+    Our price prediction algorithms, filtering tools, and elderly-friendly features simplify the home-buying experience—whether you're a first-time buyer or a seasoned property investor.
+    """)
     
-    # Singapore Heatmap
-    st.subheader("Singapore Heatmap")
-    # Example data (coordinates of popular areas in Singapore)
-    singapore_coords = [[1.3521, 103.8198], [1.2921, 103.7718], [1.2833, 103.8470], [1.3018, 103.8303]]
+    st.markdown("---")
+    st.header("What can HDB Decode do?")
+
+    st.markdown("#### Understand Market Trends 💸")
+    st.markdown("Get insights into price movements so you can time your purchase wisely.")
+    if st.button("Go to Price Trend", key="home_trend_btn"):
+        st.query_params["page"] = "HDB Price Trend"
+        st.session_state.page = "HDB Price Trend"
+        st.rerun()
+
+   
+    st.markdown("#### Accurate Price Predictions 💰")
+    st.markdown("Know what a fair price should be, and avoid overpaying for your next home.")
+    if st.button("Go to Price Prediction", key="home_predict_btn"):
+        st.query_params["page"] = "Predict Your HDB Price"
+        st.session_state.page = "Predict Your HDB Price"
+        st.rerun()
+
+    st.markdown("#### Find Your Ideal Home 🔎")
+    st.markdown("Easily filter properties by price, location, and quality to find your ideal home.")
+    if st.button("Go to Home Finder", key="home_finder_btn"):
+        st.query_params["page"] = "Find Your Ideal Home"
+        st.session_state.page = "Find Your Ideal Home"
+        st.rerun()
+            
+        
+        
+
     
-    # Create a folium map
-    map_sg = folium.Map(location=[1.3521, 103.8198], zoom_start=12)
-    HeatMap(singapore_coords).add_to(map_sg)
-    
-    # Render the map
-    folium_static(map_sg, width=800, height=600)
+    st.markdown("---")
+
+# Plot HDB Price Trend
+elif page == "HDB Price Trend":
     
     # Plot Graph of Average Price Over Time
     st.subheader("Average Price Over Time")
@@ -224,7 +252,7 @@ if page == "Homepage":
 
     # Load Data
     df = pd.read_csv(data_path)
-    #df = pd.read_csv("/Users/hushiqi/Desktop/DSE3101project/DSE3101-HDB-Decode/data/cleaned/resale_price_cleaned.csv")
+    
 
     # Convert 'month' column to datetime format
     df['month'] = pd.to_datetime(df['month'])
@@ -253,7 +281,7 @@ if page == "Homepage":
     with col1:
         selected_town = st.selectbox("Select a Town:", ["All"] + unique_towns, index=0)
     with col2:
-        selected_flat_type = st.selectbox("Select a Flat Type:", ["All"] + unique_flat_type, index=0)
+        selected_flat_type = st.selectbox("Select Number of Rooms:", ["All"] + unique_flat_type, index=0)
     with col3:
         selected_remaining_lease_years = st.selectbox("Select Remaining Lease Years:", ["All"] + unique_lease_range, index=0)
 
@@ -303,17 +331,7 @@ elif page == "Predict Your HDB Price":
 
 elif page == "Help & About Us":
     st.title("About Us")
-    st.write("Welcome to HDB Decode!")
-    st.write("Navigating the process of buying or selling an HDB flat can be complex and overwhelming. Homeowners must juggle financial considerations, lifestyle needs, and long-term planning, often with limited access to clear, personalized guidance. Whether resizing, relocating, or optimizing property investments, many struggle with scattered information and uncertainty.")
-    st.write("The goal HDB Decode is to simplify this journey by providing data-driven insights and easy-to-use tools, empowering individuals to make informed and confident housing decisions.")
-    st.markdown("""
-    ### Our platform allows users to:
-    - **Predict Property Prices**: Input details about your HDB flat to receive an estimated resale price, helping you make informed financial decisions.  
-    - **Find Your Ideal Home**: Specify your desired home characteristics—such as budget, size, and proximity to amenities—and receive recommendations on suitable areas.  
-    - **Analyze Market Trends**: View interactive graphs of HDB resale price trends over time, with filtering options by town to gain insights into specific locations.  
-    """)
-
-    st.markdown("---")  
+    
 
     st.markdown("**Need help? Contact us at [hdbdecode@gmail.com](mailto:hdbdecode@gmail.com)**")
  
@@ -345,28 +363,28 @@ elif page == "Find Your Ideal Home":
             if st.button("Next"):
                 st.session_state.quiz_answers['budget'] = budget
                 # Use session state to manage navigation to the next question
-                st.experimental_rerun()
+                st.rerun()
 
         # Question 2: Number of Bedrooms
         elif 'num_bedrooms' not in st.session_state.quiz_answers:
             num_bedrooms = st.selectbox("How many bedrooms would you like?", [1, 2, 3, 4, 5])
             if st.button("Next"):
                 st.session_state.quiz_answers['num_bedrooms'] = num_bedrooms
-                st.experimental_rerun()
+                st.rerun()
 
         # Question 3: Proximity to MRT Station
         elif 'proximity_mrt' not in st.session_state.quiz_answers:
             proximity_mrt = st.selectbox("How close do you want your HDB to be to an MRT station?", ["Very Close", "Moderately Close", "Far"])
             if st.button("Next"):
                 st.session_state.quiz_answers['proximity_mrt'] = proximity_mrt
-                st.experimental_rerun()
+                st.rerun()
 
         # Question 4: Preferred Town
         elif 'preferred_town' not in st.session_state.quiz_answers:
             preferred_town = st.selectbox("Which town would you prefer?", ["Town A", "Town B", "Town C", "Town D"])
             if st.button("Next"):
                 st.session_state.quiz_answers['preferred_town'] = preferred_town
-                st.experimental_rerun()
+                st.rerun()
 
         # After all questions are answered, show the ideal HDB suggestion
         else:
@@ -381,4 +399,4 @@ elif page == "Find Your Ideal Home":
             if st.button("Restart Quiz"):
                 st.session_state.quiz_started = False
                 st.session_state.quiz_answers = {}
-                st.experimental_rerun()
+                st.rerun()
