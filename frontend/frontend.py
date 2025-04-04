@@ -52,22 +52,53 @@ language = st.radio("Select Language:", ["English", "Chinese", "Malay", "Tamil"]
 translations = {
     "English": {
         "title": "Welcome to HDB Decode",
-        "description": "Easily estimate your HDB resale price and get personalized home recommendations.",
+        "description": "HDB Decode is an innovative platform designed to help you make smarter decisions when buying or selling second-hand HDB flats. Our price prediction algorithms, filtering tools, and elderly-friendly features simplify the home-buying experience — whether you're a first-time buyer or a seasoned property investor.",
+        "homepage1": "What can HDB Decode do?",
+        "homepage2" : "Understand Market Trends 💸",
+        "homepage3" : "Get insights into price movements so you can time your purchase wisely.",
+        "homepage4" : "Go to Price Trend",
+        "homepage5" : "Accurate Price Predictions 💰",
+        "homepage6" : "Know what a fair price should be, and avoid overpaying for your next home.",
+        "homepage7" : "Go to Price Prediction",
+        "homepage8" : "Find Your Ideal Home 🔎",
+        "homepage9" : "Easily filter properties by price, location, and quality to find your ideal home.",
+        "homepage10" : "Go to Home Finder",
+        "price1" : "HDB Price Trend",
+        "price2" : "Resale Transactions by Price Category",
+        "price3" : "🔍 Key Trends in HDB Resale Market",
+        "price4" : "🏠 Fewer resale flats priced below $300k in recent years",
+        "price5" : "💸 Strong growth in high-value transactions ($700k and above), especially post-2021",
+        "price6" : "📉 Sharp dip in early 2020 due to COVID-19, followed by strong recovery",
+        "price7" : "📈 Rising resale prices driven by demand, inflation, and market trends",
+        "price8" : "🔺 Overall shift toward higher-priced HDB flats over time",
+        "price9" : "Average Price Over Time",
+        "price10" : "Please select the Town, Number of Rooms and Remaining Lease Years you are interested for the HDB to view the monthly trend of resale HDB price based on different filters!",
+        "price11" : "Select a Town",
+        "price12" : "Select Number of Rooms",
+        "price13" : "Select Remaining Lease Years",
+        "predict1" : "Predict Your HDB Price",
+        "predict2" : "Enter Your HDB Details",
+        "predict3" : "Postal Code",
+        "predict4" : "Floor Area (sqm)",
+        "predict5" : "Floor Number",
+        "predict6" : "Number of Years of Remaining Lease",
+        "predict7" : "Predict Price",
         "contact": "Need help? Contact us at hdbdecode@gmail.com"
+        
     },
     "Chinese": {
         "title": "欢迎来到HDB Decode",
-        "description": "轻松估算您的HDB转售价格，并获得个性化的房屋推荐。",
+        "description": "HDB Decode 是一个创新平台，旨在帮助您在购买或出售二手组屋时做出更明智的选择。借助我们的价格预测算法、智能筛选工具以及贴心的老人友好功能，我们致力于为每一位用户打造轻松愉快的购房体验——无论您是首次置业的新手，还是在寻找更具洞察力的房产决策参考。", 
         "contact": "需要帮助？联系我们：hdbdecode@gmail.com"
     },
     "Malay": {
         "title": "Selamat datang ke HDB Decode",
-        "description": "Anggarkan harga jualan semula HDB anda dengan mudah dan dapatkan cadangan rumah peribadi.",
+        "description": "HDB Decode ialah platform inovatif yang direka untuk membantu anda membuat keputusan yang lebih bijak apabila membeli atau menjual pangsapuri HDB terpakai. Dengan algoritma ramalan harga, alat penapisan, dan ciri mesra warga emas kami, kami bertujuan untuk mempermudahkan pengalaman membeli rumah bagi semua – sama ada anda pembeli rumah kali pertama atau seseorang yang mencari keputusan hartanah yang lebih berpengetahuan.",
         "contact": "Perlu bantuan? Hubungi kami di hdbdecode@gmail.com"
     },
     "Tamil": {
         "title": "HDB Decodeக்கு வரவேற்கிறோம்",
-        "description": "உங்கள் HDB மீண்டும் விற்பனை மதிப்பை எளிதாக கணிக்கவும் மற்றும் தனிப்பயன் வீட்டு பரிந்துரைகளைப் பெறவும்.",
+        "description": "HDB Decode என்பது ஒரு புதுமையான தளம், இரண்டாம் கை HDB ஃபிளாட்டுகளை வாங்குவதிலும் விற்குவதிலும் புத்திசாலியான முடிவுகளை எடுக்க உங்களுக்கு உதவுவதற்காக வடிவமைக்கப்பட்டது. எங்களுடைய விலை கணிப்பு ஆல்கொரிதம்கள், வடிகட்டும் கருவிகள் மற்றும் முதியோருக்கு உகந்த அம்சங்களின் மூலம், அனைவருக்கும் வீடு வாங்கும் அனுபவத்தை எளிதாக்குவதே எங்கள் நோக்கம் – நீங்கள் முதல் முறையாக வீடு வாங்குபவராக இருந்தாலும் அல்லது அறிவார்ந்த சொத்து முடிவை எதிர்பார்க்கும் நபராக இருந்தாலும்.",
         "contact": "உதவி வேண்டுமா? எங்களை hdbdecode@gmail.com இல் தொடர்பு கொள்ளவும்"
     }
 }
@@ -117,7 +148,7 @@ st.markdown(
     }
     h1, h2, h3, h4, h5, h6 {
         color: #333333;
-        font-size: 24px; /* Larger text */
+        font-size: 30px; /* Larger text */
     }
     .sidebar .sidebar-content {
         background-color: #007bff;  /* Blue background for the sidebar */
@@ -158,7 +189,7 @@ st.markdown(
         margin: 10px 0;
     }
     .stMarkdown {
-        font-size: 22px;
+        font-size: 30px;
     }
     .stHeader {
         font-size: 26px;
@@ -168,7 +199,7 @@ st.markdown(
     }
 
     .st-radio label {
-        font-size: 18px !important; /* Adjust the size as necessary */
+        font-size: 20px !important; /* Adjust the size as necessary */
     }
     </style>
     """,
@@ -199,12 +230,6 @@ page = st.session_state.page
 if page == "Homepage":
     st.title(t["title"])
     st.write(t["description"])
-
-    
-    st.markdown("""
-    **HDB Decode** is an innovative platform designed to help you make smarter decisions when buying or selling second-hand HDB flats.
-    Our price prediction algorithms, filtering tools, and elderly-friendly features simplify the home-buying experience—whether you're a first-time buyer or a seasoned property investor.
-    """)
     
     st.markdown("---")
     st.header("What can HDB Decode do?")
@@ -284,7 +309,16 @@ elif page == "HDB Price Trend":
     ax.legend(title="Price Category")
     ax.yaxis.grid(True, linestyle='--', alpha=0.7)
     st.pyplot(fig)
-    st.markdown('The total number of transactions fluctuates over the years, with visible peaks and dips, including a sharp decline around early 2020, due to the impact of COVID-19, followed by a strong recovery. Over time, transactions in the lower price category (<300k) have declined, while mid-range transactions (300k-700k) remain dominant but show a gradual shift toward higher-priced categories. Notably, high-value transactions (700k-1M and >=1M) have increased, particularly from 2021 onwards, reflecting rising property prices. The post-pandemic period saw a surge in transactions, with a growing share of higher-priced sales, likely driven by increasing demand, inflation, and broader housing market trends. Overall, a shift toward higher-priced resale transactions is highlighted, indicating an appreciation in HDB resale prices in Singapore.')
+    
+    st.markdown("## 🔍 Key Trends in HDB Resale Market")
+
+    st.markdown("""
+    - 🏠 **Fewer resale flats priced below $300k** in recent years  
+    - 💸 **Strong growth in high-value transactions** ($700k and above), especially post-2021  
+    - 📉 **Sharp dip in early 2020 due to COVID-19**, followed by strong recovery  
+    - 📈 **Rising resale prices** driven by demand, inflation, and market trends  
+    - 🔺 **Overall shift toward higher-priced HDB flats** over time  
+    """)
 
 
     st.subheader("Average Price Over Time")
@@ -368,9 +402,8 @@ elif page == "Predict Your HDB Price":
 
 elif page == "Help & About Us":
     st.title("About Us")
-    
 
-    st.markdown("**Need help? Contact us at [hdbdecode@gmail.com](mailto:hdbdecode@gmail.com)**")
+    st.markdown(t["contact"])
  
 
 # Find Your Ideal Home Page
