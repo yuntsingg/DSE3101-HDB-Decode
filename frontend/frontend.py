@@ -240,8 +240,7 @@ if page == "Homepage":
 # Plot HDB Price Trend
 elif page == "HDB Price Trend":
     
-    # Plot Graph of Average Price Over Time
-    st.subheader("Average Price Over Time")
+    st.title("HDB Price Trend")
     
     # Load Data
     # Get the directory where the script is running
@@ -252,7 +251,45 @@ elif page == "HDB Price Trend":
 
     # Load Data
     df = pd.read_csv(data_path)
-    
+    df = df.dropna(subset=['resale_price', 'month'])
+
+    df['month'] = pd.to_datetime(df['month'])
+
+
+    conditions = [
+        (df['resale_price'] < 300000),
+        (df['resale_price'] >= 300000) & (df['resale_price'] < 500000),
+        (df['resale_price'] >= 500000) & (df['resale_price'] < 700000),
+        (df['resale_price'] >= 700000) & (df['resale_price'] < 1000000),
+        (df['resale_price'] >= 1000000)]
+    categories = ['<300k', '300k-500k', '500k-700k', '700k-1M' ,'>=1M']
+    df['Price Category'] = np.select(conditions, categories, default='Unknown')
+    category_counts = df.groupby(['month', 'Price Category']).size().unstack(fill_value=0)
+    category_counts = category_counts[['<300k', '300k-500k', '500k-700k', '700k-1M', '>=1M']]
+    category_counts.index = pd.to_datetime(category_counts.index)
+
+    # Stacked bar chart
+    st.subheader("Resale Transactions by Price Category")
+    fig, ax = plt.subplots(figsize=(12, 6))
+    ax.set_axisbelow(True)
+    category_counts.plot(kind='bar', stacked=True, colormap='viridis', width=0.8, ax=ax)
+    ax.set_title("Resale Transactions by Price")
+    ax.set_ylabel("Transaction Count")
+    ax.set_xlabel("")
+    ax.set_xticks(range(0, len(category_counts.index), 3))
+    years = category_counts.index.year.unique()
+    xticks = [category_counts.index.get_loc(f"{year}-01-01") for year in years]
+    ax.set_xticks(xticks)
+    ax.set_xticklabels(years, rotation=0, fontsize=10)
+    ax.legend(title="Price Category")
+    ax.yaxis.grid(True, linestyle='--', alpha=0.7)
+    st.pyplot(fig)
+    st.markdown('The total number of transactions fluctuates over the years, with visible peaks and dips, including a sharp decline around early 2020, due to the impact of COVID-19, followed by a strong recovery. Over time, transactions in the lower price category (<300k) have declined, while mid-range transactions (300k-700k) remain dominant but show a gradual shift toward higher-priced categories. Notably, high-value transactions (700k-1M and >=1M) have increased, particularly from 2021 onwards, reflecting rising property prices. The post-pandemic period saw a surge in transactions, with a growing share of higher-priced sales, likely driven by increasing demand, inflation, and broader housing market trends. Overall, a shift toward higher-priced resale transactions is highlighted, indicating an appreciation in HDB resale prices in Singapore.')
+
+
+    st.subheader("Average Price Over Time")
+    st.warning('Please select the Town, Number of Rooms and Remaining Lease Years you are interested for the HDB to view the monthly trend of resale HDB price based on different filters!')
+
 
     # Convert 'month' column to datetime format
     df['month'] = pd.to_datetime(df['month'])
@@ -297,8 +334,8 @@ elif page == "HDB Price Trend":
     price_trends = df.groupby('month')['resale_price'].mean().reset_index()
 
     # Plot using Plotly
-    fig = px.line(price_trends, x='month', y='resale_price',
-              labels={'month': 'Month', 'resale_price': 'Average Resale Price'},
+    fig = px.line(price_trends, x='month',y='resale_price',
+              labels={'month': '', 'resale_price': 'Average Resale Price'},
               markers=True)
 
     fig.update_traces(mode="lines+markers", hovertemplate="%{x}: $%{y:.2f}")
