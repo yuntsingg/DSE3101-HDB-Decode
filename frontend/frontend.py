@@ -54,13 +54,13 @@ translations = {
         "title": "Welcome to HDB Decode",
         "description": "HDB Decode is an innovative platform designed to help you make smarter decisions when buying or selling second-hand HDB flats. Our price prediction algorithms, filtering tools, and elderly-friendly features simplify the home-buying experience — whether you're a first-time buyer or a seasoned property investor.",
         "homepage1": "What can HDB Decode do?",
-        "homepage2" : "Understand Market Trends 💸",
+        "homepage2" : "**Understand Market Trends 💸**",
         "homepage3" : "Get insights into price movements so you can time your purchase wisely.",
         "homepage4" : "Go to Price Trend",
-        "homepage5" : "Accurate Price Predictions 💰",
+        "homepage5" : "**Accurate Price Predictions 💰**",
         "homepage6" : "Know what a fair price should be, and avoid overpaying for your next home.",
         "homepage7" : "Go to Price Prediction",
-        "homepage8" : "Find Your Ideal Home 🔎",
+        "homepage8" : "**Find Your Ideal Home 🔎**",
         "homepage9" : "Easily filter properties by price, location, and quality to find your ideal home.",
         "homepage10" : "Go to Home Finder",
         "price1" : "HDB Price Trend",
@@ -73,9 +73,9 @@ translations = {
         "price8" : "🔺 Overall shift toward higher-priced HDB flats over time",
         "price9" : "Average Price Over Time",
         "price10" : "Please select the Town, Number of Rooms and Remaining Lease Years you are interested for the HDB to view the monthly trend of resale HDB price based on different filters!",
-        "price11" : "Select a Town",
-        "price12" : "Select Number of Rooms",
-        "price13" : "Select Remaining Lease Years",
+        "price11" : "Select a Town:",
+        "price12" : "Select Number of Rooms:",
+        "price13" : "Select Remaining Lease Years:",
         "predict1" : "Predict Your HDB Price",
         "predict2" : "Enter Your HDB Details",
         "predict3" : "Postal Code",
@@ -87,21 +87,21 @@ translations = {
         "sidebar2" : "📊 HDB Price Trend",
         "sidebar3" : "📈 Predict Your HDB Price",
         "sidebar4" : "🏡 Find Your Ideal Home",
-        "sidebar5" : "❓ Help & About Us",
-        "contact": "Need help? Contact us at hdbdecode@gmail.com"
+        "contact": "**Need help? Contact us at hdbdecode@gmail.com**",
+        "navigation" : "Navigation"
         
     },
     "Chinese": {
         "title": "欢迎来到 HDB Decode",
         "description": "HDB Decode 是一个创新平台，旨在帮助您在购买或出售二手组屋时做出更明智的选择。借助我们的价格预测算法、智能筛选工具以及贴心的老人友好功能，我们致力于为每一位用户打造轻松愉快的购房体验——无论您是首次置业的新手，还是在寻找更具洞察力的房产决策参考。",
         "homepage1": "HDB Decode 有什么功能？",
-        "homepage2" : "洞察市场趋势 💸",
+        "homepage2" : "**洞察市场趋势 💸**",
         "homepage3" : "掌握价格变动，选对购房时机。",
         "homepage4" : "前往价格趋势",
-        "homepage5" : "精准的价格预测 💰",
+        "homepage5" : "**精准的价格预测 💰**",
         "homepage6" : "了解合理的房价，避免为您的下一个家支付过高的价格。",
         "homepage7" : "前往价格预测",
-        "homepage8" : "找到理想的家 🔎",
+        "homepage8" : "**找到理想的家 🔎**",
         "homepage9" : "可根据价格、地点和房屋质量轻松筛选，快速锁定理想房源。",
         "homepage10" : "前往HDB查找器",
         "price1" : "HDB 价格趋势",
@@ -114,9 +114,9 @@ translations = {
         "price8" : "🔺 随着时间的推移，整体上转向价格更高的 HDB",
         "price9" : "历时平均价格",
         "price10" : "请选择您感兴趣的城镇、房间数和 HDB 剩余租赁年限，以根据不同的过滤器查看转售 HDB 价格的每月趋势！",
-        "price11" : "选择一个城镇",
-        "price12" : "选择房间数量",
-        "price13" : "选择剩余租赁年限",
+        "price11" : "选择一个城镇:",
+        "price12" : "选择房间数量:",
+        "price13" : "选择剩余租赁年限:",
         "predict1" : "预测您的 HDB 价格",
         "predict2" : "输入您的 HDB 详细信息",
         "predict3" : "邮政编码",
@@ -128,20 +128,20 @@ translations = {
         "sidebar2" : "📊 组屋价格趋势",
         "sidebar3" : "📈 预测您的 HDB 价格",
         "sidebar4" : "🏡 找到理想的家",
-        "sidebar5" : "❓ 帮助与关于我们",
-        "contact": "有问题或需要帮助？欢迎发邮件到 hdbdecode@gmail.com 联系我们!"
+        "contact": "**有问题或需要帮助？欢迎发邮件到 hdbdecode@gmail.com 联系我们!**",
+        "navigation" : "导航"
     },
     "Malay": {
         "title": "Selamat datang ke HDB Decode",
         "description": "HDB Decode ialah platform inovatif yang direka untuk membantu anda membuat keputusan yang lebih bijak apabila membeli atau menjual flat HDB terpakai. Algoritma ramalan harga, alat penapisan dan ciri mesra warga emas kami memudahkan pengalaman membeli rumah — sama ada anda pembeli kali pertama atau pelabur hartanah berpengalaman.",
         "homepage1": "Apa yang boleh HDB Decode lakukan?",
-        "homepage2" : "Fahami Trend Pasaran 💸",
+        "homepage2" : "**Fahami Trend Pasaran 💸**",
         "homepage3" : "Dapatkan cerapan tentang pergerakan harga supaya anda boleh menentukan masa pembelian anda dengan bijak.",
         "homepage4" : "Pergi ke Aliran Harga",
-        "homepage5" : "Ramalan Harga Tepat 💰",
+        "homepage5" : "**Ramalan Harga Tepat 💰**",
         "homepage6" : "Ketahui harga yang berpatutan, dan elakkan membayar lebih untuk rumah anda yang seterusnya.",
         "homepage7" : "Pergi ke Ramalan Harga",
-        "homepage8" : "Cari Rumah Ideal Anda 🔎",
+        "homepage8" : "**Cari Rumah Ideal Anda 🔎**",
         "homepage9" : "Tapis hartanah mengikut harga, lokasi dan kualiti dengan mudah untuk mencari rumah ideal anda.",
         "homepage10" : "Pergi ke Pencari Rumah",
         "price1" : "Aliran Harga HDB",
@@ -154,9 +154,9 @@ translations = {
         "price8" : "🔺 Peralihan keseluruhan ke arah flat HDB berharga lebih tinggi dari semasa ke semasa",
         "price9" : "Harga Purata Sepanjang Masa",
         "price10" : "Sila pilih Bandar, Bilangan Bilik dan Baki Tahun Pajakan yang anda berminat untuk HDB untuk melihat trend bulanan harga jualan semula HDB berdasarkan penapis yang berbeza!",
-        "price11" : "Pilih Pekan",
-        "price12" : "Pilih Bilangan Bilik",
-        "price13" : "Pilih Baki Tahun Pajakan",
+        "price11" : "Pilih Pekan:",
+        "price12" : "Pilih Bilangan Bilik:",
+        "price13" : "Pilih Baki Tahun Pajakan:",
         "predict1" : "Ramalkan Harga HDB Anda",
         "predict2" : "Masukkan Butiran HDB Anda",
         "predict3" : "Poskod",
@@ -168,20 +168,20 @@ translations = {
         "sidebar2" : "📊 HDB Aliran Harga",
         "sidebar3" : "📈 Ramalkan Harga HDB Anda",
         "sidebar4" : "🏡 Cari Rumah Ideal Anda",
-        "sidebar5" : "❓ Bantuan & Tentang Kami",
-        "contact": "Perlu bantuan? Hubungi kami di hdbdecode@gmail.com"
+        "contact": "**Perlu bantuan? Hubungi kami di hdbdecode@gmail.com**",
+        "navigation" : "Navigasi"
     },
     "Tamil": {
         "title": "HDB Decodeக்கு உங்களை வரவேற்கிறோம்",
         "description": "HDB Decode என்பது பயன்படுத்தப்பட்ட HDB பிளாட்களை வாங்கும்போதோ அல்லது விற்கும்போதோ சிறந்த முடிவுகளை எடுக்க உதவும் வகையில் வடிவமைக்கப்பட்ட ஒரு புதுமையான தளமாகும். எங்கள் விலை கணிப்பு வழிமுறைகள், வடிகட்டுதல் கருவிகள் மற்றும் முதியோர்களுக்கு ஏற்ற அம்சங்கள் வீடு வாங்கும் அனுபவத்தை எளிதாக்குகின்றன - நீங்கள் முதல் முறையாக வாங்குபவராக இருந்தாலும் சரி அல்லது அனுபவம் வாய்ந்த சொத்து முதலீட்டாளராக இருந்தாலும் சரி.",
         "homepage1": "HDB Decode என்ன செய்ய முடியும்?",
-        "homepage2" : "சந்தைப் போக்குகளைப் புரிந்து கொள்ளுங்கள் 💸",
+        "homepage2" : "**சந்தைப் போக்குகளைப் புரிந்து கொள்ளுங்கள் 💸**",
         "homepage3" : "விலை நகர்வுகள் பற்றிய நுண்ணறிவுகளைப் பெறுங்கள், இதன் மூலம் உங்கள் கொள்முதலை புத்திசாலித்தனமாக திட்டமிடலாம்.",
         "homepage4" : "விலைப் போக்குக்குச் செல்லவும்",
-        "homepage5" : "துல்லியமான விலை கணிப்புகள் 💰",
+        "homepage5" : "**துல்லியமான விலை கணிப்புகள் 💰**",
         "homepage6" : "நியாயமான விலை என்னவாக இருக்க வேண்டும் என்பதை அறிந்து கொள்ளுங்கள், மேலும் உங்கள் அடுத்த வீட்டிற்கு அதிக கட்டணம் செலுத்துவதைத் தவிர்க்கவும்.",
         "homepage7" : "விலைக் கணிப்புக்குச் செல்லவும்",
-        "homepage8" : "உங்கள் சிறந்த வீட்டைக் கண்டறியவும் 🔎",
+        "homepage8" : "**உங்கள் சிறந்த வீட்டைக் கண்டறியவும் 🔎**",
         "homepage9" : "உங்கள் சிறந்த வீட்டைக் கண்டுபிடிக்க விலை, இருப்பிடம் மற்றும் தரம் ஆகியவற்றின் அடிப்படையில் சொத்துக்களை எளிதாக வடிகட்டவும்.",
         "homepage10" : "Home Finder க்குச் செல்லவும்",
         "price1" : "HDB விலை போக்கு",
@@ -194,9 +194,9 @@ translations = {
         "price8" : "🔺 காலப்போக்கில் அதிக விலை கொண்ட HDB பிளாட்களை நோக்கி ஒட்டுமொத்த மாற்றம்",
         "price9" : "காலப்போக்கில் சராசரி விலை",
         "price10" : "வெவ்வேறு வடிப்பான்களின் அடிப்படையில் HDB மறுவிற்பனை விலையின் மாதாந்திர போக்கைக் காண, HDB-க்கு நீங்கள் ஆர்வமாக உள்ள நகரம், அறைகளின் எண்ணிக்கை மற்றும் மீதமுள்ள குத்தகை ஆண்டுகளைத் தேர்ந்தெடுக்கவும்!",
-        "price11" : "ஒரு நகரத்தைத் தேர்ந்தெடுக்கவும்",
-        "price12" : "அறைகளின் எண்ணிக்கையைத் தேர்ந்தெடுக்கவும்",
-        "price13" : "மீதமுள்ள குத்தகை ஆண்டுகளைத் தேர்ந்தெடுக்கவும்",
+        "price11" : "ஒரு நகரத்தைத் தேர்ந்தெடுக்கவும்:",
+        "price12" : "அறைகளின் எண்ணிக்கையைத் தேர்ந்தெடுக்கவும்:",
+        "price13" : "மீதமுள்ள குத்தகை ஆண்டுகளைத் தேர்ந்தெடுக்கவும்:",
         "predict1" : "உங்கள் HDB’யின் விலையை கணிக்கவும்",
         "predict2" : "உங்கள் HDB விவரங்களை உள்ளிடவும்",
         "predict3" : "அஞ்சல் குறியீடு",
@@ -208,8 +208,8 @@ translations = {
         "sidebar2" : "📊 HDB விலை போக்கு",
         "sidebar3" : "📈 உங்கள் HDB விலையை கணிக்கவும்",
         "sidebar4" : "🏡 உங்கள் சிறந்த வீட்டைக் கண்டறியவும்",
-        "sidebar5" : "❓ உதவி & எங்களைப் பற்றி",
-        "contact": "உதவி தேவையா? hdbdecode@gmail.com என்ற முகவரியில் எங்களைத் தொடர்பு கொள்ளவும்."
+        "contact": "**உதவி தேவையா? hdbdecode@gmail.com என்ற முகவரியில் எங்களைத் தொடர்பு கொள்ளவும்.**",
+        "navigation" : "வழிசெலுத்தல்"
     }
 }
 
@@ -317,17 +317,16 @@ st.markdown(
 )
 
 # Sidebar Navigation
-st.sidebar.title("Navigation")
-if st.sidebar.button("🏠 Homepage", key="home", help="Go to Homepage", use_container_width=True):
+st.sidebar.title(t["navigation"])
+if st.sidebar.button(t["sidebar1"], key="home", help="Go to Homepage", use_container_width=True):
     st.session_state.page = "Homepage"
-if st.sidebar.button("📊 HDB Price Trend", key="trend", use_container_width=True):
+if st.sidebar.button(t["sidebar2"], key="trend", use_container_width=True):
     st.session_state.page = "HDB Price Trend"
-if st.sidebar.button("📈 Predict Your HDB Price", key="predict", help="Predict your HDB price", use_container_width=True):
+if st.sidebar.button(t["sidebar3"], key="predict", help="Predict your HDB price", use_container_width=True):
     st.session_state.page = "Predict Your HDB Price"
-if st.sidebar.button("🏡 Find Your Ideal Home", key="quiz", help="Find your ideal HDB", use_container_width=True):
+if st.sidebar.button(t["sidebar4"], key="quiz", help="Find your ideal HDB", use_container_width=True):
     st.session_state.page = "Find Your Ideal Home"
-if st.sidebar.button("❓ Help & About Us", key="help", help="Help and About Us", use_container_width=True):
-    st.session_state.page = "Help & About Us"
+
 
 # Ensure session state is set for navigation
 if "page" not in st.session_state:
@@ -342,40 +341,38 @@ if page == "Homepage":
     st.write(t["description"])
     
     st.markdown("---")
-    st.header("What can HDB Decode do?")
+    st.header(t["homepage1"])
 
-    st.markdown("#### Understand Market Trends 💸")
-    st.markdown("Get insights into price movements so you can time your purchase wisely.")
-    if st.button("Go to Price Trend", key="home_trend_btn"):
+    st.markdown(t["homepage2"])
+    st.markdown(t["homepage3"])
+    if st.button(t["homepage4"], key="home_trend_btn"):
         st.query_params["page"] = "HDB Price Trend"
         st.session_state.page = "HDB Price Trend"
         st.rerun()
 
    
-    st.markdown("#### Accurate Price Predictions 💰")
-    st.markdown("Know what a fair price should be, and avoid overpaying for your next home.")
+    st.markdown(t["homepage5"])
+    st.markdown(t["homepage6"])
     if st.button("Go to Price Prediction", key="home_predict_btn"):
         st.query_params["page"] = "Predict Your HDB Price"
         st.session_state.page = "Predict Your HDB Price"
         st.rerun()
 
-    st.markdown("#### Find Your Ideal Home 🔎")
-    st.markdown("Easily filter properties by price, location, and quality to find your ideal home.")
+    st.markdown(t["homepage8"])
+    st.markdown(t["homepage9"])
     if st.button("Go to Home Finder", key="home_finder_btn"):
         st.query_params["page"] = "Find Your Ideal Home"
         st.session_state.page = "Find Your Ideal Home"
         st.rerun()
             
-        
-        
-
     
     st.markdown("---")
+    st.markdown(t["contact"])
 
 # Plot HDB Price Trend
 elif page == "HDB Price Trend":
     
-    st.title("HDB Price Trend")
+    st.title(t["price1"])
     
     # Load Data
     # Get the directory where the script is running
@@ -420,19 +417,20 @@ elif page == "HDB Price Trend":
     ax.yaxis.grid(True, linestyle='--', alpha=0.7)
     st.pyplot(fig)
     
-    st.markdown("## 🔍 Key Trends in HDB Resale Market")
+    st.subheader(t["price3"])
 
-    st.markdown("""
-    - 🏠 **Fewer resale flats priced below $300k** in recent years  
-    - 💸 **Strong growth in high-value transactions** ($700k and above), especially post-2021  
-    - 📉 **Sharp dip in early 2020 due to COVID-19**, followed by strong recovery  
-    - 📈 **Rising resale prices** driven by demand, inflation, and market trends  
-    - 🔺 **Overall shift toward higher-priced HDB flats** over time  
-    """)
+    st.markdown(
+    f"""
+    - {t['price4']}
+    - {t['price5']}
+    - {t['price6']}
+    - {t['price7']}
+    - {t['price8']}
+    """
+    )
 
-
-    st.subheader("Average Price Over Time")
-    st.warning('Please select the Town, Number of Rooms and Remaining Lease Years you are interested for the HDB to view the monthly trend of resale HDB price based on different filters!')
+    st.subheader(t["price9"])
+    st.warning(t["price10"])
 
 
     # Convert 'month' column to datetime format
@@ -460,11 +458,11 @@ elif page == "HDB Price Trend":
     # UI Layout for filters
     col1, col2, col3 = st.columns(3)
     with col1:
-        selected_town = st.selectbox("Select a Town:", ["All"] + unique_towns, index=0)
+        selected_town = st.selectbox(t["price11"], ["All"] + unique_towns, index=0)
     with col2:
-        selected_flat_type = st.selectbox("Select Number of Rooms:", ["All"] + unique_flat_type, index=0)
+        selected_flat_type = st.selectbox(t["price12"], ["All"] + unique_flat_type, index=0)
     with col3:
-        selected_remaining_lease_years = st.selectbox("Select Remaining Lease Years:", ["All"] + unique_lease_range, index=0)
+        selected_remaining_lease_years = st.selectbox(t["price13"], ["All"] + unique_lease_range, index=0)
 
     # Filter data based on selection
     if selected_town != "All":
@@ -510,10 +508,9 @@ elif page == "Predict Your HDB Price":
         else:
             st.warning("Please fill out all fields!")
 
-elif page == "Help & About Us":
-    st.title("About Us")
 
-    st.markdown(t["contact"])
+
+    
  
 
 # Find Your Ideal Home Page
