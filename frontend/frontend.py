@@ -10,6 +10,7 @@ from sklearn.linear_model import LinearRegression
 import base64
 import plotly.express as px
 import os
+from dynamic_filter import dynamic_filter 
 
 
 st.set_page_config(page_title="HDB Prediction and Finder", layout="wide")
@@ -406,67 +407,81 @@ elif page == "Help & About Us":
     st.markdown(t["contact"])
  
 
-# Find Your Ideal Home Page
-
-# Initialize session state to track quiz status
-if 'quiz_started' not in st.session_state:
-    st.session_state.quiz_started = False
-if 'quiz_answers' not in st.session_state:
-    st.session_state.quiz_answers = {}
-
-# Find Your Ideal Home Page
 elif page == "Find Your Ideal Home":
+
+    @st.cache_data
+    def load_data():
+        return pd.read_csv("resale_price_cleaned.csv")
+
+    df = load_data()
+
+    # --- Page UI ---
     st.title("Find Your Ideal HDB")
 
-    # Ask user to click a button to start the quiz
-    if not st.session_state.quiz_started:
-        start_quiz = st.button("Start Quiz")
-        if start_quiz:
-            st.session_state.quiz_started = True
+    st.markdown("Select your budget and flat type, then choose 3 to 5 filters to narrow down your home search.")
 
-    if st.session_state.quiz_started:
-        st.subheader("Answer the Following Questions to Find Your Ideal HDB")
+    # Required filters
+    budget_range = st.slider("Select your Budget Range (SGD)", 100000, 1500000, (400000, 700000), step=10000)
 
-        # Question 1: Budget Range
-        if 'budget' not in st.session_state.quiz_answers:
-            budget = st.radio("What is your budget?", ["Below $300,000", "$300,000 - $500,000", "Above $500,000"])
-            if st.button("Next"):
-                st.session_state.quiz_answers['budget'] = budget
-                # Use session state to manage navigation to the next question
-                st.rerun()
+    flat_type_map = {
+        "1 ROOM": 1,
+        "2 ROOM": 2,
+        "3 ROOM": 3,
+        "4 ROOM": 4,
+        "5 ROOM": 5,
+        "6 ROOM": 6,
+        "JUMBO": 7
+    }
 
-        # Question 2: Number of Bedrooms
-        elif 'num_bedrooms' not in st.session_state.quiz_answers:
-            num_bedrooms = st.selectbox("How many bedrooms would you like?", [1, 2, 3, 4, 5])
-            if st.button("Next"):
-                st.session_state.quiz_answers['num_bedrooms'] = num_bedrooms
-                st.rerun()
+    selected_labels = st.multiselect("Select Flat Type", list(flat_type_map.keys()))
+    flat_types = [flat_type_map[lbl] for lbl in selected_labels if lbl in flat_type_map]
 
-        # Question 3: Proximity to MRT Station
-        elif 'proximity_mrt' not in st.session_state.quiz_answers:
-            proximity_mrt = st.selectbox("How close do you want your HDB to be to an MRT station?", ["Very Close", "Moderately Close", "Far"])
-            if st.button("Next"):
-                st.session_state.quiz_answers['proximity_mrt'] = proximity_mrt
-                st.rerun()
 
-        # Question 4: Preferred Town
-        elif 'preferred_town' not in st.session_state.quiz_answers:
-            preferred_town = st.selectbox("Which town would you prefer?", ["Town A", "Town B", "Town C", "Town D"])
-            if st.button("Next"):
-                st.session_state.quiz_answers['preferred_town'] = preferred_town
-                st.rerun()
+    if budget_range and flat_types:
+        # --- Optional Filters ---
+        all_filters = ['town', 'storey_range', 'floor_area_sqm', 'remaining_lease', 'nearest_mrt_distance', 'nearest_bus_distance', 'education_score', 'shopping_score', 'food_score', 'recreation_score', 'healthcare_score']
+        filter_order = st.multiselect("Choose up to 5 filters:", all_filters, max_selections=5)
 
-        # After all questions are answered, show the ideal HDB suggestion
-        else:
-            st.write("### Based on your answers, here is your ideal HDB:")
-            st.write(f"**Budget:** {st.session_state.quiz_answers['budget']}")
-            st.write(f"**Number of Bedrooms:** {st.session_state.quiz_answers['num_bedrooms']}")
-            st.write(f"**Proximity to MRT:** {st.session_state.quiz_answers['proximity_mrt']}")
-            st.write(f"**Preferred Town:** {st.session_state.quiz_answers['preferred_town']}")
-            st.write("We have found an HDB that matches your preferences!")
+        filter_values = {}
 
-            # Reset the quiz for next user
-            if st.button("Restart Quiz"):
-                st.session_state.quiz_started = False
-                st.session_state.quiz_answers = {}
-                st.rerun()
+        if 'town' in filter_order:
+            filter_values['town'] = st.multiselect("Select Town(s):", sorted(df['town'].dropna().unique()))
+
+        if 'storey_range' in filter_order:
+            storey = st.slider("Select Storey Range:", 1, 50, (5, 25))
+            filter_values['storey_range'] = storey
+
+        if 'floor_area_sqm' in filter_order:
+            area = st.slider("Select Floor Area (sqm):", 30, 150, (70, 100))
+            filter_values['floor_area_sqm'] = area
+
+        if 'remaining_lease' in filter_order:
+            lease = st.slider("Select Remaining Lease (Years):", 1, 99, (60, 99))
+            filter_values['remaining_lease'] = lease
+
+        if 'nearest_mrt_distance' in filter_order:
+            mrt_choice = st.selectbox("Max MRT Distance:", ['<100m', '<500m', '<1km', '<2km', '<3km'])
+            filter_values['nearest_mrt_distance'] = {
+                '<100m': 100,
+                '<500m': 500,
+                '<1km': 1000,
+                '<2km': 2000,
+                '<3km': 3000
+            }[mrt_choice]
+
+        if 'nearest_bus_distance' in filter_order:
+            bus_choice = st.selectbox("Max Bus Distance:", ['<100m', '<500m', '<1km'])
+            filter_values['nearest_bus_distance'] = {'<100m': 100, '<500m': 500, '<1km': 1000}[bus_choice]
+
+        for score in ['education_score', 'shopping_score', 'food_score', 'recreation_score', 'healthcare_score']:
+            if score in filter_order:
+                val = st.slider(f"Min {score.replace('_', ' ').title()} (1-5)", 1, 5, 3)
+                filter_values[score] = val
+
+
+
+        # --- Filter Button ---
+        if st.button("Find My HDB"):
+            results = dynamic_filter(df, budget_range, flat_types, filter_order, filter_values)
+            st.write(f"### Showing top {min(len(results), 10)} of {len(results)} results")
+            st.dataframe(results.head(10))
