@@ -363,8 +363,6 @@ if page == "Homepage":
 
     with left_col:
 
-
-   
         st.markdown(t["homepage5"])
         st.markdown(t["homepage6"])
         if st.button(t["homepage7"], key="home_predict_btn"):
@@ -381,7 +379,7 @@ if page == "Homepage":
 
     with right_col:
         st.markdown("<div style='height:80px;'></div>", unsafe_allow_html=True)
-        st.image("/Users/hushiqi/Desktop/DSE3101-HDB-Decode/frontend/hdb5.jpeg", use_container_width=True)
+        st.image("hdb5.jpeg", use_container_width=True)
 
 
     
