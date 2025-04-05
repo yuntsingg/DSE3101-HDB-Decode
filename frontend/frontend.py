@@ -52,7 +52,7 @@ language = st.radio("Select Language:", ["English", "Chinese", "Malay", "Tamil"]
 translations = {
     "English": {
         "title": "Welcome to HDB Decode",
-        "description": "HDB Decode is an innovative platform designed to help you make smarter decisions when buying or selling second-hand HDB flats. Our price prediction algorithms, filtering tools, and elderly-friendly features simplify the home-buying experience — whether you're a first-time buyer or a seasoned property investor.",
+        "description": "HDB Decode is an innovative platform designed to help you make smarter decisions when buying or selling second-hand HDB flats. Our price prediction algorithms and filtering tools simplify the home-buying experience — whether you're a first-time buyer or a seasoned property investor.",
         "homepage1": "What can HDB Decode do?",
         "homepage2" : "**Understand Market Trends 💸**",
         "homepage3" : "Get insights into price movements so you can time your purchase wisely.",
@@ -68,9 +68,9 @@ translations = {
         "price3" : "🔍 Key Trends in HDB Resale Market",
         "price4" : "🏠 Fewer resale flats priced below $300k in recent years",
         "price5" : "💸 Strong growth in high-value transactions ($700k and above), especially post-2021",
-        "price6" : "📉 Sharp dip in early 2020 due to COVID-19, followed by strong recovery",
+        "price6" : "📉 Sharp dip in transactions in early 2020 due to COVID-19, followed by strong recovery",
         "price7" : "📈 Rising resale prices driven by demand, inflation, and market trends",
-        "price8" : "🔺 Overall shift toward higher-priced HDB flats over time",
+        "price8" : "🔺 Overall increase in proportion of more expensive HDBs ($500k and above)",
         "price9" : "Average Price Over Time",
         "price10" : "Please select the Town, Number of Rooms and Remaining Lease Years you are interested for the HDB to view the monthly trend of resale HDB price based on different filters!",
         "price11" : "Select a Town:",
@@ -88,7 +88,7 @@ translations = {
         "sidebar3" : "📈 Predict Your HDB Price",
         "sidebar4" : "🏡 Find Your Ideal Home",
         "contact": "**Need help? Contact us at hdbdecode@gmail.com**",
-        "navigation" : "Navigation"
+        "navigation" : "Menu"
         
     },
     "Chinese": {
@@ -133,28 +133,28 @@ translations = {
     },
     "Malay": {
         "title": "Selamat datang ke HDB Decode",
-        "description": "HDB Decode ialah platform inovatif yang direka untuk membantu anda membuat keputusan yang lebih bijak apabila membeli atau menjual flat HDB terpakai. Algoritma ramalan harga, alat penapisan dan ciri mesra warga emas kami memudahkan pengalaman membeli rumah — sama ada anda pembeli kali pertama atau pelabur hartanah berpengalaman.",
+        "description": "HDB Decode ialah platform inovatif yang direka untuk membantu anda membuat keputusan yang lebih bijak apabila membeli atau menjual flat HDB jualan semula. Algoritma ramalan harga dan alat tapis kami memudahkan pengalaman membeli rumah — sama ada anda pembeli kali pertama atau pelabur hartanah berpengalaman.",
         "homepage1": "Apa yang boleh HDB Decode lakukan?",
         "homepage2" : "**Fahami Trend Pasaran 💸**",
         "homepage3" : "Dapatkan cerapan tentang pergerakan harga supaya anda boleh menentukan masa pembelian anda dengan bijak.",
-        "homepage4" : "Pergi ke Aliran Harga",
+        "homepage4" : "Trend Harga",
         "homepage5" : "**Ramalan Harga Tepat 💰**",
-        "homepage6" : "Ketahui harga yang berpatutan, dan elakkan membayar lebih untuk rumah anda yang seterusnya.",
-        "homepage7" : "Pergi ke Ramalan Harga",
-        "homepage8" : "**Cari Rumah Ideal Anda 🔎**",
-        "homepage9" : "Tapis hartanah mengikut harga, lokasi dan kualiti dengan mudah untuk mencari rumah ideal anda.",
-        "homepage10" : "Pergi ke Pencari Rumah",
-        "price1" : "Aliran Harga HDB",
+        "homepage6" : "Ketahui harga yang berpatutan, dan elak membayar lebih untuk rumah anda yang seterusnya.",
+        "homepage7" : "Ramalan Harga",
+        "homepage8" : "**Cari Rumah Impian Anda 🔎**",
+        "homepage9" : "Tapis hartanah mengikut harga, lokasi dan kualiti dengan mudah untuk mencari rumah impian anda.",
+        "homepage10" : "Carian Rumah",
+        "price1" : "Trend Harga HDB",
         "price2" : "Transaksi Jualan Semula mengikut Kategori Harga",
         "price3" : "🔍 Trend Utama dalam Pasaran Jualan Semula HDB",
-        "price4" : "🏠 Lebih sedikit rumah pangsa jualan semula berharga di bawah $300k dalam beberapa tahun kebelakangan ini",
-        "price5" : "💸 Pertumbuhan kukuh dalam urus niaga bernilai tinggi ($700k dan ke atas), terutamanya selepas 2021",
-        "price6" : "📉 Penurunan mendadak pada awal 2020 disebabkan oleh COVID-19, diikuti dengan pemulihan yang kukuh",
+        "price4" : "🏠 Kurang rumah pangsa jualan semula berharga di bawah $300k dalam beberapa tahun kebelakangan ini",
+        "price5" : "💸 Pertumbuhan kukuh transaksi bernilai tinggi (lebih $700k), terutamanya selepas 2021",
+        "price6" : "📉 Penurunan mendadak bilangan transaksi awal 2020 disebabkan oleh COVID-19, diikuti dengan pemulihan yang kukuh",
         "price7" : "📈 Harga jualan semula yang meningkat didorong oleh permintaan, inflasi dan trend pasaran",
-        "price8" : "🔺 Peralihan keseluruhan ke arah flat HDB berharga lebih tinggi dari semasa ke semasa",
+        "price8" : "🔺 Peralihan keseluruhan ke arah flat HDB berharga lebih tinggi (lebih $500k)",
         "price9" : "Harga Purata Sepanjang Masa",
-        "price10" : "Sila pilih Bandar, Bilangan Bilik dan Baki Tahun Pajakan yang anda berminat untuk HDB untuk melihat trend bulanan harga jualan semula HDB berdasarkan penapis yang berbeza!",
-        "price11" : "Pilih Pekan:",
+        "price10" : "Sila pilih Bandar, Bilangan Bilik dan Baki Tahun Pajakan yang anda berminat untuk melihat trend bulanan harga jualan semula HDB berdasarkan penapis yang berbeza!",
+        "price11" : "Pilih Bandar:",
         "price12" : "Pilih Bilangan Bilik:",
         "price13" : "Pilih Baki Tahun Pajakan:",
         "predict1" : "Ramalkan Harga HDB Anda",
@@ -165,11 +165,11 @@ translations = {
         "predict6" : "Bilangan Tahun Baki Pajakan",
         "predict7" : "Ramalkan Harga",
         "sidebar1" : "🏠 Laman Utama",
-        "sidebar2" : "📊 HDB Aliran Harga",
+        "sidebar2" : "📊 Trend Harga HDB",
         "sidebar3" : "📈 Ramalkan Harga HDB Anda",
-        "sidebar4" : "🏡 Cari Rumah Ideal Anda",
+        "sidebar4" : "🏡 Cari Rumah Impian Anda",
         "contact": "**Perlu bantuan? Hubungi kami di hdbdecode@gmail.com**",
-        "navigation" : "Navigasi"
+        "navigation" : "Menu"
     },
     "Tamil": {
         "title": "HDB Decodeக்கு உங்களை வரவேற்கிறோம்",
@@ -353,14 +353,14 @@ if page == "Homepage":
    
     st.markdown(t["homepage5"])
     st.markdown(t["homepage6"])
-    if st.button("Go to Price Prediction", key="home_predict_btn"):
+    if st.button(t["homepage7"], key="home_predict_btn"):
         st.query_params["page"] = "Predict Your HDB Price"
         st.session_state.page = "Predict Your HDB Price"
         st.rerun()
 
     st.markdown(t["homepage8"])
     st.markdown(t["homepage9"])
-    if st.button("Go to Home Finder", key="home_finder_btn"):
+    if st.button(t["homepage10"], key="home_finder_btn"):
         st.query_params["page"] = "Find Your Ideal Home"
         st.session_state.page = "Find Your Ideal Home"
         st.rerun()
@@ -401,7 +401,7 @@ elif page == "HDB Price Trend":
     category_counts.index = pd.to_datetime(category_counts.index)
 
     # Stacked bar chart
-    st.subheader("Resale Transactions by Price Category")
+    st.subheader(t["price2"])
     fig, ax = plt.subplots(figsize=(12, 6))
     ax.set_axisbelow(True)
     category_counts.plot(kind='bar', stacked=True, colormap='viridis', width=0.8, ax=ax)
