@@ -5,12 +5,14 @@ import seaborn as sns
 import folium
 from folium.plugins import HeatMap
 from streamlit_folium import folium_static
+from streamlit_folium import st_folium
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import base64
 import plotly.express as px
 import os
 from dynamic_filter import dynamic_filter 
+from folium.features import CustomIcon
 
 
 
@@ -96,6 +98,13 @@ translations = {
         "sidebar2" : "📊 HDB Price Trend",
         "sidebar3" : "📈 Predict Your HDB Price",
         "sidebar4" : "🏡 Find Your Ideal Home",
+        "ideal1" : "Compare different HDBs",
+        "ideal2" : "Enter Postal Code:",
+        "ideal3" : "Add Postal Code",
+        "ideal4" : "Please input a valid HDB postal code.",
+        "ideal5" : "Added Postal Codes",
+        "ideal6" : "❌ Remove",
+        "ideal7" : "HDB Details",
         "contact": "**Need help? Contact us at hdbdecode@gmail.com**",
         "navigation" : "Menu"
         
@@ -137,6 +146,13 @@ translations = {
         "sidebar2" : "📊 组屋价格趋势",
         "sidebar3" : "📈 预测您的 HDB 价格",
         "sidebar4" : "🏡 找到理想的家",
+        "ideal1" : "Compare different HDBs",
+        "ideal2" : "Enter Postal Code:",
+        "ideal3" : "Add Postal Code",
+        "ideal4" : "Please input a valid HDB postal code.",
+        "ideal5" : "Added Postal Codes",
+        "ideal6" : "❌ Remove",
+        "ideal7" :"HDB Details",
         "contact": "**有问题或需要帮助？欢迎通过 hdbdecode@gmail.com 联系我们!**",
         "navigation" : "菜单"
     },
@@ -177,6 +193,13 @@ translations = {
         "sidebar2" : "📊 Trend Harga HDB",
         "sidebar3" : "📈 Ramalkan Harga HDB Anda",
         "sidebar4" : "🏡 Cari Rumah Impian Anda",
+        "ideal1" : "Bandingkan HDB yang berbeza",
+        "ideal2" : "Masukkan Poskod:",
+        "ideal3" : "Tambah Poskod",
+        "ideal4" : "Sila masukkan poskod HDB yang sah.",
+        "ideal5" : "Ditambah Poskod",
+        "ideal6" : "❌ Alih keluar",
+        "ideal7" : "Butiran HDB",
         "contact": "**Perlu bantuan? Hubungi kami di hdbdecode@gmail.com**",
         "navigation" : "Menu"
     },
@@ -217,6 +240,13 @@ translations = {
         "sidebar2" : "📊 HDB விலை போக்கு",
         "sidebar3" : "📈 உங்கள் HDB விலையை கணிக்கவும்",
         "sidebar4" : "🏡 உங்கள் சிறந்த வீட்டைக் கண்டறியவும்",
+        "ideal1" : "வெவ்வேறு HDB-களை ஒப்பிடுக",
+        "ideal2" : "அஞ்சல் குறியீட்டை உள்ளிடவும்:",
+        "ideal3" : "அஞ்சல் குறியீட்டைச் சேர்க்கவும்",
+        "ideal4" : "தயவுசெய்து செல்லுபடியாகும் HDB அஞ்சல் குறியீட்டை உள்ளிடவும்.",
+        "ideal5" : "அஞ்சல் குறியீடுகள் சேர்க்கப்பட்டது",
+        "ideal6" : "❌ அகற்று",
+        "ideal7" : "HDB விவரங்கள்",
         "contact": "**உதவி தேவையா? hdbdecode@gmail.com என்ற முகவரியில் எங்களைத் தொடர்பு கொள்ளவும்.**",
         "navigation" : "வழிசெலுத்தல்"
     }
@@ -614,6 +644,104 @@ elif page == "Find Your Ideal Home":
             results = dynamic_filter(df, budget_range, flat_types, filter_order, filter_values)
             st.write(f"### Showing top {min(len(results), 10)} of {len(results)} results")
             st.dataframe(results.head(10))
+    
+    st.title(t["ideal1"])
+
+    # Load CSV with postal codes, latitudes, and longitudes
+    geospatial_data = pd.read_csv("hdb_geospatial.csv")
+
+    # Initialize session state for storing postal codes
+    if "postal_codes" not in st.session_state:
+        st.session_state.postal_codes = []
+
+    code = st.text_input(t["ideal2"])
+
+    # Add button to append to list
+    if st.button(t["ideal3"]):
+        if code and code not in st.session_state.postal_codes:
+            if code in geospatial_data["postal_code"].values:
+                st.session_state.postal_codes.append(code)
+                
+            else:
+                st.warning(t["ideal4"])
+
+    st.subheader(t["ideal5"])
+
+    cols = st.columns(4)  # Adjust number of columns as needed
+
+    for i, code in enumerate(st.session_state.postal_codes):
+        col = cols[i % 4]  # Wrap into columns
+        with col:
+            st.markdown(f"""
+                <div style='
+                    border: 1px solid #ccc;
+                    padding: 10px;
+                    border-radius: 10px;
+                    margin-bottom: 10px;
+                    background-color: #f9f9f9;
+                    text-align: center;
+                '>
+                    <b>{code}</b>
+                </div>
+            """, unsafe_allow_html=True)
+
+            # Streamlit delete button below the box
+            if st.button(t["ideal6"], key=f"remove_{code}"):
+                st.session_state.postal_codes.remove(code)
+                st.rerun()
+
+    # Filter geospatial data
+    filtered_data = geospatial_data[geospatial_data["postal_code"].isin(st.session_state.postal_codes)]
+
+    # Plot the map
+    if not filtered_data.empty:
+        m = folium.Map(location=[1.3521, 103.8198], zoom_start=12)
+        for _, row in filtered_data.iterrows():
+            popup_text = (
+                f"Postal Code: {row['postal_code']}<br>"
+                f"Nearest MRT: {row['nearest_mrt_name']} ({int(row['nearest_mrt_distance'])}m)<br>"
+                f"Nearest Bus Stop: {row['nearest_bus_name']} ({int(row['nearest_bus_distance'])}m)"
+            )
+            custom_icon = CustomIcon(
+                icon_image="location.png",  
+                icon_size=(45, 45),  # Resize as needed
+            )   
+            folium.Marker(
+                location=[row["latitude"], row["longitude"]],
+                popup=folium.Popup(popup_text, max_width=300),
+                icon = custom_icon
+            ).add_to(m)
+
+        # st.markdown("### 🗺️ Map of Selected HDBs")
+        st_folium(m, width=700, height=500)
+    else:
+        st.info("Add valid postal codes to view them on the map.")
+    
+    if not filtered_data.empty:
+        display_df = filtered_data[[
+            "postal_code",
+            "nearest_mrt_name",
+            "nearest_mrt_distance",
+            "nearest_bus_name",
+            "nearest_bus_distance"
+        ]].rename(columns={
+            "postal_code": "Postal Code",
+            "nearest_mrt_name": "Nearest MRT",
+            "nearest_mrt_distance": "MRT Distance (m)",
+            "nearest_bus_name": "Nearest Bus Stop",
+            "nearest_bus_distance": "Bus Stop Distance (m)"
+        })
+
+        # Round the distances to the nearest whole number
+        display_df["MRT Distance (m)"] = display_df["MRT Distance (m)"].round(0).astype(int)
+        display_df["Bus Stop Distance (m)"] = display_df["Bus Stop Distance (m)"].round(0).astype(int)
+
+        # Drop the index column (row number)
+        display_df = display_df.reset_index(drop=True)
+
+        st.subheader(t["ideal7"])
+        st.dataframe(display_df, use_container_width=True)
+
 
             
     st.markdown("---")
