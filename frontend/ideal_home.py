@@ -1,20 +1,10 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import seaborn as sns
 import folium
-from folium.plugins import HeatMap
-from streamlit_folium import folium_static
 from streamlit_folium import st_folium
-import matplotlib.pyplot as plt
-from sklearn.linear_model import LinearRegression
-import base64
-import plotly.express as px
-import os
-from dynamic_filter import dynamic_filter 
 from folium.features import CustomIcon
-
-
+from dynamic_filter import dynamic_filter
 
 def ideal_home(t):
     tab1, tab2 = st.tabs(["🏡 Find HDBs", "📍 Compare via Postal Code"])
@@ -25,79 +15,66 @@ def ideal_home(t):
             return pd.read_csv("find_your_ideal_home_v3.csv")
 
         df = load_data()
-        df = df.drop_duplicates(subset=["postal_code", "flat_type","storey_range"])
+        df = df.drop_duplicates(subset=["postal_code", "flat_type", "storey_range"])
         df.columns = df.columns.str.strip()
 
-
-        # --- Page UI ---
         st.title("Find Your Ideal HDB")
+        st.markdown("Start by selecting your budget and flat type. You can then refine your search using additional filters below.")
 
-        st.markdown("Select your budget and flat type, then choose 3 to 5 filters to narrow down your home search.")
-
-        # Required filters
-        budget_range = st.slider("Select your Budget Range (SGD)", 220000, 1550000, (400000, 700000), step=10000)
+        # --- Required Filters ---
+        budget_range = st.slider("💰 Select your Budget Range (SGD)", 220000, 1550000, (400000, 700000), step=10000, format="%d")
         flat_types_available = sorted(df["flat_type"].dropna().unique())
-        flat_types = st.multiselect("Select Flat Type", flat_types_available)
+        flat_types = st.multiselect("🏠 Select Flat Type", flat_types_available)
 
+        filter_values = {}
 
-        if budget_range and flat_types:
-            # --- Optional Filters ---
-            all_filters = ['town', 'storey_range',  'remaining_lease', 'nearest_mrt_distance', 'nearest_bus_distance', 'schools', 'shopping', 'food', 'recreation', 'healthcare']
-            filter_order = st.multiselect("Choose up to 5 filters:", all_filters, max_selections=5)
-
-            filter_values = {}
-
-            if 'town' in filter_order:
+        # --- Expandable Optional Filters ---
+        with st.expander("📐 **Additional Flat Attributes**"):
+            st.markdown("Further refine your search by flat characteristics.")
+            if st.checkbox("Filter by Town"):
                 filter_values['town'] = st.multiselect("Select Town(s):", sorted(df['town'].dropna().unique()))
+            if st.checkbox("Filter by Storey Range"):
+                filter_values['storey_range'] = st.slider("Storey Range:", 1, 50, (5, 25))
+            if st.checkbox("Filter by Remaining Lease"):
+                filter_values['remaining_lease'] = st.slider("Remaining Lease (Years):", 1, 99, (60, 99))
 
-            if 'storey_range' in filter_order:
-                storey = st.slider("Select Storey Range:", 1, 50, (5, 25))
-                filter_values['storey_range'] = storey
+        with st.expander("🚇 **Distance Preferences**"):
+            st.markdown("Filter based on proximity to public transport.")
 
-
-            if 'remaining_lease' in filter_order:
-                lease = st.slider("Select Remaining Lease (Years):", 1, 99, (60, 99))
-                filter_values['remaining_lease'] = lease
-
-            if 'nearest_mrt_distance' in filter_order:
+            if st.checkbox("Filter by MRT Distance"):
                 mrt_choice = st.selectbox("Max MRT Distance:", ['<100m', '<500m', '<1km', '<2km', '<3km'])
                 filter_values['nearest_mrt_distance'] = {
-                    '<100m': 100,
-                    '<500m': 500,
-                    '<1km': 1000,
-                    '<2km': 2000,
-                    '<3km': 3000
-                }[mrt_choice]
+        '<100m': 100, '<500m': 500, '<1km': 1000, '<2km': 2000, '<3km': 3000
+    }[mrt_choice]
 
-            if 'nearest_bus_distance' in filter_order:
+
+            if st.checkbox("Filter by Bus Distance"):
                 bus_choice = st.selectbox("Max Bus Distance:", ['<100m', '<500m', '<1km'])
-                filter_values['nearest_bus_distance'] = {'<100m': 100, '<500m': 500, '<1km': 1000}[bus_choice]
+                filter_values['nearest_bus_distance'] = {
+        '<100m': 100, '<500m': 500, '<1km': 1000
+    }[bus_choice]
 
-            # for score in ['education_score', 'shopping_score', 'food_score', 'recreation_score', 'healthcare_score']:
-            #     if score in filter_order:
-            #         val = st.slider(f"Min {score.replace('_', ' ').title()} (1-5)", 1, 5, 3)
-            #         filter_values[score] = val
+
+        with st.expander("🏪 **Amenity Importance**"):
+            st.markdown("Set the minimum acceptable amenity scores (1 = few and far, 5 = many and nearby).")
             for score in ['schools', 'shopping', 'food', 'recreation', 'healthcare']:
-                if score in filter_order:
-                    label = score.replace('_', ' ').title()
+                if st.checkbox(f"Filter by {score.capitalize()} Score"):
                     val = st.radio(
-                        f"How important is access to {label.lower()} ? (Minimum Acceptable score)",
-                        options=[1, 2, 3, 4, 5],
-                        index =2,
-                        horizontal=True,
-                        help="Set the minimum score you're comfortable with.",
-                        key=score
-                    )
+            f"{score.capitalize()} Score",
+            options=[1, 2, 3, 4, 5],
+            index=2,
+            horizontal=True,
+            key=f"radio_{score}"
+        )
                     filter_values[score] = val
 
         
-
-            st.caption(
+        st.caption(
         "🟡 **Amenity Score Guide**: "
         "Score reflects HDB's access to amenities. "
         "**1 = Few and Far**, **5 = Many and Nearby.**")
         
-            with st.expander("ℹ️ What is the Amenity Score?"):
+        with st.expander("ℹ️ What is the Amenity Score?"):
                 st.markdown("""
                 **Amenity Score** reflects how well a location is served by key nearby facilities.  
                 Scores range from 1️⃣ (few and far) to 5️⃣ (many and nearby), giving you a quick sense of convenience and accessibility.
@@ -111,22 +88,108 @@ def ideal_home(t):
 
                 A higher score means better access to essential services and lifestyle options right around the corner.
             """)
+      
+
+
+
+        # @st.cache_data
+        # def load_data():
+        #     return pd.read_csv("find_your_ideal_home_v3.csv")
+
+        # df = load_data()
+        # df = df.drop_duplicates(subset=["postal_code", "flat_type","storey_range"])
+        # df.columns = df.columns.str.strip()
+
+
+        # # --- Page UI ---
+        # st.title("Find Your Ideal HDB")
+
+        # st.markdown("Select your budget and flat type, then choose 3 to 5 filters to narrow down your home search.")
+
+        # # Required filters
+        # budget_range = st.slider("Select your Budget Range (SGD)", 220000, 1550000, (400000, 700000), step=10000)
+        # flat_types_available = sorted(df["flat_type"].dropna().unique())
+        # flat_types = st.multiselect("Select Flat Type", flat_types_available)
+
+
+        # if budget_range and flat_types:
+        #     # --- Optional Filters ---
+        #     all_filters = ['town', 'storey_range',  'remaining_lease', 'nearest_mrt_distance', 'nearest_bus_distance', 'schools', 'shopping', 'food', 'recreation', 'healthcare']
+        #     filter_order = st.multiselect("Choose up to 5 filters:", all_filters, max_selections=5)
+
+        #     filter_values = {}
+
+        #     if 'town' in filter_order:
+        #         filter_values['town'] = st.multiselect("Select Town(s):", sorted(df['town'].dropna().unique()))
+
+        #     if 'storey_range' in filter_order:
+        #         storey = st.slider("Select Storey Range:", 1, 50, (5, 25))
+        #         filter_values['storey_range'] = storey
+
+
+        #     if 'remaining_lease' in filter_order:
+        #         lease = st.slider("Select Remaining Lease (Years):", 1, 99, (60, 99))
+        #         filter_values['remaining_lease'] = lease
+
+        #     if 'nearest_mrt_distance' in filter_order:
+        #         mrt_choice = st.selectbox("Max MRT Distance:", ['<100m', '<500m', '<1km', '<2km', '<3km'])
+        #         filter_values['nearest_mrt_distance'] = {
+        #             '<100m': 100,
+        #             '<500m': 500,
+        #             '<1km': 1000,
+        #             '<2km': 2000,
+        #             '<3km': 3000
+        #         }[mrt_choice]
+
+        #     if 'nearest_bus_distance' in filter_order:
+        #         bus_choice = st.selectbox("Max Bus Distance:", ['<100m', '<500m', '<1km'])
+        #         filter_values['nearest_bus_distance'] = {'<100m': 100, '<500m': 500, '<1km': 1000}[bus_choice]
+
+        #     # for score in ['education_score', 'shopping_score', 'food_score', 'recreation_score', 'healthcare_score']:
+        #     #     if score in filter_order:
+        #     #         val = st.slider(f"Min {score.replace('_', ' ').title()} (1-5)", 1, 5, 3)
+        #     #         filter_values[score] = val
+        #     for score in ['schools', 'shopping', 'food', 'recreation', 'healthcare']:
+        #         if score in filter_order:
+        #             label = score.replace('_', ' ').title()
+        #             val = st.radio(
+        #                 f"How important is access to {label.lower()} ? (Minimum Acceptable score)",
+        #                 options=[1, 2, 3, 4, 5],
+        #                 index =2,
+        #                 horizontal=True,
+        #                 help="Set the minimum score you're comfortable with.",
+        #                 key=score
+        #             )
+        #             filter_values[score] = val
+
+        
 
             
 
 
             # --- Filter Button ---
-            if st.button("Find My HDB"):
-                results = dynamic_filter(df, budget_range, flat_types, filter_order, filter_values)
-                st.write(f"### Showing top {min(len(results), 10)} of {len(results)} results")
-                columns_to_show = [
+        if st.button("Find My HDB"):
+            results = dynamic_filter(df, budget_range, flat_types, filter_values)
+            st.session_state.filtered_results = results
+
+        if "filtered_results" in st.session_state:
+            results = st.session_state.filtered_results
+
+                # Sort dropdown (always visible)
+            sort_option = st.selectbox(
+                    "Sort results by:",
+                    ["Cheapest", "Longest Lease", "Best Amenities"],
+                    key="sort_option_selector"
+                )
+
+                # Prepare and rename DataFrame...
+            display_df = results[[
                     "town", "prediction_reverted", "remaining_lease_reverted", "flat_type", 
                     "storey_range", "address", "postal_code", "nearest_mrt_name", "nearest_bus_name",
                     "education_score", "shopping_score", "food_score", "recreation_score", "healthcare_score"
-                ]
+                ]].copy()
 
-                display_df = results[columns_to_show].copy()
-                display_df.rename(columns={
+            display_df.rename(columns={
                     "town": "Town",
                     "prediction_reverted": "Predicted Price (SGD)",
                     "remaining_lease_reverted": "Remaining Lease (Years)",
@@ -143,18 +206,26 @@ def ideal_home(t):
                     "healthcare_score": "Healthcare"
                 }, inplace=True)
 
-                # Format numeric fields
-                display_df["Predicted Price (SGD)"] = display_df["Predicted Price (SGD)"].round(0).astype(int)
-                display_df["Remaining Lease (Years)"] = display_df["Remaining Lease (Years)"].apply(lambda x: f"{x:.1f}")
-                for col in ["Schools", "Shopping", "Food", "Recreation", "Healthcare"]:
-                    display_df[col] = display_df[col].apply(lambda x: f"{x:.1f}")
+                # Format numeric columns
+            display_df["Predicted Price (SGD)"] = display_df["Predicted Price (SGD)"].round(0).astype(int)
+            display_df["Remaining Lease (Years)"] = display_df["Remaining Lease (Years)"].astype(float).round(1)
+            for col in ["Schools", "Shopping", "Food", "Recreation", "Healthcare"]:
+                display_df[col] = display_df[col].astype(float).round(1)
 
-                # Reset index for cleaner table
-                display_df = display_df.reset_index(drop=True)
+                # Sorting
+            if sort_option == "Cheapest":
+                display_df = display_df.sort_values("Predicted Price (SGD)")
+            elif sort_option == "Longest Lease":
+                display_df = display_df.sort_values("Remaining Lease (Years)", ascending=False)
+            elif sort_option == "Best Amenities":
+                display_df["Avg Amenity Score"] = display_df[["Schools", "Shopping", "Food", "Recreation", "Healthcare"]].mean(axis=1)
+                display_df = display_df.sort_values("Avg Amenity Score", ascending=False)
 
-                st.dataframe(display_df.head(10), use_container_width=True)
-                st.caption(f"Showing top 10 of {len(display_df)} results")
+            display_df = display_df.reset_index(drop=True)
+            st.dataframe(display_df.head(10), use_container_width=True)
+            st.caption(f"Showing top 10 of {len(display_df)} results — sorted by {sort_option}")
 
+              
 
         
 

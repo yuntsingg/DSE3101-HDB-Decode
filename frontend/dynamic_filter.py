@@ -15,7 +15,7 @@ amenity_column_map = {
     'healthcare': 'healthcare_score'
 }
 
-def dynamic_filter(df, budget_range, flat_types, filter_order, filter_values):
+def dynamic_filter(df, budget_range, flat_types, filter_values):
     # Required filters — Budget and Flat Type
     df = df[(df['prediction_reverted'] >= budget_range[0]) & (df['prediction_reverted'] <= budget_range[1])]
     df = df[df['flat_type'].isin(flat_types)]
@@ -23,34 +23,25 @@ def dynamic_filter(df, budget_range, flat_types, filter_order, filter_values):
     # Convert storey_range (string) → midpoint
     df['storey_mid'] = df['storey_range'].apply(extract_storey_mid)
 
-    # Progressive filtering
-    for filter_key in filter_order:
-        if filter_key not in filter_values:
-            continue
-
-        val = filter_values[filter_key]
-
-        if filter_key == 'town':
+    # Apply filters based on available filter keys
+    for key, val in filter_values.items():
+        if key == 'town':
             df = df[df['town'].isin(val)]
-
-        elif filter_key == 'storey_range':
+        elif key == 'storey_range':
             df = df[(df['storey_mid'] >= val[0]) & (df['storey_mid'] <= val[1])]
-
-        elif filter_key == 'remaining_lease':
+        elif key == 'remaining_lease':
             df = df[(df['remaining_lease_reverted'] >= val[0]) & (df['remaining_lease_reverted'] <= val[1])]
-
-        elif filter_key == 'nearest_mrt_distance':
+        elif key == 'nearest_mrt_distance':
             df = df[df['nearest_mrt_distance'] <= val]
-
-        elif filter_key == 'nearest_bus_distance':
+        elif key == 'nearest_bus_distance':
             df = df[df['nearest_bus_distance'] <= val]
+        elif key in amenity_column_map:
+            df = df[df[amenity_column_map[key]] >= val]
 
-        elif filter_key in amenity_column_map:
-            actual_col = amenity_column_map[filter_key]
-            df = df[df[actual_col] >= val]
+    # Deduplicate by postal_code + flat_type + storey
+    df = df.drop_duplicates(subset=["postal_code", "flat_type", "storey_range"])
 
-    # Final deduplication
+    # Sort by price as default
     df = df.sort_values(by='prediction_reverted')
-
 
     return df.reset_index(drop=True)
