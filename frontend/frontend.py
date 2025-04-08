@@ -16,6 +16,7 @@ from folium.features import CustomIcon
 from translations import get_translations
 from homepage import homepage
 from hdb_price_trend import hdb_price_trend
+from predict_hdb_price import predict_hdb_price
 from ideal_home import ideal_home
 
 #Page layout
@@ -189,28 +190,8 @@ elif page == "HDB Price Trend":
    
 # Predict Your HDB Price
 elif page == "Predict Your HDB Price":
-    st.title("Predict Your HDB's Price")
-    
-    st.subheader("Enter Your HDB Details")
-    
-    # Input fields
-    postal_code = st.text_input("Postal Code")
-    floor_area = st.number_input("Floor Area (sq ft)", min_value=0)
-    floor_number = st.number_input("Floor Number", min_value=0)
-    lease_left = st.number_input("Number of Years of Lease Left", min_value=0)
-    
-    if st.button("Predict Price"):
-        # Simulate a prediction model
-        if postal_code and floor_area > 0:
-            predicted_price = floor_area * 300 + floor_number * 50 + lease_left * 1000  # Example formula
-            st.write(f"### Predicted Price: ${predicted_price:,.2f}")
-        else:
-            st.warning("Please fill out all fields!")
+    predict_hdb_price(t)
 
-
-    
-    st.markdown("---")
-    st.markdown(t["contact"])
 
     
  

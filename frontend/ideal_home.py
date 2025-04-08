@@ -91,6 +91,23 @@ def ideal_home(t):
             st.write(f"### Showing top {min(len(results), 10)} of {len(results)} results")
             st.dataframe(results.head(10))
     
+
+
+    with st.expander("ℹ️ What is the Amenity Score?"):
+        st.markdown("""
+            **Amenity Score** reflects how well a location is served by key nearby facilities.  
+            Scores range from 1️⃣ (few and far) to 5️⃣ (many and nearby), giving you a quick sense of convenience and accessibility.
+
+            We evaluate amenities across five categories:
+            - 🏥 **Healthcare**: Clinics, hospitals  
+            - 🍽️ **Food**: Food courts  
+            - 🛍️ **Shopping**: Supermarkets, malls  
+            - 🎓 **Education**: Primary and secondary schools  
+            - 🌳 **Recreation**: Parks, gyms, libraries  
+
+            A higher score means better access to essential services and lifestyle options right around the corner.
+        """)
+        
     st.title(t["ideal1"])
 
     # Load CSV with postal codes, latitudes, and longitudes
@@ -135,6 +152,7 @@ def ideal_home(t):
             if st.button(t["ideal6"], key=f"remove_{code}"):
                 st.session_state.postal_codes.remove(code)
                 st.rerun()
+
 
     # Filter geospatial data
     filtered_data = geospatial_data[geospatial_data["postal_code"].isin(st.session_state.postal_codes)]
