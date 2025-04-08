@@ -192,10 +192,6 @@ elif page == "HDB Price Trend":
 elif page == "Predict Your HDB Price":
     predict_hdb_price(t)
 
-
-    
- 
-
 elif page == "Find Your Ideal Home":
     ideal_home(t)
     

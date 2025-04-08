@@ -2,10 +2,18 @@ import pandas as pd
 
 def extract_storey_mid(s):
     try:
-        parts = s.split(" to ")
+        parts = s.split(" To ")
         return (int(parts[0]) + int(parts[1])) // 2
     except:
         return None
+
+amenity_column_map = {
+    'schools': 'education_score',
+    'shopping': 'shopping_score',
+    'food': 'food_score',
+    'recreation': 'recreation_score',
+    'healthcare': 'healthcare_score'
+}
 
 def dynamic_filter(df, budget_range, flat_types, filter_order, filter_values):
     # Required filters — Budget and Flat Type
@@ -37,11 +45,12 @@ def dynamic_filter(df, budget_range, flat_types, filter_order, filter_values):
         elif filter_key == 'nearest_bus_distance':
             df = df[df['nearest_bus_distance'] <= val]
 
-        elif filter_key in ['education_score', 'shopping_score', 'food_score', 'recreation_score', 'healthcare_score']:
-            df = df[df[filter_key] >= val]
+        elif filter_key in amenity_column_map:
+            actual_col = amenity_column_map[filter_key]
+            df = df[df[actual_col] >= val]
 
     # Final deduplication
     df = df.sort_values(by='prediction_reverted')
-    df = df.drop_duplicates(subset=['lat', 'lon', 'flat_type', 'floor_area_sqm'])
+
 
     return df.reset_index(drop=True)
